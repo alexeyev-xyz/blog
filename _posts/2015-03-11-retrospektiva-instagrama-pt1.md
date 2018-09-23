@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Ретроспектива инстаграма pt.1
-tags:[Imported]
+layout: post
+title: Ретроспектива инстаграма pt.1
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Ретроспектива инстаграма pt.1
 

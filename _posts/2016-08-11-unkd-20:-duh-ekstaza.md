@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 20: Дух Экстаза
-tags:[Imported]
+layout: post
+title: УНКД 20: Дух Экстаза
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #20: Дух Экстаза 
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:shalteboi – Качели Коты Гражданка
-tags:[Imported]
+layout: post
+title: shalteboi – Качели Коты Гражданка
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # shalteboi – Качели Коты Гражданка
 

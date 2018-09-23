@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Hate pt.1 - Мельхиор
-tags:[Imported]
+layout: post
+title: Hate pt.1 - Мельхиор
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Hate pt.1 - Мельхиор
 

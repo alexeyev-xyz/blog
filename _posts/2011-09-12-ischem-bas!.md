@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Ищем бас!
-tags:[Imported]
+layout: post
+title: Ищем бас!
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Ищем бас!
 

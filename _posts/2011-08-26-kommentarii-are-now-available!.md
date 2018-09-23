@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Комментарии are now available!
-tags:[Imported]
+layout: post
+title: Комментарии are now available!
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Комментарии are now available!
 

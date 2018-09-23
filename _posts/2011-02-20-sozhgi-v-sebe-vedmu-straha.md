@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Сожги в себе ведьму страха
-tags:[Imported]
+layout: post
+title: Сожги в себе ведьму страха
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Сожги в себе ведьму страха
 

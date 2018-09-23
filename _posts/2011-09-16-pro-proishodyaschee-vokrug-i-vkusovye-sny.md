@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Про происходящее вокруг и вкусовые сны
-tags:[Imported]
+layout: post
+title: Про происходящее вокруг и вкусовые сны
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Про происходящее вокруг и вкусовые сны
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Аллюзии в Симпсонах: кинематограф
-tags:[Imported]
+layout: post
+title: Аллюзии в Симпсонах: кинематограф
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Аллюзии в Симпсонах: кинематограф
 

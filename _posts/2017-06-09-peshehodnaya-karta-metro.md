@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Пешеходная карта метро
-tags:[Imported]
+layout: post
+title: Пешеходная карта метро
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Пешеходная карта метро
 

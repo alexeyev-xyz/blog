@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Новинки плеера
-tags:[Imported]
+layout: post
+title: Новинки плеера
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Новинки плеера
 

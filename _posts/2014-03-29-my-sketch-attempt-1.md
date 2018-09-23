@@ -1,7 +1,8 @@
 ---
-layout:post
-title:My sketch attempt 1
-tags:[Imported]
+layout: post
+title: My sketch attempt 1
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # My sketch attempt 1
 

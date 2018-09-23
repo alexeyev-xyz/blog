@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Улиточка
-tags:[Imported]
+layout: post
+title: Улиточка
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Улиточка
 

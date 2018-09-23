@@ -1,7 +1,8 @@
 ---
-layout:post
-title:ВЛАД ЗАПИСАЛСЯ В БАССЕИН
-tags:[Imported]
+layout: post
+title: ВЛАД ЗАПИСАЛСЯ В БАССЕИН
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # ВЛАД ЗАПИСАЛСЯ В БАССЕИН
 

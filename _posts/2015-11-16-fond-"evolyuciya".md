@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Фонд "Эволюция"
-tags:[Imported]
+layout: post
+title: Фонд "Эволюция"
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Фонд "Эволюция"
 

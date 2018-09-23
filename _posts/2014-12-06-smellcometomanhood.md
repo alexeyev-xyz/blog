@@ -1,7 +1,8 @@
 ---
-layout:post
-title:smellcometomanhood
-tags:[Imported]
+layout: post
+title: smellcometomanhood
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # #smellcometomanhood
 

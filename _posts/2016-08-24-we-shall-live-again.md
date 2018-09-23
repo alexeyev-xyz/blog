@@ -1,7 +1,8 @@
 ---
-layout:post
-title:We shall live again
-tags:[Imported]
+layout: post
+title: We shall live again
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # We shall live again
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Сергей Петрович Капица
-tags:[Imported]
+layout: post
+title: Сергей Петрович Капица
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Сергей Петрович Капица
 

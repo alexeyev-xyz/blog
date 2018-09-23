@@ -1,7 +1,8 @@
 ---
-layout:post
-title:...Can I come with you?
-tags:[Imported]
+layout: post
+title: ...Can I come with you?
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # ...Can I come with you?
 

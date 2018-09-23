@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Московские стройки
-tags:[Imported]
+layout: post
+title: Московские стройки
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Московские стройки 
 

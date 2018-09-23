@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Макроботаника
-tags:[Imported]
+layout: post
+title: Макроботаника
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Макроботаника
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Ну че как там педовка?
-tags:[Imported]
+layout: post
+title: Ну че как там педовка?
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Ну че как там педовка?
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Факты обо мне
-tags:[Imported]
+layout: post
+title: Факты обо мне
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Факты обо мне
 

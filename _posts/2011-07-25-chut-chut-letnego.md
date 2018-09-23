@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Чуть-чуть летнего
-tags:[Imported]
+layout: post
+title: Чуть-чуть летнего
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Чуть-чуть летнего 
 

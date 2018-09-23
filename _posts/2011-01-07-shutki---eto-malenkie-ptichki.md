@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Шутки - это маленькие птички
-tags:[Imported]
+layout: post
+title: Шутки - это маленькие птички
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Шутки - это маленькие птички
 

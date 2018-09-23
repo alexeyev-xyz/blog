@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Мракобесие
-tags:[Imported]
+layout: post
+title: Мракобесие
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Мракобесие
 

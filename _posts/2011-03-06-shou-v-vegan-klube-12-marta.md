@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Шоу в Веган-клубе 12 марта
-tags:[Imported]
+layout: post
+title: Шоу в Веган-клубе 12 марта
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Шоу в Веган-клубе 12 марта
 

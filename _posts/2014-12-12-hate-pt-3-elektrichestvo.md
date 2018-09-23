@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Hate pt 3. Электричество
-tags:[Imported]
+layout: post
+title: Hate pt 3. Электричество
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Hate pt 3. Электричество
 

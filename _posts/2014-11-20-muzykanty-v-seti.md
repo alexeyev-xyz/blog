@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Музыканты в сети
-tags:[Imported]
+layout: post
+title: Музыканты в сети
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Музыканты в сети
 

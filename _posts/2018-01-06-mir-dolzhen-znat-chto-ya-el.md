@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Мир должен знать, что я ел
-tags:[Imported]
+layout: post
+title: Мир должен знать, что я ел
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Мир должен знать, что я ел
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Что я понял к 22
-tags:[Imported]
+layout: post
+title: Что я понял к 22
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Что я понял к 22
 

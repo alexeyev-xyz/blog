@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Первое первое первое
-tags:[Imported]
+layout: post
+title: Первое первое первое
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Первое первое первое
 

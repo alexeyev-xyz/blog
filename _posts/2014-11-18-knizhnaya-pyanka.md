@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Книжная пьянка
-tags:[Imported]
+layout: post
+title: Книжная пьянка
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Книжная пьянка
 

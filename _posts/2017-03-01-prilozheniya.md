@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Приложения
-tags:[Imported]
+layout: post
+title: Приложения
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Приложения
 

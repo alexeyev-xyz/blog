@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Бизнес-идея: геомузон
-tags:[Imported]
+layout: post
+title: Бизнес-идея: геомузон
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Бизнес-идея: геомузон
 

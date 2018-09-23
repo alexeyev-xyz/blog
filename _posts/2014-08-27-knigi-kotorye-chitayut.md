@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Книги, которые читают
-tags:[Imported]
+layout: post
+title: Книги, которые читают
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Книги, которые читают
 

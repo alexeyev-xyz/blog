@@ -1,7 +1,8 @@
 ---
-layout:post
-title:5 минут на чтение
-tags:[Imported]
+layout: post
+title: 5 минут на чтение
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # 5 минут на чтение
 

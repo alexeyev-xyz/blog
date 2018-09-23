@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 9: Кальян
-tags:[Imported]
+layout: post
+title: УНКД 9: Кальян
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #9: Кальян
 

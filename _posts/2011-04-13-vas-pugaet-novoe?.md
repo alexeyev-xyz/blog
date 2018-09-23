@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Вас пугает новое?
-tags:[Imported]
+layout: post
+title: Вас пугает новое?
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Вас пугает новое? 
 

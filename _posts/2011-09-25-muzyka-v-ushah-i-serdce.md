@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Музыка в ушах и сердце
-tags:[Imported]
+layout: post
+title: Музыка в ушах и сердце
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Музыка в ушах и сердце
 

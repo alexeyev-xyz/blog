@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Библиотека в подвале
-tags:[Imported]
+layout: post
+title: Библиотека в подвале
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Библиотека в подвале
 

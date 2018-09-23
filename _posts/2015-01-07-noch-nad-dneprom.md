@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Ночь над Днепром
-tags:[Imported]
+layout: post
+title: Ночь над Днепром
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Ночь над Днепром
 

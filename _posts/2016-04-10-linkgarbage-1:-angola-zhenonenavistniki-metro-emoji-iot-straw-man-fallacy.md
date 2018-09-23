@@ -1,7 +1,8 @@
 ---
-layout:post
-title:LinkGarbage 1: Ангола, Женоненавистники, Метро, Emoji, IOT, Straw Man Fallacy
-tags:[Imported]
+layout: post
+title: LinkGarbage 1: Ангола, Женоненавистники, Метро, Emoji, IOT, Straw Man Fallacy
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # LinkGarbage #1: Ангола, Женоненавистники, Метро, Emoji, IOT, Straw Man Fallacy
 

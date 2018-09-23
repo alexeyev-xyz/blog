@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Продуктивность
-tags:[Imported]
+layout: post
+title: Продуктивность
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Продуктивность
 

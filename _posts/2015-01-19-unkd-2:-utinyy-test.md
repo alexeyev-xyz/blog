@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 2: Утиный тест
-tags:[Imported]
+layout: post
+title: УНКД 2: Утиный тест
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #2: Утиный тест
 

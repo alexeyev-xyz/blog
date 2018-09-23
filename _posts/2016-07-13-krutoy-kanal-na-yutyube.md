@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Крутой канал на ютюбе
-tags:[Imported]
+layout: post
+title: Крутой канал на ютюбе
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Крутой канал на ютюбе
 

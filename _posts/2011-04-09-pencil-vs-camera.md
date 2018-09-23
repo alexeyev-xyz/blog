@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Pencil Vs Camera
-tags:[Imported]
+layout: post
+title: Pencil Vs Camera
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Pencil Vs Camera
 

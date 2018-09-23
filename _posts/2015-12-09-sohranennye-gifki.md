@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Сохраненные гифки
-tags:[Imported]
+layout: post
+title: Сохраненные гифки
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Сохраненные гифки 
 

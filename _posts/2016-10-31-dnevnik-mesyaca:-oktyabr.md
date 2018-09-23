@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Дневник месяца: октябрь
-tags:[Imported]
+layout: post
+title: Дневник месяца: октябрь
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Дневник месяца: октябрь
 

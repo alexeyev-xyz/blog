@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Солнечное
-tags:[Imported]
+layout: post
+title: Солнечное
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Солнечное
 

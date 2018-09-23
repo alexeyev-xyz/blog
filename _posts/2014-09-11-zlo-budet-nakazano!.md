@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Зло будет наказано!
-tags:[Imported]
+layout: post
+title: Зло будет наказано!
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Зло будет наказано!
 

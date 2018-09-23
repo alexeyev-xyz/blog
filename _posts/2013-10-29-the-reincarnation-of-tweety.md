@@ -1,7 +1,8 @@
 ---
-layout:post
-title:The reincarnation of Tweety
-tags:[Imported]
+layout: post
+title: The reincarnation of Tweety
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # The reincarnation of Tweety
 

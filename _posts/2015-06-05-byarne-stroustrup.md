@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Бьярне Строуструп
-tags:[Imported]
+layout: post
+title: Бьярне Строуструп
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Бьярне Строуструп 
 

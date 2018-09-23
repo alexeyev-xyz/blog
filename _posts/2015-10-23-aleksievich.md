@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Алексиевич
-tags:[Imported]
+layout: post
+title: Алексиевич
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Алексиевич
 

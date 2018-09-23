@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Карточки не работают
-tags:[Imported]
+layout: post
+title: Карточки не работают
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Карточки не работают
 

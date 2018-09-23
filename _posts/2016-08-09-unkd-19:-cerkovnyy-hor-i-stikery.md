@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 19: Церковный хор и стикеры
-tags:[Imported]
+layout: post
+title: УНКД 19: Церковный хор и стикеры
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #19: Церковный хор и стикеры
 

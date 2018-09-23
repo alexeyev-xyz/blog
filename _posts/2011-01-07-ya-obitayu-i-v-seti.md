@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Я обитаю и в сети
-tags:[Imported]
+layout: post
+title: Я обитаю и в сети
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Я обитаю и в сети
 

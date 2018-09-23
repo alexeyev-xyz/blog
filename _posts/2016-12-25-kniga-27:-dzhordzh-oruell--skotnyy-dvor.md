@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Книга 27: Джордж Оруэлл – Скотный двор
-tags:[Imported]
+layout: post
+title: Книга 27: Джордж Оруэлл – Скотный двор
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Книга #27: Джордж Оруэлл – Скотный двор
 

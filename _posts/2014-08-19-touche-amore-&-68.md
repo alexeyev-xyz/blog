@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Touche Amore & '68
-tags:[Imported]
+layout: post
+title: Touche Amore & '68
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Touche Amore & '68
 

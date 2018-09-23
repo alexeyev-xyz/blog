@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Ежесекундное осознание
-tags:[Imported]
+layout: post
+title: Ежесекундное осознание
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Ежесекундное осознание
 

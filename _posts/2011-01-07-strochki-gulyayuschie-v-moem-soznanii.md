@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Строчки, гуляющие в моем сознании
-tags:[Imported]
+layout: post
+title: Строчки, гуляющие в моем сознании
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Строчки, гуляющие в моем сознании
 

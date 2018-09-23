@@ -1,7 +1,8 @@
 ---
-layout:post
-title:"Умные больше не нужны"
-tags:[Imported]
+layout: post
+title: "Умные больше не нужны"
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # "Умные больше не нужны"
 

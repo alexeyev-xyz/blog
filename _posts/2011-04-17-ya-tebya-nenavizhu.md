@@ -1,7 +1,8 @@
 ---
-layout:post
-title:я тебя ненавижу.
-tags:[Imported]
+layout: post
+title: я тебя ненавижу.
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # я тебя ненавижу.
 из любопытства: Как ты удалился из заявок?

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:(Бес)полезная штуковина
-tags:[Imported]
+layout: post
+title: (Бес)полезная штуковина
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # (Бес)полезная штуковина
 

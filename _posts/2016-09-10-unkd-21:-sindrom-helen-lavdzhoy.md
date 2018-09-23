@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 21: Синдром Хелен Лавджой
-tags:[Imported]
+layout: post
+title: УНКД 21: Синдром Хелен Лавджой
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 #  УНКД #21: Синдром Хелен Лавджой
 

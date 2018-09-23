@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 3: Часы Судного Дня
-tags:[Imported]
+layout: post
+title: УНКД 3: Часы Судного Дня
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #3: Часы Судного Дня 
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Слава науке! Технологиям слава!
-tags:[Imported]
+layout: post
+title: Слава науке! Технологиям слава!
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Слава науке! Технологиям слава!
 

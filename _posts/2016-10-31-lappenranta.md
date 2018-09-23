@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Лаппенранта
-tags:[Imported]
+layout: post
+title: Лаппенранта
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Лаппенранта
 

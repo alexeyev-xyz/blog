@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Как получить военник без регистрации и SMS
-tags:[Imported]
+layout: post
+title: Как получить военник без регистрации и SMS
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Как получить военник без регистрации и SMS 
 

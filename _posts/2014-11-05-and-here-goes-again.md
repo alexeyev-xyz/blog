@@ -1,7 +1,8 @@
 ---
-layout:post
-title:And here goes again...
-tags:[Imported]
+layout: post
+title: And here goes again...
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # And here goes again...
 

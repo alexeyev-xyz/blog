@@ -1,7 +1,8 @@
 ---
-layout:post
-title:30 книг 2016: Итоги. Повышаю ставки.
-tags:[Imported]
+layout: post
+title: 30 книг 2016: Итоги. Повышаю ставки.
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # 30 книг 2016: Итоги. Повышаю ставки.
 

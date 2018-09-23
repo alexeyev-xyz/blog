@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Книга 07: Лена Климова – Дети-404
-tags:[Imported]
+layout: post
+title: Книга 07: Лена Климова – Дети-404
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Книга #07: Лена Климова – Дети-404
 

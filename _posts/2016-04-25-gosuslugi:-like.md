@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Госуслуги: like
-tags:[Imported]
+layout: post
+title: Госуслуги: like
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Госуслуги: like
 

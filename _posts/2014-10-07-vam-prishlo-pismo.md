@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Вам пришло письмо
-tags:[Imported]
+layout: post
+title: Вам пришло письмо
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Вам пришло письмо
 

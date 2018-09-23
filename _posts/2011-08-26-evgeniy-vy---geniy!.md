@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Евгений, Вы - гений!
-tags:[Imported]
+layout: post
+title: Евгений, Вы - гений!
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Евгений, Вы - гений!
 

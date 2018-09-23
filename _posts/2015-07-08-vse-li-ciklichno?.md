@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Все ли циклично?
-tags:[Imported]
+layout: post
+title: Все ли циклично?
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Все ли циклично? 
 

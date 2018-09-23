@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Котики и рубль
-tags:[Imported]
+layout: post
+title: Котики и рубль
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Котики и рубль
 

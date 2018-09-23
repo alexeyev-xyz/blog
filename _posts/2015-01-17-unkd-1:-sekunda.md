@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 1: Секунда
-tags:[Imported]
+layout: post
+title: УНКД 1: Секунда
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #1: Секунда
 

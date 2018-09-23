@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 6: Микеле Ферреро
-tags:[Imported]
+layout: post
+title: УНКД 6: Микеле Ферреро
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #6: Микеле Ферреро
 

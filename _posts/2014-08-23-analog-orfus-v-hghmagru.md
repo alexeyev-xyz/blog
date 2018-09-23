@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Аналог ОРФУС в HGHMAG.RU
-tags:[Imported]
+layout: post
+title: Аналог ОРФУС в HGHMAG.RU
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Аналог ОРФУС в HGHMAG.RU
 

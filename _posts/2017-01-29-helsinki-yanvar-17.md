@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Хельсинки, январь '17
-tags:[Imported]
+layout: post
+title: Хельсинки, январь '17
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Хельсинки, январь '17
 

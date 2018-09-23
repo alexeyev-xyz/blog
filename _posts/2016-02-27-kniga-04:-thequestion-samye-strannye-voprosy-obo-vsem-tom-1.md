@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Книга 04: TheQuestion. Самые странные вопросы обо всем. Том 1
-tags:[Imported]
+layout: post
+title: Книга 04: TheQuestion. Самые странные вопросы обо всем. Том 1
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Книга #04: TheQuestion. Самые странные вопросы обо всем. Том 1
 

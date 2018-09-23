@@ -1,7 +1,8 @@
 ---
-layout:post
-title:История вещей
-tags:[Imported]
+layout: post
+title: История вещей
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # История вещей
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Мысли виртуального я
-tags:[Imported]
+layout: post
+title: Мысли виртуального я
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Мысли виртуального я
 

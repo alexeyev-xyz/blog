@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 17: Эффект Форера
-tags:[Imported]
+layout: post
+title: УНКД 17: Эффект Форера
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #17: Эффект Форера 
 

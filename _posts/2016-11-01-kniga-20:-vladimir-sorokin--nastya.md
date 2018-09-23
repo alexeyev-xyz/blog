@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Книга 20: Владимир Сорокин – Настя
-tags:[Imported]
+layout: post
+title: Книга 20: Владимир Сорокин – Настя
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Книга #20: Владимир Сорокин – Настя
 

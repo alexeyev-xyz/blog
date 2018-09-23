@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Лайфхак: зарядка для всего
-tags:[Imported]
+layout: post
+title: Лайфхак: зарядка для всего
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Лайфхак: зарядка для всего
 

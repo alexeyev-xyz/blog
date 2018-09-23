@@ -1,7 +1,8 @@
 ---
-layout:post
-title:С новым годом!
-tags:[Imported]
+layout: post
+title: С новым годом!
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # С новым годом! 
 

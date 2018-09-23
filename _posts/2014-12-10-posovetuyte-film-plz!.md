@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Посоветуйте фильм, плз!
-tags:[Imported]
+layout: post
+title: Посоветуйте фильм, плз!
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Посоветуйте фильм, плз! 
 

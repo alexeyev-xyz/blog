@@ -1,7 +1,8 @@
 ---
-layout:post
-title:На злобу дня: из "Жизни для Родины"
-tags:[Imported]
+layout: post
+title: На злобу дня: из "Жизни для Родины"
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # На злобу дня: из "Жизни для Родины"
 

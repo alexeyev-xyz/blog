@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Сейчас или никогда
-tags:[Imported]
+layout: post
+title: Сейчас или никогда
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Сейчас или никогда
 

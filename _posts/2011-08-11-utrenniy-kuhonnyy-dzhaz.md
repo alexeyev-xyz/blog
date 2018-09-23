@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Утренний кухонный джаз
-tags:[Imported]
+layout: post
+title: Утренний кухонный джаз
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Утренний кухонный джаз
 

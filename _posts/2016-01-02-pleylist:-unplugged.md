@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Плейлист: Unplugged
-tags:[Imported]
+layout: post
+title: Плейлист: Unplugged
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Плейлист: Unplugged
 

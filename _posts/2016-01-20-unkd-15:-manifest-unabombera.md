@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 15: Манифест Унабомбера
-tags:[Imported]
+layout: post
+title: УНКД 15: Манифест Унабомбера
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #15: Манифест Унабомбера
 

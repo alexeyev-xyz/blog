@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Этой весной
-tags:[Imported]
+layout: post
+title: Этой весной
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Этой весной
 

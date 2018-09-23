@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Фрактальная музыка
-tags:[Imported]
+layout: post
+title: Фрактальная музыка
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Фрактальная музыка
 

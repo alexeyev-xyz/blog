@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Заметки о жизни во Вьетнаме
-tags:[Imported]
+layout: post
+title: Заметки о жизни во Вьетнаме
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Заметки о жизни во Вьетнаме
 

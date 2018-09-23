@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 22: Библейский пояс
-tags:[Imported]
+layout: post
+title: УНКД 22: Библейский пояс
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #22: Библейский пояс
 

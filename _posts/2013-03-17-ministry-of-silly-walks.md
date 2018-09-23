@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Ministry of Silly Walks
-tags:[Imported]
+layout: post
+title: Ministry of Silly Walks
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Ministry of Silly Walks
 

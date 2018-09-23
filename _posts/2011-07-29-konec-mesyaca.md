@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Конец месяца
-tags:[Imported]
+layout: post
+title: Конец месяца
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Конец месяца
 

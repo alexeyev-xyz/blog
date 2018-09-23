@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 10: Танатология
-tags:[Imported]
+layout: post
+title: УНКД 10: Танатология
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #10: Танатология 
 

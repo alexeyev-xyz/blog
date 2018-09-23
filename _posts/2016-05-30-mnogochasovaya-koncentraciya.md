@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Многочасовая концентрация
-tags:[Imported]
+layout: post
+title: Многочасовая концентрация
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Многочасовая концентрация 
 

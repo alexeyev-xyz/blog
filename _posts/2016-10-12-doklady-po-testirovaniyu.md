@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Доклады по тестированию
-tags:[Imported]
+layout: post
+title: Доклады по тестированию
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Доклады по тестированию 
 

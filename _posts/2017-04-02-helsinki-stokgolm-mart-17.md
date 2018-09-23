@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Хельсинки-Стокгольм, Март '17
-tags:[Imported]
+layout: post
+title: Хельсинки-Стокгольм, Март '17
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Хельсинки-Стокгольм, Март '17
 

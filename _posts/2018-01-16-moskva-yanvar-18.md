@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Москва, январь '18
-tags:[Imported]
+layout: post
+title: Москва, январь '18
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Москва, январь '18
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 12: Проклятие Текумсе
-tags:[Imported]
+layout: post
+title: УНКД 12: Проклятие Текумсе
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #12: Проклятие Текумсе
 

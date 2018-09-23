@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Всякое про психологию
-tags:[Imported]
+layout: post
+title: Всякое про психологию
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Всякое про психологию
 

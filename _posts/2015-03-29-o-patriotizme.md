@@ -1,7 +1,8 @@
 ---
-layout:post
-title:О патриотизме
-tags:[Imported]
+layout: post
+title: О патриотизме
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # О патриотизме
 

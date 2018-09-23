@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Вера и знание
-tags:[Imported]
+layout: post
+title: Вера и знание
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Вера и знание
 

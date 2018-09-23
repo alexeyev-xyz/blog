@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 8: Оформление текстов
-tags:[Imported]
+layout: post
+title: УНКД 8: Оформление текстов
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #8: Оформление текстов
 

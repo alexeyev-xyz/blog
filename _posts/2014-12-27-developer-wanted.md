@@ -1,7 +1,8 @@
 ---
-layout:post
-title:DEVELOPER WANTED
-tags:[Imported]
+layout: post
+title: DEVELOPER WANTED
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # DEVELOPER WANTED
 

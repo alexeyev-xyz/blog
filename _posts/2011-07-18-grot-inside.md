@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Грот inside
-tags:[Imported]
+layout: post
+title: Грот inside
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Грот inside
 

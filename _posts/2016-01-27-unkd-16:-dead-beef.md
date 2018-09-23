@@ -1,7 +1,8 @@
 ---
-layout:post
-title:УНКД 16: Dead Beef
-tags:[Imported]
+layout: post
+title: УНКД 16: Dead Beef
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # УНКД #16: Dead Beef
 

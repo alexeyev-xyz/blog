@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Хайфон, бухта Халонг
-tags:[Imported]
+layout: post
+title: Хайфон, бухта Халонг
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Хайфон, бухта Халонг 
 

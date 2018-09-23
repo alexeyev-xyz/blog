@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Атавизм XXI века: настенный календарь
-tags:[Imported]
+layout: post
+title: Атавизм XXI века: настенный календарь
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Атавизм XXI века: настенный календарь
 

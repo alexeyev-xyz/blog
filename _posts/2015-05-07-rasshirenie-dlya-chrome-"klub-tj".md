@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Расширение для chrome "Клуб TJ"
-tags:[Imported]
+layout: post
+title: Расширение для chrome "Клуб TJ"
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Расширение для chrome "Клуб TJ" 
 

@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Hate pt 2. Музыканты в электричках
-tags:[Imported]
+layout: post
+title: Hate pt 2. Музыканты в электричках
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Hate pt 2. Музыканты в электричках
 

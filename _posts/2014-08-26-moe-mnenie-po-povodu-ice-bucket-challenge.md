@@ -1,7 +1,8 @@
 ---
-layout:post
-title:Мое мнение по поводу Ice bucket challenge
-tags:[Imported]
+layout: post
+title: Мое мнение по поводу Ice bucket challenge
+date: {fullDate} 00:00:00 +0300
+tags: [Imported]
 ---
 # Мое мнение по поводу Ice bucket challenge
 
