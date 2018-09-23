@@ -1,6 +1,6 @@
 ---
 layout: post
-title: УНКД 13: Алан Смити
+title: УНКД 13 Алан Смити
 date: 2017-08-20 13:32:20 +0300
 tags: [Imported]
 ---

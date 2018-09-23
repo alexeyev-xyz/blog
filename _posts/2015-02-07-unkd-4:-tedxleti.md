@@ -1,6 +1,6 @@
 ---
 layout: post
-title: УНКД 4: TEDxLETI
+title: УНКД 4 TEDxLETI
 date: 2017-08-20 13:32:20 +0300
 tags: [Imported]
 ---

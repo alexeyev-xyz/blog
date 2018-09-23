@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Плейлист: Russian Party & Russian Depression
+title: Плейлист Russian Party & Russian Depression
 date: 2017-08-20 13:32:20 +0300
 tags: [Imported]
 ---

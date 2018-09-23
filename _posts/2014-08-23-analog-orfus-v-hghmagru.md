@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Аналог ОРФУС в HGHMAGRU
+title: Аналог ОРФУС в HGHMAG.RU
 date: 2017-08-20 13:32:20 +0300
 tags: [Imported]
 ---
