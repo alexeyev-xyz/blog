@@ -97,7 +97,7 @@ if($allFiles){
 		//fix yml error:
 		$firstLine = str_replace(":", "", htmlentities($firstLine));
 
-		$firstLine = $firstLine ? $firstLine : '&nbsp;';
+		$firstLine = $firstLine ? $firstLine : $fullDate;
 
 
 		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
