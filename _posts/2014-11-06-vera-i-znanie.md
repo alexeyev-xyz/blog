@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Вера и знание
-date: 2014-11-06 00:00:00 +0300
+date: 2014-11-06-vera-i-znanie.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Вера и знание

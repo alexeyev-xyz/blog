@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 10 Танатология
-date: 2015-04-27 00:00:00 +0300
+date: 2015-04-27-unkd-10:-tanatologiya.md 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #10: Танатология 

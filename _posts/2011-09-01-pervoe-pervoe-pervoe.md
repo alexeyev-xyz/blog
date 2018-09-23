@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Первое первое первое
-date: 2011-09-01 00:00:00 +0300
+date: 2011-09-01-pervoe-pervoe-pervoe.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Первое первое первое

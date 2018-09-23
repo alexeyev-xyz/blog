@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книга 03 Стивен Дабнер Стивен Левитт  Фрикономика
-date: 2016-01-21 00:00:00 +0300
+date: 2016-01-21-kniga-03:-stiven-dabner-stiven-levitt--frikonomika.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #03: Стивен Дабнер, Стивен Левитт – Фрикономика

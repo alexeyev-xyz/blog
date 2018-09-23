@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Макроботаника
-date: 2011-08-30 00:00:00 +0300
+date: 2011-08-30-makrobotanika.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Макроботаника

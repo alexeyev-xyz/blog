@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 8 Оформление текстов
-date: 2015-02-23 00:00:00 +0300
+date: 2015-02-23-unkd-8:-oformlenie-tekstov.md 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #8: Оформление текстов

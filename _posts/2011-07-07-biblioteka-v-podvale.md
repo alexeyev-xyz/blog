@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Библиотека в подвале
-date: 2011-07-07 00:00:00 +0300
+date: 2011-07-07-biblioteka-v-podvale.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Библиотека в подвале

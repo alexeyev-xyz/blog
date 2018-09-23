@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книга 18 Дэниел Пинк  Драйв Что на самом деле нас мотивирует
-date: 2016-10-21 00:00:00 +0300
+date: 2016-10-21-kniga-18:-deniel-pink--drayv:-chto-na-samom-dele-nas-motiviruet.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #18: Дэниел Пинк – Драйв: Что на самом деле нас мотивирует

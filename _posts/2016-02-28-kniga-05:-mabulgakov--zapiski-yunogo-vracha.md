@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книга 05 МАБулгаков  Записки юного врача
-date: 2016-02-28 00:00:00 +0300
+date: 2016-02-28-kniga-05:-mabulgakov--zapiski-yunogo-vracha.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #05: М.А.Булгаков – Записки юного врача

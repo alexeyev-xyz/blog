@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Евгений Вы  гений
-date: 2011-08-26 00:00:00 +0300
+date: 2011-08-26-evgeniy-vy---geniy!.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Евгений, Вы - гений!

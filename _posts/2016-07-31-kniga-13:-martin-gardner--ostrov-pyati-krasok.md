@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книга 13 Мартин Гарднер  Остров пяти красок
-date: 2016-07-31 00:00:00 +0300
+date: 2016-07-31-kniga-13:-martin-gardner--ostrov-pyati-krasok.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #13: Мартин Гарднер – Остров пяти красок

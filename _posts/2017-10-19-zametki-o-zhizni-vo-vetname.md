@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Заметки о жизни во Вьетнаме
-date: 2017-10-19 00:00:00 +0300
+date: 2017-10-19-zametki-o-zhizni-vo-vetname.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Заметки о жизни во Вьетнаме

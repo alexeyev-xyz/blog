@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Интернетмагазины и рейтинги в ЯндексМаркете
-date: 2014-09-06 00:00:00 +0300
+date: 2014-09-06-internet-magaziny-i-reytingi-v-yandeksmarkete.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Интернет-магазины и рейтинги в Яндекс.Маркете

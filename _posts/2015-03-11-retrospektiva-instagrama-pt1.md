@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ретроспектива инстаграма pt1
-date: 2015-03-11 00:00:00 +0300
+date: 2015-03-11-retrospektiva-instagrama-pt1.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Ретроспектива инстаграма pt.1

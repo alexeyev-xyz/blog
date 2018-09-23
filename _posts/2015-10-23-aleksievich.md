@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Алексиевич
-date: 2015-10-23 00:00:00 +0300
+date: 2015-10-23-aleksievich.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Алексиевич

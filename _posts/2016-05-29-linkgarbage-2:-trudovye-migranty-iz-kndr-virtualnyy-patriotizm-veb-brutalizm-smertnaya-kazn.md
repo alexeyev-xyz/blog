@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LinkGarbage 2 Трудовые мигранты из КНДР виртуальный патриотизм веббрутализм смертная казнь
-date: 2016-05-29 00:00:00 +0300
+date: 2016-05-29-linkgarbage-2:-trudovye-migranty-iz-kndr-virtualnyy-patriotizm-veb-brutalizm-smertnaya-kazn.md 00:00:00 +0300
 tags: [Imported]
 ---
 # LinkGarbage #2: Трудовые мигранты из КНДР, виртуальный патриотизм, веб-брутализм, смертная казнь

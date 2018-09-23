@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Чтонибудь напишу
-date: 2015-04-13 00:00:00 +0300
+date: 2015-04-13-chto-nibud-napishu.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Что-нибудь напишу

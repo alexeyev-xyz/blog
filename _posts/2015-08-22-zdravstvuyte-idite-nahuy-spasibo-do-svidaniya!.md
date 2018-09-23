@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Здравствуйте Идите нахуй Спасибо до свидания
-date: 2015-08-22 00:00:00 +0300
+date: 2015-08-22-zdravstvuyte-idite-nahuy-spasibo-do-svidaniya!.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Здравствуйте. Идите нахуй. Спасибо, до свидания!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 14  Менталитет краба
-date: 2016-01-06 00:00:00 +0300
+date: 2016-01-06-unkd-14:--mentalitet-kraba.md 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #14:  Менталитет краба

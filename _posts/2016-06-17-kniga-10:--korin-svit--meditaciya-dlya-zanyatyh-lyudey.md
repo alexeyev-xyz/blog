@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книга 10  Корин Свит  Медитация для занятых людей
-date: 2016-06-17 00:00:00 +0300
+date: 2016-06-17-kniga-10:--korin-svit--meditaciya-dlya-zanyatyh-lyudey.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #10:  Корин Свит – Медитация для занятых людей

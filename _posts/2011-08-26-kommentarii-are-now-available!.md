@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Комментарии are now available
-date: 2011-08-26 00:00:00 +0300
+date: 2011-08-26-kommentarii-are-now-available!.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Комментарии are now available!

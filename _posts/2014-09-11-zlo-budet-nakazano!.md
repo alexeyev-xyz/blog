@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Зло будет наказано
-date: 2014-09-11 00:00:00 +0300
+date: 2014-09-11-zlo-budet-nakazano!.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Зло будет наказано!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Мысли виртуального я
-date: 2011-02-02 00:00:00 +0300
+date: 2011-02-02-mysli-virtualnogo-ya.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Мысли виртуального я

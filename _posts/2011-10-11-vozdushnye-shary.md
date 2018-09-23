@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Воздушные шары
-date: 2011-10-11 00:00:00 +0300
+date: 2011-10-11-vozdushnye-shary.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Воздушные шары 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Про компьютер
-date: 2015-05-11 00:00:00 +0300
+date: 2015-05-11-pro-kompyuter.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Про компьютер 

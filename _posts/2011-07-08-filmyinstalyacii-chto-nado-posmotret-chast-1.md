@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Фильмыинсталяции что надо посмотреть часть 1
-date: 2011-07-08 00:00:00 +0300
+date: 2011-07-08-filmyinstalyacii-chto-nado-posmotret-chast-1.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Фильмы/инсталяции, что надо посмотреть (часть 1)

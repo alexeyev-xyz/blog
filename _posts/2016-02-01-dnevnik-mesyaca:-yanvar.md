@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Дневник месяца январь
-date: 2016-02-01 00:00:00 +0300
+date: 2016-02-01-dnevnik-mesyaca:-yanvar.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Дневник месяца: январь

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Напоминалка себе список фильмов и книг
-date: 2015-10-25 00:00:00 +0300
+date: 2015-10-25-napominalka-sebe:-spisok-filmov-i-knig.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Напоминалка себе: список фильмов и книг

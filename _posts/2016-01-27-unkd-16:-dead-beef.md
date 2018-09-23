@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 16 Dead Beef
-date: 2016-01-27 00:00:00 +0300
+date: 2016-01-27-unkd-16:-dead-beef.md 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #16: Dead Beef

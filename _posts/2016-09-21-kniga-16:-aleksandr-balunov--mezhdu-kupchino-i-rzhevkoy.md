@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книга 16 Александр Балунов  Между Купчино и Ржевкой
-date: 2016-09-21 00:00:00 +0300
+date: 2016-09-21-kniga-16:-aleksandr-balunov--mezhdu-kupchino-i-rzhevkoy.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #16: Александр Балунов – Между Купчино и Ржевкой

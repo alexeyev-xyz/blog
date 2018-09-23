@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Российская власть и российская история
-date: 2017-06-05 00:00:00 +0300
+date: 2017-06-05-rossiyskaya-vlast-i-rossiyskaya-istoriya.md 00:00:00 +0300
 tags: [Imported]
 ---
 # «Российская власть и российская история»

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Величие и комфорт редко существуют вместе
-date: 2015-05-21 00:00:00 +0300
+date: 2015-05-21-velichie-i-komfort-redko-suschestvuyut-vmeste.md 00:00:00 +0300
 tags: [Imported]
 ---
 # «Величие и комфорт редко существуют вместе»

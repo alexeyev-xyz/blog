@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Навигационные панели в разных окружениях
-date: 2018-01-31 00:00:00 +0300
+date: 2018-01-31-navigacionnye-paneli-v-raznyh-okruzheniyah.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Навигационные панели в разных окружениях

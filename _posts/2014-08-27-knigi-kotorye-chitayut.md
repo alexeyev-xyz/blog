@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книги которые читают
-date: 2014-08-27 00:00:00 +0300
+date: 2014-08-27-knigi-kotorye-chitayut.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книги, которые читают

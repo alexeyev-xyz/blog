@@ -1,7 +1,7 @@
 ---
 layout: post
 title: История которая могла произойти с каждым
-date: 2011-09-20 00:00:00 +0300
+date: 2011-09-20-istoriya-kotoraya-mogla-proizoyti-s-kazhdym.md 00:00:00 +0300
 tags: [Imported]
 ---
 # История, которая могла произойти с каждым

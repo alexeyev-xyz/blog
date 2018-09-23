@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Пешеходная карта метро
-date: 2017-06-09 00:00:00 +0300
+date: 2017-06-09-peshehodnaya-karta-metro.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Пешеходная карта метро

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We shall live again
-date: 2016-08-24 00:00:00 +0300
+date: 2016-08-24-we-shall-live-again.md 00:00:00 +0300
 tags: [Imported]
 ---
 # We shall live again

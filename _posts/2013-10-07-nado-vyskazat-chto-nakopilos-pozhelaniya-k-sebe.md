@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Надо высказать что накопилось пожелания к себе
-date: 2013-10-07 00:00:00 +0300
+date: 2013-10-07-nado-vyskazat-chto-nakopilos-pozhelaniya-k-sebe.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Надо высказать, что накопилось (пожелания к себе)

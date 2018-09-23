@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Новинки плеера
-date: 2015-11-20 00:00:00 +0300
+date: 2015-11-20-novinki-pleera.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Новинки плеера

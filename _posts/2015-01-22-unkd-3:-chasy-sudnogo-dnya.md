@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 3 Часы Судного Дня
-date: 2015-01-22 00:00:00 +0300
+date: 2015-01-22-unkd-3:-chasy-sudnogo-dnya.md 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #3: Часы Судного Дня 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Всякое про психологию
-date: 2015-05-26 00:00:00 +0300
+date: 2015-05-26-vsyakoe-pro-psihologiyu.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Всякое про психологию

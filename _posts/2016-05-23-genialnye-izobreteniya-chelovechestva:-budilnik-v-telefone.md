@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Гениальные изобретения человечества Будильник в телефоне
-date: 2016-05-23 00:00:00 +0300
+date: 2016-05-23-genialnye-izobreteniya-chelovechestva:-budilnik-v-telefone.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Гениальные изобретения человечества: Будильник в телефоне

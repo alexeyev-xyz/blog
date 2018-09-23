@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книга 08 Ася Казанцева  В интернете ктото неправ Научные исследования спорных вопросов
-date: 2016-04-22 00:00:00 +0300
+date: 2016-04-22-kniga-08:-asya-kazanceva--v-internete-kto-to-neprav!-nauchnye-issledovaniya-spornyh-voprosov.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #08: Ася Казанцева – В интернете кто-то неправ! Научные исследования спорных вопросов 

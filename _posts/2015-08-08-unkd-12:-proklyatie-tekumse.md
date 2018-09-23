@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 12 Проклятие Текумсе
-date: 2015-08-08 00:00:00 +0300
+date: 2015-08-08-unkd-12:-proklyatie-tekumse.md 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #12: Проклятие Текумсе

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Совет про почту
-date: 2015-12-25 00:00:00 +0300
+date: 2015-12-25-sovet-pro-pochtu.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Совет про почту

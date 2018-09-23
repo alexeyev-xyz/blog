@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книга 04 TheQuestion Самые странные вопросы обо всем Том 1
-date: 2016-02-27 00:00:00 +0300
+date: 2016-02-27-kniga-04:-thequestion-samye-strannye-voprosy-obo-vsem-tom-1.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #04: TheQuestion. Самые странные вопросы обо всем. Том 1

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Книга 23 Пьер Байяр  Искусство рассуждать о книгах которых вы не читали
-date: 2016-11-25 00:00:00 +0300
+date: 2016-11-25-kniga-23:-per-bayyar--iskusstvo-rassuzhdat-o-knigah-kotoryh-vy-ne-chitali.md 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #23: Пьер Байяр – Искусство рассуждать о книгах, которых вы не читали
