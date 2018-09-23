@@ -99,16 +99,17 @@ if($allFiles){
 
 		$firstLine = $firstLine ? $firstLine : $fullDate;
 
+		$firstLine = preg_replace("[^-a-zA-Zа-яА-ЯёЁ0-9/., ():]", "", $firstLine);
 
 		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
 
 		$fileContents = $fileHeader.$fileContents;
 
-		$kek .= str_replace("---", "", $fileHeader); 
+		/*$kek .= str_replace("---", "", $fileHeader); 
 
 		file_put_contents('.kek', $kek);
 
-		continue;
+		continue; */
 
 
 
