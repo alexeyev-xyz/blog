@@ -3,7 +3,7 @@ layout: post
 title: "Книга 01: А. Корин &ndash; Феномен &laquo;Что? Где? Когда?&raquo;"
 date: 2016-01-04 00:00:00 +0300
 img: "fenomen.jpeg"
-tags: [Imported]
+tags: Imported
 ---
 
 _Disclaimer: В конце прошлого года, я поставил себе цель [прочитать 30 книг](https://blog.alexeyev.me/2015/12/30-books-2016/ "2016: 30 книг") и кратко поделиться впечатлениями о каждой из них._

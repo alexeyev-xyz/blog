@@ -3,7 +3,7 @@ layout: post
 title: "Посоветуйте фильм, плз!"
 date: 2014-12-10 00:00:00 +0300
 img: ""
-tags: [Imported]
+tags: Imported
 ---
 
 **Посоветуйте, пожалуйста, фильм!**

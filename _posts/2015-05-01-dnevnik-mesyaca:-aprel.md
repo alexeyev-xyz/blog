@@ -3,7 +3,7 @@ layout: post
 title: "Дневник месяца: апрель"
 date: 2015-05-01 00:00:00 +0300
 img: "Yair3NDXRDU.jpg"
-tags: [Imported]
+tags: Imported
 ---
 
 Disclaimer:

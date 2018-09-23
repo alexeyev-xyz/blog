@@ -3,7 +3,7 @@ layout: post
 title: "Заметки о жизни во Вьетнаме"
 date: 2017-10-19 00:00:00 +0300
 img: "vn1.jpg"
-tags: [Imported]
+tags: Imported
 ---
 
 Во время нашей жизни в Нячанге мы с Элиной вели канал[о нашем быте и путешествиях по окрестностям Вьетнама.](https://blog.alexeyev.me/2017/07/vietnotes/ "Vietnotes")

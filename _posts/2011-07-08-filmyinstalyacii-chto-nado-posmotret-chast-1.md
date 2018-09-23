@@ -3,7 +3,7 @@ layout: post
 title: "Фильмы/инсталяции, что надо посмотреть (часть 1)"
 date: 2011-07-08 00:00:00 +0300
 img: ""
-tags: [Imported]
+tags: Imported
 ---
 
 * <span class="video_name">О, что за чудесная война / Oh! What a Lovely War (1969)</span>

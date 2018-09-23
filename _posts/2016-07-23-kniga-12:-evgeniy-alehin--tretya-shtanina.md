@@ -3,7 +3,7 @@ layout: post
 title: "Книга 12: Евгений Алехин &ndash; Третья штанина"
 date: 2016-07-23 00:00:00 +0300
 img: "13165-300x222.jpg"
-tags: [Imported]
+tags: Imported
 ---
 
 ![13165](/blog/assets/img/13165-300x222.jpg)

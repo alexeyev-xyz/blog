@@ -3,7 +3,7 @@ layout: post
 title: "Книга 24: Роберт Арп &ndash; Философия Южного Парка"
 date: 2016-12-12 00:00:00 +0300
 img: "South_Park_and_Philosophy_Robert_Arp-203x300.jpg"
-tags: [Imported]
+tags: Imported
 ---
 
 > <div class="bm-quote-content-text">Богохульственный юмор шокирует, раздражает, подстрекает, провоцирует людей на размышления и обсуждения.</div>

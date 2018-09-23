@@ -3,7 +3,7 @@ layout: post
 title: "Факты обо мне"
 date: 2016-01-04 00:00:00 +0300
 img: ""
-tags: [Imported]
+tags: Imported
 ---
 
 1\. Когда я родился пошел снег

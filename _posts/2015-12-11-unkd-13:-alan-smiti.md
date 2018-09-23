@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 13: Алан Смити"
 date: 2015-12-11 00:00:00 +0300
 img: ""
-tags: [Imported]
+tags: Imported
 ---
 
 Алан Смити (англ. Alan Smithee, Allen Smithee, Alan Smythee, или Adam Smithee) — псевдоним, использующийся в случаях, когда режиссёр по тем или иным причинам отказывается указывать своё имя в титрах.

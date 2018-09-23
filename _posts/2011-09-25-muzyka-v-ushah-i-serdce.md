@@ -3,7 +3,7 @@ layout: post
 title: "Музыка в ушах и сердце"
 date: 2011-09-25 00:00:00 +0300
 img: ""
-tags: [Imported]
+tags: Imported
 ---
 
 Привет, друзья!

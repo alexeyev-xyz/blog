@@ -3,7 +3,7 @@ layout: post
 title: "Солнце в окно"
 date: 2011-03-21 00:00:00 +0300
 img: ""
-tags: [Imported]
+tags: Imported
 ---
 
 Привет всем!

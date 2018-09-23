@@ -3,7 +3,7 @@ layout: post
 title: "Аллюзии в Симпсонах: кинематограф"
 date: 2014-04-30 00:00:00 +0300
 img: "tumblr_m6j8o5Q9AI1rwuq4jo1_500.gif"
-tags: [Imported]
+tags: Imported
 ---
 
 <div class="row">

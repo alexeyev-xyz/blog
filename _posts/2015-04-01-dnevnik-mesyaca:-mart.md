@@ -3,7 +3,7 @@ layout: post
 title: "Дневник месяца: март"
 date: 2015-04-01 00:00:00 +0300
 img: "261.gif"
-tags: [Imported]
+tags: Imported
 ---
 
 Disclaimer:

@@ -3,7 +3,7 @@ layout: post
 title: "Дневник месяца: июнь"
 date: 2016-07-05 00:00:00 +0300
 img: "Hospital-Story-01.jpg"
-tags: [Imported]
+tags: Imported
 ---
 
 Июнь был, [в отличие от мая](https://blog.alexeyev.me/2016/06/diary-may-16/ "Дневник месяца: май"), очень насыщенным, поэтому и пост получился длинее.

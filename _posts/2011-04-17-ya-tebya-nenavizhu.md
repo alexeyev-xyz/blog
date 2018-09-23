@@ -3,7 +3,7 @@ layout: post
 title: "я тебя ненавижу."
 date: 2011-04-17 00:00:00 +0300
 img: ""
-tags: [Imported]
+tags: Imported
 ---
 из любопытства: Как ты удалился из заявок?
 

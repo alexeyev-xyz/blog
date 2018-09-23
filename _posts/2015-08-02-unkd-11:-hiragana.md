@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 11: Хирагана"
 date: 2015-08-02 00:00:00 +0300
 img: ""
-tags: [Imported]
+tags: Imported
 ---
 
 Хира́гана (яп. 平仮名) — японская слоговая азбука. Хирагана и [катакана](http://nippon.temerov.org/katakana.php) вместе составляют систему [каны](http://nippon.temerov.org/kana.php), в которой один символ выражает одну <a>мору</a>.

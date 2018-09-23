@@ -3,7 +3,7 @@ layout: post
 title: "Дневник месяца: декабрь"
 date: 2015-12-31 00:00:00 +0300
 img: "Screenshot-2015-12-28-00.15.28.png"
-tags: [Imported]
+tags: Imported
 ---
 
 Disclaimer:

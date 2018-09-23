@@ -3,7 +3,7 @@ layout: post
 title: "Приложения"
 date: 2017-03-01 00:00:00 +0300
 img: "IMG_2017-03-01-135254-576x1024.jpg"
-tags: [Imported]
+tags: Imported
 ---
 
 **Дзен-мани – учет финансов**

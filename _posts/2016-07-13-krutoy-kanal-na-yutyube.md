@@ -3,7 +3,7 @@ layout: post
 title: "Крутой канал на ютюбе"
 date: 2016-07-13 00:00:00 +0300
 img: ""
-tags: [Imported]
+tags: Imported
 ---
 
 Случайно наткнулся на очень классный канал на ютубе, который называется [FoxHole](https://www.youtube.com/channel/UC1__68e5kg1dHGjLibP2v7Q). У него на момент написания поста около 3000 подписчиков.

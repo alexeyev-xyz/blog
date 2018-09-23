@@ -3,7 +3,7 @@ layout: post
 title: "Евгений, Вы - гений!"
 date: 2011-08-26 00:00:00 +0300
 img: "tumblr_lqj702kO6D1qfp23s.png"
-tags: [Imported]
+tags: Imported
 ---
 
 Привет, любимые читатели!

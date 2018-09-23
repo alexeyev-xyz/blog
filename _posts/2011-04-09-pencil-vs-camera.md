@@ -3,7 +3,7 @@ layout: post
 title: "Pencil Vs Camera"
 date: 2011-04-09 00:00:00 +0300
 img: "Pencil_Vs_Camera___32_by_BenHeine.jpg"
-tags: [Imported]
+tags: Imported
 ---
 
 ![image](/blog/assets/img/Pencil_Vs_Camera___32_by_BenHeine.jpg)

@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 23: Французское влияние во Вьетнаме"
 date: 2017-08-05 00:00:00 +0300
 img: "Flag_of_Colonial_Annam.png"
-tags: [Imported]
+tags: Imported
 ---
 
 За годы правления французы оставили во Вьетнаме несколько вещей после себя.
