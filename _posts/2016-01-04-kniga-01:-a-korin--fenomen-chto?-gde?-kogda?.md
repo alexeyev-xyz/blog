@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Книга 01: А. Корин &ndash; Феномен &laquo;Что? Где? Когда?&raquo;
+title: Книга 01 А. Корин &ndash; Феномен &laquo;Что? Где? Когда?&raquo;
 date: 2016-01-04 00:00:00 +0300
 tags: [Imported]
 ---

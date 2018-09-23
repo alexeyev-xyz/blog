@@ -1,6 +1,6 @@
 ---
 layout: post
-title: УНКД 1: Секунда
+title: УНКД 1 Секунда
 date: 2015-01-17 00:00:00 +0300
 tags: [Imported]
 ---

@@ -95,7 +95,7 @@ if($allFiles){
 		$fileContents = file_get_contents($file);
 
 		//fix yml error:
-		$firstLine = htmlentities($firstLine);
+		$firstLine = str_replace(":", "", htmlentities($firstLine));
 
 		//var_dump($firstLine); 
 
