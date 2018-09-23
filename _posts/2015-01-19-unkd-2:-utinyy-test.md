@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Привет
 date: 2015-01-19 00:00:00 +0300
 tags: [Imported]
 ---
