@@ -1,4 +1,4 @@
-title: My personal blog - Adam Neilson
+title: Vladislav Alexeyev | My blog
 email: vladislav.j.alexeyev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,8 +9,8 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Vladislav alexeyev # add your name
-author-pic: adam-face.jpg
+author: Vladislav Alexeyev # add your name
+author-pic: ava.png
 about-author: Ignoring the first law of robotics
 
 # Contact links
