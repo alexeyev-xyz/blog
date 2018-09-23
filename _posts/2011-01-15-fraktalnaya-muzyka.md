@@ -2,7 +2,7 @@
 layout: post
 title: "Фрактальная музыка"
 date: 2011-01-15 00:00:00 +0300
-img: "http://assets0.lookatme.ru/assets/article_image-image/b7/9e/173354/article_image-image-article.jpg?1230155155"
+img: "article_image-image-article.jpg?1230155155"
 tags: [Imported]
 ---
 
@@ -16,15 +16,15 @@ tags: [Imported]
 
 Современные технологии позволяют программировать звуки по фрактальным алгоритмам. В основе концепции лежит понятие о белом шуме (полный хаос, слишком беспорядочно чтобы считаться музыкальным) и коричневом шуме (очень аккуратный и слишком унылый, чтобы походить на музыку) - фрактальная музыка лежит в поле розового шума, промежуточного между вышеописанными.
 
-![](article_image-image-article.jpg?1230155155)
+![](/blog/assetsarticle_image-image-article.jpg?1230155155)
 
 Так выглядит белый шум
 
- ![](article_image-image-article.jpg?1230155215)
+ ![](/blog/assetsarticle_image-image-article.jpg?1230155215)
 
 А так розовый
 
-![](article_image-image-article.jpg?1230155191)
+![](/blog/assetsarticle_image-image-article.jpg?1230155191)
 
 Коричневый
 

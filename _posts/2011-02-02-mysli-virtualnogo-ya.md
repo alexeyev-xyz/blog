@@ -2,7 +2,7 @@
 layout: post
 title: "Мысли виртуального я"
 date: 2011-02-02 00:00:00 +0300
-img: "http://media.tumblr.com/tumblr_lfzubg1rXn1qfp23s.png"
+img: "tumblr_lfzubg1rXn1qfp23s.png"
 tags: [Imported]
 ---
 
@@ -10,5 +10,5 @@ tags: [Imported]
 
 **Виртуальный Я**
 
-**![image](tumblr_lfzubg1rXn1qfp23s.png)
+**![image](/blog/assetstumblr_lfzubg1rXn1qfp23s.png)
 **

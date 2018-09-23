@@ -2,10 +2,10 @@
 layout: post
 title: "The reincarnation of Tweety"
 date: 2013-10-29 00:00:00 +0300
-img: "http://media.tumblr.com/969fc423ed5cf87a82acc35ffebe0dd0/tumblr_inline_mvejiv2KzI1qfp23s.jpg"
+img: "tumblr_inline_mvejiv2KzI1qfp23s.jpg"
 tags: [Imported]
 ---
 
 Когда я был маленьким, я любил ездить на дачу. Там я слушал много разной музыки и иногда сочинял. Однажды мне пришла в голову идея записать свои 8бит зарисовки. Я записал ЕР своего “проекта”, никому особо не показывал из знакомых, по приколу выложил на рутрекер и благополучно забыл. Оказывается, это кто-то скачивал и слушал - даже сиды враздаче присутствуют [http://rutracker.org/forum/viewtopic.php?t=3285840](http://rutracker.org/forum/viewtopic.php?t=3285840)
 
-![image](tumblr_inline_mvejiv2KzI1qfp23s.jpg)
+![image](/blog/assetstumblr_inline_mvejiv2KzI1qfp23s.jpg)

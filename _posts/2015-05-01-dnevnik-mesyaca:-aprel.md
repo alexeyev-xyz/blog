@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: апрель"
 date: 2015-05-01 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2015/04/Yair3NDXRDU.jpg"
+img: "Yair3NDXRDU.jpg"
 tags: [Imported]
 ---
 
@@ -23,7 +23,7 @@ _Решил вести некое подобие дневника, в котор
 
 **Музыка**
 
-[![Yair3NDXRDU](Yair3NDXRDU.jpg)](Yair3NDXRDU.jpg)
+[![Yair3NDXRDU](/blog/assetsYair3NDXRDU.jpg)](/blog/assetsYair3NDXRDU.jpg)
 
 **Щенки - Лучшее Враг Хорошего (апрель 2015)**
 

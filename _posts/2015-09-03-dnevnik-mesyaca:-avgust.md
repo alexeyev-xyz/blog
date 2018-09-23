@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: август"
 date: 2015-09-03 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2015/09/kote-764x1024.jpg"
+img: "kote-764x1024.jpg"
 tags: [Imported]
 ---
 
@@ -13,4 +13,4 @@ _Решил вести некое подобие дневника, в котор
 
 Съездил в Москву и к брату в Пущино
 
-[![kote](kote-764x1024.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/kote.jpg) Выставка кошек на ВДНХ [![nemtsov](nemtsov-1024x764.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/nemtsov.jpg) "Немцов" мост [![most](most-1024x764.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/most.jpg)
+[![kote](/blog/assetskote-764x1024.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/kote.jpg) Выставка кошек на ВДНХ [![nemtsov](/blog/assetsnemtsov-1024x764.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/nemtsov.jpg) "Немцов" мост [![most](/blog/assetsmost-1024x764.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/most.jpg)

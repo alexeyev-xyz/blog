@@ -2,7 +2,7 @@
 layout: post
 title: "Аллюзии в Симпсонах: кинематограф"
 date: 2014-04-30 00:00:00 +0300
-img: "http://33.media.tumblr.com/tumblr_m6j8o5Q9AI1rwuq4jo1_500.gif"
+img: "tumblr_m6j8o5Q9AI1rwuq4jo1_500.gif"
 tags: [Imported]
 ---
 
@@ -14,9 +14,9 @@ tags: [Imported]
 
 </div>
 
-<div class="col-xs-12 col-md-6">![s2](tumblr_m6j8o5Q9AI1rwuq4jo1_500.gif)</div>
+<div class="col-xs-12 col-md-6">![s2](/blog/assetstumblr_m6j8o5Q9AI1rwuq4jo1_500.gif)</div>
 
-<div class="col-xs-12 col-md-6">![s2_2](tumblr_m6j8o5Q9AI1rwuq4jo2_500.gif)</div>
+<div class="col-xs-12 col-md-6">![s2_2](/blog/assetstumblr_m6j8o5Q9AI1rwuq4jo2_500.gif)</div>
 
 <div class="col-xs-12">
 
@@ -30,9 +30,9 @@ tags: [Imported]
 
 </div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m6osn4BpOA1rwuq4jo2_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m6osn4BpOA1rwuq4jo2_500.gif)</div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m6osn4BpOA1rwuq4jo1_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m6osn4BpOA1rwuq4jo1_500.gif)</div>
 
 <div class="col-xs-12">
 
@@ -46,9 +46,9 @@ tags: [Imported]
 
 </div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m8lbq32Y5q1rwuq4jo2_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m8lbq32Y5q1rwuq4jo2_500.gif)</div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m8lbq32Y5q1rwuq4jo1_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m8lbq32Y5q1rwuq4jo1_500.gif)</div>
 
 <div class="col-xs-12">
 
@@ -62,9 +62,9 @@ tags: [Imported]
 
 </div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m58ss11EOW1rwuq4jo2_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m58ss11EOW1rwuq4jo2_500.gif)</div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m58ss11EOW1rwuq4jo1_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m58ss11EOW1rwuq4jo1_500.gif)</div>
 
 <div class="col-xs-12">
 
@@ -78,9 +78,9 @@ tags: [Imported]
 
 </div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m7rn9p7ryV1rwuq4jo2_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m7rn9p7ryV1rwuq4jo2_500.gif)</div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m7rn9p7ryV1rwuq4jo1_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m7rn9p7ryV1rwuq4jo1_500.gif)</div>
 
 <div class="col-xs-12">
 
@@ -94,9 +94,9 @@ tags: [Imported]
 
 </div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m8fmaiYMi91rwuq4jo2_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m8fmaiYMi91rwuq4jo2_500.gif)</div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m8fmaiYMi91rwuq4jo1_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m8fmaiYMi91rwuq4jo1_500.gif)</div>
 
 <div class="col-xs-12">
 
@@ -110,9 +110,9 @@ tags: [Imported]
 
 </div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m4sub71OYD1rwuq4jo2_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m4sub71OYD1rwuq4jo2_500.gif)</div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m4sub71OYD1rwuq4jo1_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m4sub71OYD1rwuq4jo1_500.gif)</div>
 
 <div class="col-xs-12">
 
@@ -126,9 +126,9 @@ tags: [Imported]
 
 </div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m4mqvrHCes1rwuq4jo2_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m4mqvrHCes1rwuq4jo2_500.gif)</div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_m4mqvrHCes1rwuq4jo1_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_m4mqvrHCes1rwuq4jo1_500.gif)</div>
 
 <div class="col-xs-12">
 
@@ -142,9 +142,9 @@ tags: [Imported]
 
 </div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_mbxua7MAgN1rwuq4jo2_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_mbxua7MAgN1rwuq4jo2_500.gif)</div>
 
-<div class="col-xs-12 col-md-6">![](tumblr_mbxua7MAgN1rwuq4jo1_500.gif)</div>
+<div class="col-xs-12 col-md-6">![](/blog/assetstumblr_mbxua7MAgN1rwuq4jo1_500.gif)</div>
 
 <div class="col-xs-12">
 

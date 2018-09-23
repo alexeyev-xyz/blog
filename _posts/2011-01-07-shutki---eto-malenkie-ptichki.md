@@ -2,7 +2,7 @@
 layout: post
 title: "Шутки - это маленькие птички"
 date: 2011-01-07 00:00:00 +0300
-img: "http://lib.ru/ANEKDOTY/FIZIKI/Image66.gif"
+img: "Image66.gif"
 tags: [Imported]
 ---
 
@@ -18,4 +18,4 @@ tags: [Imported]
 спросил:
 - Послушайте, а когда же вы думаете?
 
-![](Image66.gif)
+![](/blog/assetsImage66.gif)

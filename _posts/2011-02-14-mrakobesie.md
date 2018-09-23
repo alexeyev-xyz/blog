@@ -2,11 +2,11 @@
 layout: post
 title: "Мракобесие"
 date: 2011-02-14 00:00:00 +0300
-img: "http://media.tumblr.com/tumblr_lgm21cQ36o1qfp23s.jpg"
+img: "tumblr_lgm21cQ36o1qfp23s.jpg"
 tags: [Imported]
 ---
 
-![](tumblr_lgm21cQ36o1qfp23s.jpg)
+![](/blog/assetstumblr_lgm21cQ36o1qfp23s.jpg)
 
 > **Mementum Mori**
 > 

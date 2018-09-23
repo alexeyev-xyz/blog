@@ -2,13 +2,13 @@
 layout: post
 title: "Книга 03: Стивен Дабнер, Стивен Левитт &ndash; Фрикономика"
 date: 2016-01-21 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2016/01/freakonomics.jpeg"
+img: "freakonomics.jpeg"
 tags: [Imported]
 ---
 
 _Disclaimer: В конце прошлого года, я поставил себе цель [прочитать 30 книг](https://blog.alexeyev.me/2015/12/30-books-2016/ "2016: 30 книг") и кратко поделиться впечатлениями о каждой из них._
 
-![freakonomics](freakonomics.jpeg)
+![freakonomics](/blog/assetsfreakonomics.jpeg)
 
 > <div class="bm-quote-content-text">Стимул — это пуля, рычаг, ключ: как правило, крошечный предмет с огромным потенциалом для изменения ситуации.</div>
 

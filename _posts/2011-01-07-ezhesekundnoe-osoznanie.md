@@ -2,7 +2,7 @@
 layout: post
 title: "Ежесекундное осознание"
 date: 2011-01-07 00:00:00 +0300
-img: "http://media.tumblr.com/tumblr_leobxoKT5h1qfp23s.jpg"
+img: "tumblr_leobxoKT5h1qfp23s.jpg"
 tags: [Imported]
 ---
 
@@ -14,4 +14,4 @@ PS Уже поздно, пойду спать. С недавнего време�
 
 Заходите! Всегда рад вам:)
 
-![image](tumblr_leobxoKT5h1qfp23s.jpg)
+![image](/blog/assetstumblr_leobxoKT5h1qfp23s.jpg)

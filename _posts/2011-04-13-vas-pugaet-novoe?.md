@@ -2,7 +2,7 @@
 layout: post
 title: "Вас пугает новое?"
 date: 2011-04-13 00:00:00 +0300
-img: "http://media.tumblr.com/tumblr_ljlegiQgDZ1qfp23s.jpg"
+img: "tumblr_ljlegiQgDZ1qfp23s.jpg"
 tags: [Imported]
 ---
 
@@ -16,4 +16,4 @@ tags: [Imported]
 
 Что-то есть в темной пучине океана и вспышках света, символе перемен.
 
-![image](tumblr_ljlegiQgDZ1qfp23s.jpg)
+![image](/blog/assetstumblr_ljlegiQgDZ1qfp23s.jpg)

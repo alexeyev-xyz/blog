@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: март"
 date: 2016-04-04 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2016/04/Affinazh-1-640.jpg"
+img: "Affinazh-1-640.jpg"
 tags: [Imported]
 ---
 
@@ -14,10 +14,10 @@ tags: [Imported]
 
 **Музыкальное открытие: Аффинаж**
 
-![Аффинаж-1-640](Affinazh-1-640.jpg)
+![Аффинаж-1-640](/blog/assetsAffinazh-1-640.jpg)
 
 **День рождения Коляна**
 
 Классно отметили день рождения Коляна в  Maza парке.
-![](11349418_983945034992382_318837333_n.jpg?ig_cache_key=MTIwMDE3NjgwNTMxMDExMDA3Ng%3D%3D.2)
+![](/blog/assets11349418_983945034992382_318837333_n.jpg?ig_cache_key=MTIwMDE3NjgwNTMxMDExMDA3Ng%3D%3D.2)
 **Подкаст "Батенька, да вы трансформер"**

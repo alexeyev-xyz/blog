@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: июнь"
 date: 2015-07-02 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2015/07/giphy.gif"
+img: "giphy.gif"
 tags: [Imported]
 ---
 
@@ -13,7 +13,7 @@ _Решил вести некое подобие дневника, в котор
 
 Этот месяц определенно прошел под знамем диплома. Из-за него я немного выпал из жизни. Наконец-то, я его защитил. _**I'm fuckin' bachelor! **_
 
-[![giphy](giphy.gif)](giphy.gif)
+[![giphy](/blog/assetsgiphy.gif)](/blog/assetsgiphy.gif)
 
 **Geek Picnic 2015**
 
@@ -27,4 +27,4 @@ _Решил вести некое подобие дневника, в котор
 
 Пересмотрел много старых выпусков Что? Где? Когда? Например, всю зимнию серию 2000 года.
 
-![](c-G9ejTWVyo.jpg)
+![](/blog/assetsc-G9ejTWVyo.jpg)

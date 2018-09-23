@@ -2,7 +2,7 @@
 layout: post
 title: "Многочасовая концентрация"
 date: 2016-05-30 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2016/05/dogge-1024x768.jpeg"
+img: "dogge-1024x768.jpeg"
 tags: [Imported]
 ---
 
@@ -10,4 +10,4 @@ tags: [Imported]
 
 Павел Дуров
 
-![dogge](dogge-1024x768.jpeg)
+![dogge](/blog/assetsdogge-1024x768.jpeg)

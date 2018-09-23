@@ -2,13 +2,13 @@
 layout: post
 title: "Книга 15: Кадзуо Исигуро Не отпускай меня"
 date: 2016-09-20 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2016/09/Ne_otpuskai--_menya_Kadzuo_Isiguro.jpg"
+img: "Ne_otpuskai--_menya_Kadzuo_Isiguro.jpg"
 tags: [Imported]
 ---
 
 Дошли руки написать о пятнадцатой прочитанной мною в этом году книге. Это книга британского автора японского происхождения Кадзуо Исигуро, номинированная на Букеровскую премию "Не отпускай меня".
 
-![Не_отпускай_меня_Кадзуо_Исигуро](Ne_otpuskai--_menya_Kadzuo_Isiguro.jpg)
+![Не_отпускай_меня_Кадзуо_Исигуро](/blog/assetsNe_otpuskai--_menya_Kadzuo_Isiguro.jpg)
 
 В последнее я время нечасто читаю художественную литературу, руководствуясь принципом "редко, но метко". Действительно, "Не отпускай меня" –  достойное произведение, хотя читать местами было скучновато из-за сухого стиля повествования. Это роман-антиутопия, в котором рассказывается о жизни трех доноров-клонов, главным предназначением которых было отдать с органы. Это книга о смысле жизни, о невозможности борьбы, бесчеловечности.
 
@@ -16,4 +16,4 @@ tags: [Imported]
 
 [Неплохая экранизация](https://www.kinopoisk.ru/film/450204/) получилась у Марка Романека с Кирой Найтли.
 
-[![Never-Let-Me-Go-andrew-garfield-20863890-1276-544](Never-Let-Me-Go-andrew-garfield-20863890-1276-544-1024x436.jpg)](https://vlaim.s3.amazonaws.com/uploads/2016/09/Never-Let-Me-Go-andrew-garfield-20863890-1276-544.jpg)
+[![Never-Let-Me-Go-andrew-garfield-20863890-1276-544](/blog/assetsNever-Let-Me-Go-andrew-garfield-20863890-1276-544-1024x436.jpg)](https://vlaim.s3.amazonaws.com/uploads/2016/09/Never-Let-Me-Go-andrew-garfield-20863890-1276-544.jpg)

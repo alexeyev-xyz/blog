@@ -2,7 +2,7 @@
 layout: post
 title: "Книги, которые читают"
 date: 2014-08-27 00:00:00 +0300
-img: "/wp-content/uploads/2014/08/danya.jpg"
+img: "danya.jpg"
 tags: [Imported]
 ---
 
@@ -10,7 +10,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![danya](danya.jpg)</div>
+<div class="col-md-12">![danya](/blog/assetsdanya.jpg)</div>
 
 <div class="col-md-12">
 
@@ -22,7 +22,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![lissov](lissov.jpg)</div>
+<div class="col-md-12">![lissov](/blog/assetslissov.jpg)</div>
 
 <div class="col-md-12">
 
@@ -34,7 +34,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![david](david.jpg)</div>
+<div class="col-md-12">![david](/blog/assetsdavid.jpg)</div>
 
 <div class="col-md-12">
 
@@ -46,7 +46,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![svetlana](svetlana.jpg)</div>
+<div class="col-md-12">![svetlana](/blog/assetssvetlana.jpg)</div>
 
 <div class="col-md-12">
 
@@ -58,7 +58,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![ilia](ilia.jpg)</div>
+<div class="col-md-12">![ilia](/blog/assetsilia.jpg)</div>
 
 <div class="col-md-12">
 
@@ -70,7 +70,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![agent](agent.jpg)</div>
+<div class="col-md-12">![agent](/blog/assetsagent.jpg)</div>
 
 <div class="col-md-12">
 

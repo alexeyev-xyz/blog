@@ -2,7 +2,7 @@
 layout: post
 title: "Макроботаника"
 date: 2011-08-30 00:00:00 +0300
-img: "http://media.tumblr.com/tumblr_lqr08iWzJk1qfp23s.jpg"
+img: "tumblr_lqr08iWzJk1qfp23s.jpg"
 tags: [Imported]
 ---
 
@@ -10,6 +10,6 @@ tags: [Imported]
 
 …вот что из этого вышло…
 
-![image](tumblr_lqr08iWzJk1qfp23s.jpg)
+![image](/blog/assetstumblr_lqr08iWzJk1qfp23s.jpg)
 
-![image](tumblr_lqr0cuIs4k1qfp23s.jpg)
+![image](/blog/assetstumblr_lqr0cuIs4k1qfp23s.jpg)

@@ -2,13 +2,13 @@
 layout: post
 title: "Книга 20: Владимир Сорокин &ndash; Настя"
 date: 2016-11-01 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2016/10/sorokin-nastya-211x300.jpg"
+img: "sorokin-nastya-211x300.jpg"
 tags: [Imported]
 ---
 
 Давно на меня художественная литература не производила такого впечатления, как этот рассказ.
 
-![sorokin-nastya](sorokin-nastya-211x300.jpg)
+![sorokin-nastya](/blog/assetssorokin-nastya-211x300.jpg)
 
 Самое ценное в нем то, что когда дочитываешь его до последней строки, первое, что приходит в голову: "ЧТО Я СЕЙЧАС ПРОЧИТАЛ?"
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Навигационные панели в разных окружениях"
 date: 2018-01-31 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2018/01/prod.png"
+img: "prod.png"
 tags: [Imported]
 ---
 
@@ -14,7 +14,7 @@ tags: [Imported]
 
 <div class="aspectRatioPlaceholder is-locked"></div>
 
-<div class="aspectRatioPlaceholder is-locked">[![prod](prod.png)](prod.png) Черная панель — production [![dev](dev.png)](dev.png) Так выглядит панель в dev-окружении  [![stage](stage.png)](stage.png) А так в staging’e
+<div class="aspectRatioPlaceholder is-locked">[![prod](/blog/assetsprod.png)](/blog/assetsprod.png) Черная панель — production [![dev](/blog/assetsdev.png)](/blog/assetsdev.png) Так выглядит панель в dev-окружении  [![stage](/blog/assetsstage.png)](/blog/assetsstage.png) А так в staging’e
 
 **Теперь мы с одного взгляда можем отличить в каком окружении находимся и вряд ли запутаемся.**
 

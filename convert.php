@@ -110,7 +110,7 @@ if($allFiles){
 				$imgToNameFull = "assets/img/".$imgToName;
 				echo "{$pImg} --> $imgToName \n";
 
-				$fileContents = str_replace($pImg, $imgToName, $fileContents);
+				$fileContents = str_replace($pImg, '/blog/assets'.$imgToName, $fileContents);
 				#var_dump(file_put_contents($imgToName, file_get_contents($pImg)));	
 
 
@@ -120,6 +120,7 @@ if($allFiles){
 
 		if(isset($imgMatches['filename'][0])){
 			$image = $imgMatches['filename'][0];
+			$image = pathinfo($image, PATHINFO_FILENAME).'.'.pathinfo($image, PATHINFO_EXTENSION);
 		}
 
 

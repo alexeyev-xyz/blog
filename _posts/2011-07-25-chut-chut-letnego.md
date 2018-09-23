@@ -2,7 +2,7 @@
 layout: post
 title: "Чуть-чуть летнего"
 date: 2011-07-25 00:00:00 +0300
-img: "http://media.tumblr.com/tumblr_lowoizm1u21qfp23s.jpg"
+img: "tumblr_lowoizm1u21qfp23s.jpg"
 tags: [Imported]
 ---
 
@@ -12,8 +12,8 @@ tags: [Imported]
 
 Вот что из этого вышло:
 
-![image](tumblr_lowoizm1u21qfp23s.jpg)
+![image](/blog/assetstumblr_lowoizm1u21qfp23s.jpg)
 
-![image](tumblr_lowokz9ftq1qfp23s.jpg)
+![image](/blog/assetstumblr_lowokz9ftq1qfp23s.jpg)
 
-![image](tumblr_lowonnipwD1qfp23s.jpg)
+![image](/blog/assetstumblr_lowonnipwD1qfp23s.jpg)

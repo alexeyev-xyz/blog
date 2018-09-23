@@ -2,7 +2,7 @@
 layout: post
 title: "We shall live again"
 date: 2016-08-24 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2016/08/cover.png"
+img: "cover.png"
 tags: [Imported]
 ---
 
@@ -12,7 +12,7 @@ tags: [Imported]
 
 Окончательный состав к записи был такой: я, Дима, Никита (саксофон), Леха (бас), Арсений (тромбон). Но из-за личных обстоятельств Леха не смог и бас записывал тоже Дима. 
 
-![cover](cover.png)
+![cover](/blog/assetscover.png)
 
 Записывал и сводил его [Валера](http://vk.com/selfwave), за что ему огромное спасибо. Мы неплохо потусили в процессе записи :)
 На этом ставим точку в истории ICY.

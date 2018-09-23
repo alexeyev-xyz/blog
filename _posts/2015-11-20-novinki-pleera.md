@@ -2,7 +2,7 @@
 layout: post
 title: "Новинки плеера"
 date: 2015-11-20 00:00:00 +0300
-img: "https://pp.vk.me/c622228/v622228023/4b796/Y2ozd2llw1g.jpg"
+img: "Y2ozd2llw1g.jpg"
 tags: [Imported]
 ---
 
@@ -14,4 +14,4 @@ tags: [Imported]
 
 [Обе Две - Дочь рыбака (2015)](https://music.yandex.ru/album/2489597/track/21703963)
 
-<center>![](Y2ozd2llw1g.jpg) ![](fb6jkpR30_M.jpg) ![](m1000x1000.)</center>
+<center>![](/blog/assetsY2ozd2llw1g.jpg) ![](/blog/assetsfb6jkpR30_M.jpg) ![](/blog/assetsm1000x1000.)</center>

@@ -2,13 +2,13 @@
 layout: post
 title: "УНКД 21: Синдром Хелен Лавджой"
 date: 2016-09-10 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2016/09/dolan-think-of-the-children_o_1247322.jpg"
+img: "dolan-think-of-the-children_o_1247322.jpg"
 tags: [Imported]
 ---
 
 **«Подумайте о детях» — фраза, развившаяся в риторический инструмент.**
 
-![dolan-think-of-the-children_o_1247322](dolan-think-of-the-children_o_1247322.jpg)
+![dolan-think-of-the-children_o_1247322](/blog/assetsdolan-think-of-the-children_o_1247322.jpg)
 
 В книге «Art, Argument, and Advocacy: Mastering Parliamentary Debate» авторы называют фразу "Think of the children" ("What about the children?") обращением к жалости, разновидностью обращения к эмоциям — формальной логической ошибки, которая часто используется в дискуссиях спорщиками, чтобы эмоционально воздействовать на аудиторию и избежать логического обсуждения. 
 Этик Джек Маршалл назвал эту фразу тактической попыткой завершить дискуссию, приводя непарируемый аргумент. 

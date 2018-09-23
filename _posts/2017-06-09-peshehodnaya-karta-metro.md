@@ -2,7 +2,7 @@
 layout: post
 title: "Пешеходная карта метро"
 date: 2017-06-09 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2017/06/MssQFg6Zjlc.jpg"
+img: "MssQFg6Zjlc.jpg"
 tags: [Imported]
 ---
 
@@ -10,6 +10,6 @@ tags: [Imported]
 
 Цифры на карте  это время в минутах, если идти пешком.
 
-[![MssQFg6Zjlc](MssQFg6Zjlc.jpg)](MssQFg6Zjlc.jpg)
+[![MssQFg6Zjlc](/blog/assetsMssQFg6Zjlc.jpg)](/blog/assetsMssQFg6Zjlc.jpg)
 
-Фуллсайз лежит тут: [MssQFg6Zjlc.jpg](MssQFg6Zjlc.jpg)
+Фуллсайз лежит тут: [/blog/assetsMssQFg6Zjlc.jpg](/blog/assetsMssQFg6Zjlc.jpg)

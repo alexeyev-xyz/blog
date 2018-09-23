@@ -2,7 +2,7 @@
 layout: post
 title: "УНКД 22: Библейский пояс"
 date: 2017-02-02 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2017/02/bb.jpeg"
+img: "bb.jpeg"
 tags: [Imported]
 ---
 
@@ -14,6 +14,6 @@ tags: [Imported]
 
 Город Нэшвилл в штате Теннесси, расположенный примерно в центре региона, часто называют "пряжкой Библейского пояса".
 
-![bb](bb.jpeg)
+![bb](/blog/assetsbb.jpeg)
 
 Источник: [http://prousa.info/belts](http://prousa.info/belts)

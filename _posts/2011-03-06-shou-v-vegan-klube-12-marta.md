@@ -2,11 +2,11 @@
 layout: post
 title: "Шоу в Веган-клубе 12 марта"
 date: 2011-03-06 00:00:00 +0300
-img: "http://media.tumblr.com/tumblr_lhn0pby6wm1qfp23s.jpg"
+img: "tumblr_lhn0pby6wm1qfp23s.jpg"
 tags: [Imported]
 ---
 
-![](tumblr_lhn0pby6wm1qfp23s.jpg)
+![](/blog/assetstumblr_lhn0pby6wm1qfp23s.jpg)
 
 **12 марта 2011 года** в клубе веганов, что находится на Лиговском проспекте пройдет благотворительный гиг в поддержку антифашиста Рената, которого держат в следственном изоляторе за необходимую оборону.
 

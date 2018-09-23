@@ -2,7 +2,7 @@
 layout: post
 title: "Ищем бас!"
 date: 2011-09-12 00:00:00 +0300
-img: "http://media.tumblr.com/tumblr_lrewcdIB1r1qfp23s.jpg"
+img: "tumblr_lrewcdIB1r1qfp23s.jpg"
 tags: [Imported]
 ---
 
@@ -30,4 +30,4 @@ tags: [Imported]
 
 [http://twitter.com/Rusik_Rusik](http://twitter.com/Rusik_Rusik)
 
-![](tumblr_lrewcdIB1r1qfp23s.jpg)
+![](/blog/assetstumblr_lrewcdIB1r1qfp23s.jpg)

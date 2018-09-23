@@ -2,11 +2,11 @@
 layout: post
 title: "Pencil Vs Camera"
 date: 2011-04-09 00:00:00 +0300
-img: "http://fc06.deviantart.net/fs70/i/2010/234/0/c/Pencil_Vs_Camera___32_by_BenHeine.jpg"
+img: "Pencil_Vs_Camera___32_by_BenHeine.jpg"
 tags: [Imported]
 ---
 
-![image](Pencil_Vs_Camera___32_by_BenHeine.jpg)
+![image](/blog/assetsPencil_Vs_Camera___32_by_BenHeine.jpg)
 
 Привет!
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Интернет-магазины и рейтинги в Яндекс.Маркете"
 date: 2014-09-06 00:00:00 +0300
-img: "http://ic.pics.livejournal.com/vlaimspb/71326704/5575/5575_600.jpg "
+img: "5575_600.jpg "
 tags: [Imported]
 ---
 
@@ -10,4 +10,4 @@ tags: [Imported]
 
 Кругом обман, везде тебя пытаются обмануть плохие люди. Даже ботанический сад принадлежит масонам. 
 
-<div style="text-align: center;">![VvIEvIXOxZ0](5575_600.jpg "VvIEvIXOxZ0")</div>
+<div style="text-align: center;">![VvIEvIXOxZ0](/blog/assets5575_600.jpg "VvIEvIXOxZ0")</div>

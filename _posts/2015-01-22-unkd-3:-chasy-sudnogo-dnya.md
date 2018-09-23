@@ -2,7 +2,7 @@
 layout: post
 title: "УНКД 3: Часы Судного Дня"
 date: 2015-01-22 00:00:00 +0300
-img: "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Doomsday_Clock_graph_ru.svg/600px-Doomsday_Clock_graph_ru.svg.png"
+img: "600px-Doomsday_Clock_graph_ru.svg.png"
 tags: [Imported]
 ---
 
@@ -12,4 +12,4 @@ tags: [Imported]
 
 Сегодня до судного дня осталось 3 минуты 
 
-![](600px-Doomsday_Clock_graph_ru.svg.png)
+![](/blog/assets600px-Doomsday_Clock_graph_ru.svg.png)

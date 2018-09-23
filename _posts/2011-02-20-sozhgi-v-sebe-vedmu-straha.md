@@ -2,10 +2,10 @@
 layout: post
 title: "Сожги в себе ведьму страха"
 date: 2011-02-20 00:00:00 +0300
-img: "http://media.tumblr.com/tumblr_lgx5wl9vKC1qfp23s.png"
+img: "tumblr_lgx5wl9vKC1qfp23s.png"
 tags: [Imported]
 ---
 
-![](tumblr_lgx5wl9vKC1qfp23s.png)
+![](/blog/assetstumblr_lgx5wl9vKC1qfp23s.png)
 
 Мерч от темных сил <3

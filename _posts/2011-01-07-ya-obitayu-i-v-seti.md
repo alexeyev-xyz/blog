@@ -2,7 +2,7 @@
 layout: post
 title: "Я обитаю и в сети"
 date: 2011-01-07 00:00:00 +0300
-img: "http://cs10899.vkontakte.ru/u1509892/-6/x_442e6b5b.jpg"
+img: "x_442e6b5b.jpg"
 tags: [Imported]
 ---
 
@@ -10,4 +10,4 @@ tags: [Imported]
 
 Один мне очень дорогой человек сказал, что я похож на Стича. Пусть он охраняет покой моего нового блога!
 
- ![image](x_442e6b5b.jpg)
+ ![image](/blog/assetsx_442e6b5b.jpg)

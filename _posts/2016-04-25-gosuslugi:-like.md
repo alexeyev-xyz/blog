@@ -2,7 +2,7 @@
 layout: post
 title: "Госуслуги: like"
 date: 2016-04-25 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2016/04/IMG_2016-04-25-235450-1024x759.jpg"
+img: "IMG_2016-04-25-235450-1024x759.jpg"
 tags: [Imported]
 ---
 
@@ -21,4 +21,4 @@ tags: [Imported]
 
 Так держать!
 
-![IMG_2016-04-25 23:54:50](IMG_2016-04-25-235450-1024x759.jpg)
+![IMG_2016-04-25 23:54:50](/blog/assetsIMG_2016-04-25-235450-1024x759.jpg)

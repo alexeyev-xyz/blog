@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: октябрь"
 date: 2015-11-01 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2015/11/imitation_game.jpg"
+img: "imitation_game.jpg"
 tags: [Imported]
 ---
 
@@ -19,8 +19,8 @@ _Решил вести некое подобие дневника, в котор
 
 **Фильм месяца **
 
-![imitation_game](imitation_game.jpg)
+![imitation_game](/blog/assetsimitation_game.jpg)
 
 **Книга месяца**
 
-![Kurilov](Kurilov-760x1024.jpg)
+![Kurilov](/blog/assetsKurilov-760x1024.jpg)

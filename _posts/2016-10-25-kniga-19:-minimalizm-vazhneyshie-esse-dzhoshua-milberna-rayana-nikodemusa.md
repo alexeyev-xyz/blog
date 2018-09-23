@@ -2,11 +2,11 @@
 layout: post
 title: "Книга 19: Минимализм. Важнейшие эссе Джошуа Мильберна, Райана Никодемуса"
 date: 2016-10-25 00:00:00 +0300
-img: "https://vlaim.s3.amazonaws.com/uploads/2016/10/the-minimalists.png"
+img: "the-minimalists.png"
 tags: [Imported]
 ---
 
-![the-minimalists](the-minimalists.png)
+![the-minimalists](/blog/assetsthe-minimalists.png)
 
 Впервые узнал об этих ребятах и сайте [theminimalists.com](http://www.theminimalists.com/), когда увидел на канале TEDx это видео. По сути, книга – сборник эссе, написанных в разное время с этого сайта.
 
