@@ -1,3 +1,8 @@
+---
+layout:post
+title:Вас пугает новое?
+tags:[Imported]
+---
 # Вас пугает новое? 
 
 > <div>

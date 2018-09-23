@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: ноябрь
+tags:[Imported]
+---
 # Дневник месяца: ноябрь
 
 Disclaimer:

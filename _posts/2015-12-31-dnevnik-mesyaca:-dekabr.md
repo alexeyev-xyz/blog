@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: декабрь
+tags:[Imported]
+---
 # Дневник месяца: декабрь
 
 Disclaimer:

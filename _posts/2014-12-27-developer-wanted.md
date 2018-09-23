@@ -1,3 +1,8 @@
+---
+layout:post
+title:DEVELOPER WANTED
+tags:[Imported]
+---
 # DEVELOPER WANTED
 
 ИЩЕМ FULLSTACK DEVELOPER'A

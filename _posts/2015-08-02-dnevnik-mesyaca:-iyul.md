@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: июль
+tags:[Imported]
+---
 # Дневник месяца: июль
 
 Disclaimer:

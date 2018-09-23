@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: сентябрь
+tags:[Imported]
+---
 # Дневник месяца: сентябрь
 
 Disclaimer:

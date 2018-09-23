@@ -1,3 +1,8 @@
+---
+layout:post
+title:Хайфон, бухта Халонг
+tags:[Imported]
+---
 # Хайфон, бухта Халонг 
 
 [![halong-03](https://vlaim.s3.amazonaws.com/uploads/2017/11/halong-03.jpg)](https://vlaim.s3.amazonaws.com/uploads/2017/11/halong-03.jpg)

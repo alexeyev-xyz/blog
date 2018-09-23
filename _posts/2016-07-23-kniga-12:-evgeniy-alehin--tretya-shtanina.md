@@ -1,3 +1,8 @@
+---
+layout:post
+title:Книга 12: Евгений Алехин – Третья штанина
+tags:[Imported]
+---
 # Книга #12: Евгений Алехин – Третья штанина
 
 ![13165](https://vlaim.s3.amazonaws.com/uploads/2016/07/13165-300x222.jpg)

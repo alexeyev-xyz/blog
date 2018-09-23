@@ -93,6 +93,12 @@ if($allFiles){
 		#var_dump($fullPostTitle);
 
 		$fileContents = file_get_contents($file);
+
+		$fileHeader = "---\nlayout:post\ntitle:{$firstLine}\ntags:[Imported]\n---\n";
+
+		$fileContents = $fileHeader.$fileContents;
+
+		
 		$pathTo = $directoryTo.'/'.$fullPostTitle;
 
 		file_put_contents($pathTo, $fileContents);

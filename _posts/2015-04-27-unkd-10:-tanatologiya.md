@@ -1,3 +1,8 @@
+---
+layout:post
+title:УНКД 10: Танатология
+tags:[Imported]
+---
 # УНКД #10: Танатология 
 
 **Юбилейный выпуск рубрики [Узнаем Новое Каждый День](https://blog.alexeyev.me/facts-every-day/)**

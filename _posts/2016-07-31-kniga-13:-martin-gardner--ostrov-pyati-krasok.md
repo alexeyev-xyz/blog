@@ -1,3 +1,8 @@
+---
+layout:post
+title:Книга 13: Мартин Гарднер – Остров пяти красок
+tags:[Imported]
+---
 # Книга #13: Мартин Гарднер – Остров пяти красок
 
 ![gardner](https://vlaim.s3.amazonaws.com/uploads/2016/07/gardner.jpeg)

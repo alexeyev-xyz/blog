@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: март
+tags:[Imported]
+---
 # Дневник месяца: март
 
 Disclaimer:

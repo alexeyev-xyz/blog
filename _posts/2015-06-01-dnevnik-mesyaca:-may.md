@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: май
+tags:[Imported]
+---
 # Дневник месяца: май
 
 Disclaimer:

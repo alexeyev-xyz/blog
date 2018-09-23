@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: июнь
+tags:[Imported]
+---
 # Дневник месяца: июнь
 
 Disclaimer:

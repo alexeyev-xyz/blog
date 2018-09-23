@@ -1,3 +1,8 @@
+---
+layout:post
+title:Мартин Гарднер
+tags:[Imported]
+---
 # Мартин Гарднер
 
 > [http://lib.ru/INOFANT/GARDNER_M/island.txt](http://lib.ru/INOFANT/GARDNER_M/island.txt)

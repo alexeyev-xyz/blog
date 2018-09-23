@@ -1,3 +1,8 @@
+---
+layout:post
+title:Плейлист: Russian Party & Russian Depression
+tags:[Imported]
+---
 # Плейлист: Russian Party & Russian Depression
 
 Накатило вдохновение заняться блогом и составить парочку плейлистов. 

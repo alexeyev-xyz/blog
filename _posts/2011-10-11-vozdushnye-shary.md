@@ -1,3 +1,8 @@
+---
+layout:post
+title:Воздушные шары
+tags:[Imported]
+---
 # Воздушные шары 
 
 ![image](http://media.tumblr.com/tumblr_lswzktsb0U1qfp23s.jpg)

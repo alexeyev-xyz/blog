@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: февраль
+tags:[Imported]
+---
 # Дневник месяца: февраль
 
 Disclaimer:

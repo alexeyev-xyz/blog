@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: октябрь
+tags:[Imported]
+---
 # Дневник месяца: октябрь
 
 Disclaimer:

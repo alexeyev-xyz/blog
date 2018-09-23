@@ -1,3 +1,8 @@
+---
+layout:post
+title:УНКД 19: Церковный хор и стикеры
+tags:[Imported]
+---
 # УНКД #19: Церковный хор и стикеры
 
 [![tumblr_llibryOEpT1qe7mxjo1_500](https://vlaim.s3.amazonaws.com/uploads/2016/08/tumblr_llibryOEpT1qe7mxjo1_500.jpg)](https://vlaim.s3.amazonaws.com/uploads/2016/08/tumblr_llibryOEpT1qe7mxjo1_500.jpg)

@@ -1,3 +1,8 @@
+---
+layout:post
+title:Дневник месяца: август
+tags:[Imported]
+---
 # Дневник месяца: август
 
 Disclaimer:

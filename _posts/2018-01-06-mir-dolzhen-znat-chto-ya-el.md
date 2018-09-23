@@ -1,3 +1,8 @@
+---
+layout:post
+title:Мир должен знать, что я ел
+tags:[Imported]
+---
 # Мир должен знать, что я ел
 
 [![IMG_20171205_170154](https://vlaim.s3.amazonaws.com/uploads/2018/01/IMG_20171205_170154.jpg)](https://vlaim.s3.amazonaws.com/uploads/2018/01/IMG_20171205_170154.jpg) Домашняя запеченая катошка с сыром

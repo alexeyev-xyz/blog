@@ -1,3 +1,8 @@
+---
+layout:post
+title:Комментарии are now available!
+tags:[Imported]
+---
 # Комментарии are now available!
 
 ![](http://media.tumblr.com/tumblr_lqj8o58M4M1qfp23s.gif) 
