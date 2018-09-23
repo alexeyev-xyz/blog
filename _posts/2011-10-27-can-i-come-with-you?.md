@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ...Can I come with you?
+title: Can I come with you?
 date: 2011-10-27 00:00:00 +0300
 tags: [Imported]
 ---
-# ...Can I come with you?
+# Can I come with you?
 
 ###### <span class="messageBody translationEligibleUserMessage">![](http://media.tumblr.com/tumblr_ltqlx57G3E1qfp23s.jpg)</span>
 
