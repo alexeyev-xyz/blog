@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Книга 17 Стивен Гайз — MINI-привычки – MAXI-результаты
+title: kek
 date: 2017-08-20 13:32:20 +0300
 tags: [Imported]
 ---
