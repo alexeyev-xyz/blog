@@ -108,7 +108,7 @@ if($allFiles){
 			foreach($imgMatches['filename'] as $pImg){
 				$imgToName = (pathinfo($pImg, PATHINFO_FILENAME).'.'.pathinfo($pImg, PATHINFO_EXTENSION));
 				$imgToNameFull = "assets/img/".$imgToName;
-				echo "{$pImg} --> $imgToName \n";
+				#echo "{$pImg} --> $imgToName \n";
 
 				$fileContents = str_replace($pImg, '/blog/assets/img/'.$imgToName, $fileContents);
 				#var_dump(file_put_contents($imgToName, file_get_contents($pImg)));	
