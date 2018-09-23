@@ -103,11 +103,11 @@ if($allFiles){
 		$firstLine = $firstLine ? $firstLine : 'test';
 
 
-		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
+		$fileHeader = "---\nlayout: post\ntitle:{$firstLine}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
 
 		$fileContents = $fileHeader.$fileContents;
 
-		$kek .= $firstLine."\n"; 
+		$kek .= $fileHeader."\n"; 
 
 		file_put_contents('.kek', $kek);
 

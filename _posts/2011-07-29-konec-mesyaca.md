@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Конец месяца
+title:Конец месяца
 date: 2011-07-29 00:00:00 +0300
 tags: [Imported]
 ---

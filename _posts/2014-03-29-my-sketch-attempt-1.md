@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My sketch attempt 1
+title:My sketch attempt 1
 date: 2014-03-29 00:00:00 +0300
 tags: [Imported]
 ---
