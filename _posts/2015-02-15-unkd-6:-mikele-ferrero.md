@@ -1,6 +1,5 @@
 ---
 layout: post
-title:УНКД 6 Микеле Ферреро
 date: 2015-02-15 00:00:00 +0300
 tags: [Imported]
 ---

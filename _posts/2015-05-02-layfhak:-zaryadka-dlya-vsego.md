@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Лайфхак зарядка для всего
 date: 2015-05-02 00:00:00 +0300
 tags: [Imported]
 ---

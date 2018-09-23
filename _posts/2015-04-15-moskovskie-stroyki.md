@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Московские стройки
 date: 2015-04-15 00:00:00 +0300
 tags: [Imported]
 ---

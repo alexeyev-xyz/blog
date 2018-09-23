@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Ищем бас
 date: 2011-09-12 00:00:00 +0300
 tags: [Imported]
 ---

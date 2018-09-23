@@ -1,6 +1,5 @@
 ---
 layout: post
-title:УНКД 5 Карбонара
 date: 2015-02-12 00:00:00 +0300
 tags: [Imported]
 ---

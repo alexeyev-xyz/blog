@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Мысли виртуального я
 date: 2011-02-02 00:00:00 +0300
 tags: [Imported]
 ---

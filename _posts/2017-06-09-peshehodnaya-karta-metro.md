@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Пешеходная карта метро
 date: 2017-06-09 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Странный ответ
 date: 2015-05-01 00:00:00 +0300
 tags: [Imported]
 ---

@@ -103,11 +103,14 @@ if($allFiles){
 		$firstLine = $firstLine ? $firstLine : 'test';
 
 
-		$fileHeader = "---\nlayout: post\ntitle:{$firstLine}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
+		$fileHeader = "---\nlayout: post\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
 
 		$fileContents = $fileHeader.$fileContents;
 
-		$kek .= $fileHeader."\n"; 
+		$kek .= mb_substr($firstLine, 0, 1)."\n"; 
+
+		if(!ctype_alpha(mb_substr($firstLine, 0, 1)) && !ctype_digit(mb_substr($firstLine, 0, 1)))
+			var_dump(mb_substr($firstLine, 0, 1));
 
 		file_put_contents('.kek', $kek);
 

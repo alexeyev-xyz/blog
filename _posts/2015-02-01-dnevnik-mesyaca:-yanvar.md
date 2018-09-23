@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Дневник месяца январь
 date: 2015-02-01 00:00:00 +0300
 tags: [Imported]
 ---

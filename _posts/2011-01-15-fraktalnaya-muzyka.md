@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Фрактальная музыка
 date: 2011-01-15 00:00:00 +0300
 tags: [Imported]
 ---

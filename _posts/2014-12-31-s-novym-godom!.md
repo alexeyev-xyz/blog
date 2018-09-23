@@ -1,6 +1,5 @@
 ---
 layout: post
-title:С новым годом
 date: 2014-12-31 00:00:00 +0300
 tags: [Imported]
 ---

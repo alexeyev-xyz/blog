@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Дневник месяца сентябрь
 date: 2016-10-01 00:00:00 +0300
 tags: [Imported]
 ---

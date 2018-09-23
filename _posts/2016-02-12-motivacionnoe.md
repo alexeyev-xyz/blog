@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Мотивационное
 date: 2016-02-12 00:00:00 +0300
 tags: [Imported]
 ---

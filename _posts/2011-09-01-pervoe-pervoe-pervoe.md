@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Первое первое первое
 date: 2011-09-01 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Солнечное
 date: 2015-07-09 00:00:00 +0300
 tags: [Imported]
 ---

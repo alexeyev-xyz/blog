@@ -1,6 +1,5 @@
 ---
 layout: post
-title:We shall live again
 date: 2016-08-24 00:00:00 +0300
 tags: [Imported]
 ---

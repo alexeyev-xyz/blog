@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Этой весной
 date: 2011-03-05 00:00:00 +0300
 tags: [Imported]
 ---

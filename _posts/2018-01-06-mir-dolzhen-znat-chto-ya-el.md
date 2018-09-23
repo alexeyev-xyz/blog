@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Мир должен знать что я ел
 date: 2018-01-06 00:00:00 +0300
 tags: [Imported]
 ---

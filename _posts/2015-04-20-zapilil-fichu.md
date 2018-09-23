@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Запилил фичу
 date: 2015-04-20 00:00:00 +0300
 tags: [Imported]
 ---

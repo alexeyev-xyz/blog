@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Музыканты в сети
 date: 2014-11-20 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Сейчас или никогда
 date: 2016-05-12 00:00:00 +0300
 tags: [Imported]
 ---

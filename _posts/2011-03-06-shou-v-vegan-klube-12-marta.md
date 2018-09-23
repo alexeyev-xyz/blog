@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Шоу в Веганклубе 12 марта
 date: 2011-03-06 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Москва январь 18
 date: 2018-01-16 00:00:00 +0300
 tags: [Imported]
 ---

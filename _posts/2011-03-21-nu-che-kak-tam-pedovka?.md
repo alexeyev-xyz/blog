@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Ну че как там педовка
 date: 2011-03-21 00:00:00 +0300
 tags: [Imported]
 ---

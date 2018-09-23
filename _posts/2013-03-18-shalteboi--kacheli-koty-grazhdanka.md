@@ -1,6 +1,5 @@
 ---
 layout: post
-title:shalteboi  Качели Коты Гражданка
 date: 2013-03-18 00:00:00 +0300
 tags: [Imported]
 ---

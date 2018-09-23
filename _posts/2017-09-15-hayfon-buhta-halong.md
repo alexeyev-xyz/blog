@@ -1,6 +1,5 @@
 ---
 layout: post
-title:Хайфон бухта Халонг
 date: 2017-09-15 00:00:00 +0300
 tags: [Imported]
 ---
