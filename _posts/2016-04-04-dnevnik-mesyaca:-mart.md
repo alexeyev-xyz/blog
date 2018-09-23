@@ -2,6 +2,7 @@
 layout: post
 title: "Дневник месяца: март"
 date: 2016-04-04 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/04/Affinazh-1-640.jpg
 tags: [Imported]
 ---
 

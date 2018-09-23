@@ -2,6 +2,7 @@
 layout: post
 title: "Дневник месяца: сентябрь"
 date: 2015-10-13 00:00:00 +0300
+img: https://38.media.tumblr.com/60be4bfec53ae0e77390e6194f6727cf/tumblr_no26hcpCUC1uowxd8o1_250.gif
 tags: [Imported]
 ---
 

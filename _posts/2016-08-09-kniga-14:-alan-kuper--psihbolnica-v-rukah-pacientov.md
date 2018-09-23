@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 14: Алан Купер &ndash; Психбольница в руках пациентов"
 date: 2016-08-09 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/08/cooper-231x300.jpg
 tags: [Imported]
 ---
 

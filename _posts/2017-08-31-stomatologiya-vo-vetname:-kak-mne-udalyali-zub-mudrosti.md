@@ -2,6 +2,7 @@
 layout: post
 title: "Стоматология во Вьетнаме: как мне удаляли зуб мудрости"
 date: 2017-08-31 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2017/08/IMG_20170822_152050.jpg
 tags: [Imported]
 ---
 

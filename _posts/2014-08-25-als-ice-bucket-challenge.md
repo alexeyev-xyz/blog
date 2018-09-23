@@ -2,6 +2,7 @@
 layout: post
 title: "ALS Ice Bucket Challenge"
 date: 2014-08-25 00:00:00 +0300
+img: https://pp.vk.me/c623926/v623926392/2ad32/097p1_1fJpU.jpg
 tags: [Imported]
 ---
 

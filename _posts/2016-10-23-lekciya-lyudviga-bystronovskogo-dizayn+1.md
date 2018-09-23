@@ -2,6 +2,7 @@
 layout: post
 title: "Лекция Людвига Быстроновского &laquo;Дизайн+1&raquo;"
 date: 2016-10-23 00:00:00 +0300
+img: 
 tags: [Imported]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 11: Стивен Дабнер, Стивен Левитт &ndash; Фрикомыслие"
 date: 2016-07-01 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/06/1873343-1-225x300.jpg
 tags: [Imported]
 ---
 

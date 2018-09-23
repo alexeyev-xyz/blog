@@ -2,6 +2,7 @@
 layout: post
 title: "Хельсинки-Стокгольм, Март '17"
 date: 2017-04-02 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2017/03/hel1.jpg
 tags: [Imported]
 ---
 

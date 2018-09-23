@@ -2,6 +2,7 @@
 layout: post
 title: "Книги, которые читают"
 date: 2014-08-27 00:00:00 +0300
+img: /wp-content/uploads/2014/08/danya.jpg
 tags: [Imported]
 ---
 

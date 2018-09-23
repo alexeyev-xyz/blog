@@ -2,6 +2,7 @@
 layout: post
 title: "Дневник месяца: сентябрь"
 date: 2016-10-01 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/09/IMG_20160930_222738_HDR.jpg
 tags: [Imported]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Аналог ОРФУС в HGHMAG.RU"
 date: 2014-08-23 00:00:00 +0300
+img: http://ic.pics.livejournal.com/vlaimspb/71326704/2297/2297_900.png 
 tags: [Imported]
 ---
 

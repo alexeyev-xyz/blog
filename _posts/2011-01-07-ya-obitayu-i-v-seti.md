@@ -2,6 +2,7 @@
 layout: post
 title: "Я обитаю и в сети"
 date: 2011-01-07 00:00:00 +0300
+img: http://cs10899.vkontakte.ru/u1509892/-6/x_442e6b5b.jpg
 tags: [Imported]
 ---
 

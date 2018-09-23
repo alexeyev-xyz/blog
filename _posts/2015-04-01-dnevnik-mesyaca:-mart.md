@@ -2,6 +2,7 @@
 layout: post
 title: "Дневник месяца: март"
 date: 2015-04-01 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2015/04/261.gif
 tags: [Imported]
 ---
 

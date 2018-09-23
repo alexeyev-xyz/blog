@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 07: Лена Климова &ndash; Дети-404"
 date: 2016-04-11 00:00:00 +0300
+img: 
 tags: [Imported]
 ---
 

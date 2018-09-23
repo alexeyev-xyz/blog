@@ -2,6 +2,7 @@
 layout: post
 title: "Большой пост про Вьетнам: минусы и плюсы"
 date: 2017-11-12 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2017/11/flags.jpg
 tags: [Imported]
 ---
 

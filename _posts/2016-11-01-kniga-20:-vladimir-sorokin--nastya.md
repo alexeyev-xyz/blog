@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 20: Владимир Сорокин &ndash; Настя"
 date: 2016-11-01 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/10/sorokin-nastya-211x300.jpg
 tags: [Imported]
 ---
 

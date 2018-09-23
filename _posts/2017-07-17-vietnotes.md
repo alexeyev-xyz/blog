@@ -2,6 +2,7 @@
 layout: post
 title: "Vietnotes"
 date: 2017-07-17 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2017/07/t-me-vietnotes.png
 tags: [Imported]
 ---
 

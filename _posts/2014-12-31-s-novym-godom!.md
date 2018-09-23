@@ -2,6 +2,7 @@
 layout: post
 title: "С новым годом!"
 date: 2014-12-31 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2014/12/image_560601121624089003971-300x233.jpg
 tags: [Imported]
 ---
 

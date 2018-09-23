@@ -2,6 +2,7 @@
 layout: post
 title: "Hate pt 3. Электричество"
 date: 2014-12-12 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2014/12/tuner59-300x181.gif
 tags: [Imported]
 ---
 

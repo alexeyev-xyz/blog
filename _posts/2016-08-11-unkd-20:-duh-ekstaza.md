@@ -2,6 +2,7 @@
 layout: post
 title: "УНКД 20: Дух Экстаза"
 date: 2016-08-11 00:00:00 +0300
+img: https://f-a.d-cd.net/aad498cs-960.jpg
 tags: [Imported]
 ---
 

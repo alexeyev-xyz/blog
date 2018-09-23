@@ -2,6 +2,7 @@
 layout: post
 title: "Лайфхак: зарядка для всего"
 date: 2015-05-02 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2015/05/Skrinshot-2015-05-01-23.50.08.png
 tags: [Imported]
 ---
 

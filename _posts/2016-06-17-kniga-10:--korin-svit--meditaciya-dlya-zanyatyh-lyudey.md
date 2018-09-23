@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 10:  Корин Свит &ndash; Медитация для занятых людей"
 date: 2016-06-17 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/06/1013657653-242x300.jpg
 tags: [Imported]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Чуть-чуть летнего"
 date: 2011-07-25 00:00:00 +0300
+img: http://media.tumblr.com/tumblr_lowoizm1u21qfp23s.jpg
 tags: [Imported]
 ---
 

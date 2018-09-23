@@ -2,6 +2,7 @@
 layout: post
 title: "Госуслуги: like"
 date: 2016-04-25 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/04/IMG_2016-04-25-235450-1024x759.jpg
 tags: [Imported]
 ---
 

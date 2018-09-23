@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 16: Александр Балунов &ndash; Между Купчино и Ржевкой"
 date: 2016-09-21 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/09/kish.jpeg
 tags: [Imported]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Дневник месяца: июль"
 date: 2015-08-02 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2015/08/Skrinshot-2015-08-01-00.00.57.png
 tags: [Imported]
 ---
 

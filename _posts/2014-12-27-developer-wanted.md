@@ -2,6 +2,7 @@
 layout: post
 title: "DEVELOPER WANTED"
 date: 2014-12-27 00:00:00 +0300
+img: 
 tags: [Imported]
 ---
 

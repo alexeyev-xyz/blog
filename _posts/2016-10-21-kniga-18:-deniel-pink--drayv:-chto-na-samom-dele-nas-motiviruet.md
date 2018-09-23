@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 18: Дэниел Пинк &ndash; Драйв: Что на самом деле нас мотивирует"
 date: 2016-10-21 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/10/1007103541-233x300.jpg
 tags: [Imported]
 ---
 

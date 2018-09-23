@@ -2,6 +2,7 @@
 layout: post
 title: "Плейлист: Russian Party &amp; Russian Depression"
 date: 2015-12-28 00:00:00 +0300
+img: 
 tags: [Imported]
 ---
 

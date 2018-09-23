@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 04: TheQuestion. Самые странные вопросы обо всем. Том 1"
 date: 2016-02-27 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/02/1013960923-231x300.jpg
 tags: [Imported]
 ---
 

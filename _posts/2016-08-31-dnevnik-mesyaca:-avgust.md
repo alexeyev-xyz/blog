@@ -2,6 +2,7 @@
 layout: post
 title: "Дневник месяца: август"
 date: 2016-08-31 00:00:00 +0300
+img: https://scontent.cdninstagram.com/t51.2885-15/e35/13743332_179755835777573_12993871_n.jpg
 tags: [Imported]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "УНКД 2: Утиный тест"
 date: 2015-01-19 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2015/01/z0db932f7-300x225.jpg
 tags: [Imported]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Лаппенранта"
 date: 2016-10-31 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/11/IMG_20161030_115853.jpg
 tags: [Imported]
 ---
 

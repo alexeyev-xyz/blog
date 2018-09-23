@@ -2,6 +2,7 @@
 layout: post
 title: "Сохраненные гифки"
 date: 2015-12-09 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2015/12/giphy.gif
 tags: [Imported]
 ---
 

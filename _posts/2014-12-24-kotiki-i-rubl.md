@@ -2,6 +2,7 @@
 layout: post
 title: "Котики и рубль"
 date: 2014-12-24 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2014/12/Snimok-e`krana-2014-12-24-v-18.00.48-300x246.png
 tags: [Imported]
 ---
 

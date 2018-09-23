@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 02: Раджа Халвани, Эон Скобл &ndash; &laquo;Симпсоны&raquo; как философия"
 date: 2016-01-14 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/01/cover_simp_phil.jpg
 tags: [Imported]
 ---
 

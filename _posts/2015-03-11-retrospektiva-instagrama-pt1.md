@@ -2,6 +2,7 @@
 layout: post
 title: "Ретроспектива инстаграма pt.1"
 date: 2015-03-11 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2015/03/IMG_0060.jpg
 tags: [Imported]
 ---
 

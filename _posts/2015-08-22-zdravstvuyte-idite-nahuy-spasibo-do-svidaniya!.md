@@ -2,6 +2,7 @@
 layout: post
 title: "Здравствуйте. Идите нахуй. Спасибо, до свидания!"
 date: 2015-08-22 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2015/08/Skrinshot-2015-08-22-17.22.42.png
 tags: [Imported]
 ---
 

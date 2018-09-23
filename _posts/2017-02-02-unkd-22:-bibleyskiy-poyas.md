@@ -2,6 +2,7 @@
 layout: post
 title: "УНКД 22: Библейский пояс"
 date: 2017-02-02 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2017/02/bb.jpeg
 tags: [Imported]
 ---
 

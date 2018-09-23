@@ -100,10 +100,21 @@ if($allFiles){
 
 		$firstLine = $firstLine ? $firstLine : $fullDate;
 
+		preg_match('/!\[[^\]]*\]\((?<filename>.*?)(?=\"|\))(?<optionalpart>\".*\")?\)/', $fileContents, $imgMatches);
 
-		$fileHeader = "---\nlayout: post\ntitle: \"{$firstLine}\"\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
+		$image = '';
+
+		if($imgMatches){
+			$image = ($imgMatches['filename']);
+		}
+
+
+		$fileHeader = "---\nlayout: post\ntitle: \"{$firstLine}\"\ndate: {$fullDate} 00:00:00 +0300\nimg: {$image}\ntags: [Imported]\n---\n";
 
 		$fileContents = $fileHeader.$fileContents;
+
+
+		
 
 
 		/*$kek .= $firstLine."\n"; 

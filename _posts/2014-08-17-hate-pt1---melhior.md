@@ -2,6 +2,7 @@
 layout: post
 title: "Hate pt.1 - Мельхиор"
 date: 2014-08-17 00:00:00 +0300
+img: http://ic.pics.livejournal.com/vlaimspb/71326704/413/413_900.jpg 
 tags: [Imported]
 ---
 

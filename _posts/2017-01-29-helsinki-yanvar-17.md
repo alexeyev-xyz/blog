@@ -2,6 +2,7 @@
 layout: post
 title: "Хельсинки, январь '17"
 date: 2017-01-29 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2017/01/u_04.jpg
 tags: [Imported]
 ---
 

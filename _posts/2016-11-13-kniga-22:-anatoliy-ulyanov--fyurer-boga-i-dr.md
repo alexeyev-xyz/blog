@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 22: Анатолий Ульянов &ndash; Фюрер Бога и др."
 date: 2016-11-13 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/10/fuhrerboga-300x226.png
 tags: [Imported]
 ---
 

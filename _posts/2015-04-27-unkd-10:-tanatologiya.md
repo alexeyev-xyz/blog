@@ -2,6 +2,7 @@
 layout: post
 title: "УНКД 10: Танатология"
 date: 2015-04-27 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2015/04/worst-way-to-die-2.jpg
 tags: [Imported]
 ---
 

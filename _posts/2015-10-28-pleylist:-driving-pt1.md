@@ -2,6 +2,7 @@
 layout: post
 title: "Плейлист: Driving pt.1"
 date: 2015-10-28 00:00:00 +0300
+img: 
 tags: [Imported]
 ---
 

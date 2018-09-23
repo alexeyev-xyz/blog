@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 12: Евгений Алехин &ndash; Третья штанина"
 date: 2016-07-23 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/07/13165-300x222.jpg
 tags: [Imported]
 ---
 

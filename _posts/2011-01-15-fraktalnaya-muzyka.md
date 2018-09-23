@@ -2,6 +2,7 @@
 layout: post
 title: "Фрактальная музыка"
 date: 2011-01-15 00:00:00 +0300
+img: http://assets0.lookatme.ru/assets/article_image-image/b7/9e/173354/article_image-image-article.jpg?1230155155
 tags: [Imported]
 ---
 

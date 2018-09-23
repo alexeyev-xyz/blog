@@ -2,6 +2,7 @@
 layout: post
 title: "Книга 23: Пьер Байяр &ndash; Искусство рассуждать о книгах, которых вы не читали"
 date: 2016-11-25 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/11/bayard-225x300.jpg
 tags: [Imported]
 ---
 

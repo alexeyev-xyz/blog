@@ -2,6 +2,7 @@
 layout: post
 title: "Мое мнение по поводу Ice bucket challenge"
 date: 2014-08-26 00:00:00 +0300
+img: 
 tags: [Imported]
 ---
 

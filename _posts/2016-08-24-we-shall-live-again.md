@@ -2,6 +2,7 @@
 layout: post
 title: "We shall live again"
 date: 2016-08-24 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/08/cover.png
 tags: [Imported]
 ---
 

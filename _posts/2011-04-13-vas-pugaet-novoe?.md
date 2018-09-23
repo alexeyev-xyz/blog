@@ -2,6 +2,7 @@
 layout: post
 title: "Вас пугает новое?"
 date: 2011-04-13 00:00:00 +0300
+img: http://media.tumblr.com/tumblr_ljlegiQgDZ1qfp23s.jpg
 tags: [Imported]
 ---
 

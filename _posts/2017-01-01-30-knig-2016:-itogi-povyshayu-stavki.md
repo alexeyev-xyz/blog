@@ -2,6 +2,7 @@
 layout: post
 title: "30 книг 2016: Итоги. Повышаю ставки."
 date: 2017-01-01 00:00:00 +0300
+img: https://vlaim.s3.amazonaws.com/uploads/2016/12/Screen-Shot-2016-12-12-at-17.00.17-e1481551489605.png
 tags: [Imported]
 ---
 

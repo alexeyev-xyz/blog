@@ -2,6 +2,7 @@
 layout: post
 title: "Новинки плеера"
 date: 2015-11-20 00:00:00 +0300
+img: https://pp.vk.me/c622228/v622228023/4b796/Y2ozd2llw1g.jpg
 tags: [Imported]
 ---
 
