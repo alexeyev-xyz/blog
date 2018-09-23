@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vlad-zapisalsya-v-bassein
+title: test
 date: 2011-05-15 00:00:00 +0300
 tags: [Imported]
 ---

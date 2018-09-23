@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kontrolnye-tochki
+title: test
 date: 2011-10-04 00:00:00 +0300
 tags: [Imported]
 ---

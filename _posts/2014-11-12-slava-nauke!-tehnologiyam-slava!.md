@@ -1,6 +1,6 @@
 ---
 layout: post
-title: slava-nauke!-tehnologiyam-slava!
+title: test
 date: 2014-11-12 00:00:00 +0300
 tags: [Imported]
 ---

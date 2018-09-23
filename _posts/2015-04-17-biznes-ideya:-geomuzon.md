@@ -1,6 +1,6 @@
 ---
 layout: post
-title: biznes-ideya:-geomuzon
+title: test
 date: 2015-04-17 00:00:00 +0300
 tags: [Imported]
 ---

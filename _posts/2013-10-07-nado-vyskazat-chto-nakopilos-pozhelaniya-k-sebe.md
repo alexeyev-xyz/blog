@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nado-vyskazat-chto-nakopilos-pozhelaniya-k-sebe
+title: test
 date: 2013-10-07 00:00:00 +0300
 tags: [Imported]
 ---

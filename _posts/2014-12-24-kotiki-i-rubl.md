@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kotiki-i-rubl
+title: test
 date: 2014-12-24 00:00:00 +0300
 tags: [Imported]
 ---

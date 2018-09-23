@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ya-obitayu-i-v-seti
+title: test
 date: 2011-01-07 00:00:00 +0300
 tags: [Imported]
 ---

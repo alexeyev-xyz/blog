@@ -1,6 +1,6 @@
 ---
 layout: post
-title: etoy-vesnoy
+title: test
 date: 2011-03-05 00:00:00 +0300
 tags: [Imported]
 ---

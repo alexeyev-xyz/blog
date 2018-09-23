@@ -1,6 +1,6 @@
 ---
 layout: post
-title: chut-chut-letnego
+title: test
 date: 2011-07-25 00:00:00 +0300
 tags: [Imported]
 ---

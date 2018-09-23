@@ -1,6 +1,6 @@
 ---
 layout: post
-title: can-i-come-with-you?
+title: test
 date: 2011-10-27 00:00:00 +0300
 tags: [Imported]
 ---

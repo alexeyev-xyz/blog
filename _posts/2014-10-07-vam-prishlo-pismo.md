@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vam-prishlo-pismo
+title: test
 date: 2014-10-07 00:00:00 +0300
 tags: [Imported]
 ---

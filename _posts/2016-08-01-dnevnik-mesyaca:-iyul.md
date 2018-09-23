@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dnevnik-mesyaca:-iyul
+title: test
 date: 2016-08-01 00:00:00 +0300
 tags: [Imported]
 ---

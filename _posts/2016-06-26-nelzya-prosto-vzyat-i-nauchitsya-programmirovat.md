@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nelzya-prosto-vzyat-i-nauchitsya-programmirovat
+title: test
 date: 2016-06-26 00:00:00 +0300
 tags: [Imported]
 ---

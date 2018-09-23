@@ -1,6 +1,6 @@
 ---
 layout: post
-title: fucked-up-got-ambushed-zipped-in
+title: test
 date: 2011-01-08 00:00:00 +0300
 tags: [Imported]
 ---

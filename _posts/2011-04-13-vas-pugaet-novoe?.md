@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vas-pugaet-novoe?
+title: test
 date: 2011-04-13 00:00:00 +0300
 tags: [Imported]
 ---

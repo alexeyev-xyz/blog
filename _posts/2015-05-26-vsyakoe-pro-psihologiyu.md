@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vsyakoe-pro-psihologiyu
+title: test
 date: 2015-05-26 00:00:00 +0300
 tags: [Imported]
 ---

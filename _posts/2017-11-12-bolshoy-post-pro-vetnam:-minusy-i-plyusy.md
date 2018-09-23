@@ -1,6 +1,6 @@
 ---
 layout: post
-title: bolshoy-post-pro-vetnam:-minusy-i-plyusy
+title: test
 date: 2017-11-12 00:00:00 +0300
 tags: [Imported]
 ---

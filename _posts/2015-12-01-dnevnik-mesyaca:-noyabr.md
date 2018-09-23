@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dnevnik-mesyaca:-noyabr
+title: test
 date: 2015-12-01 00:00:00 +0300
 tags: [Imported]
 ---

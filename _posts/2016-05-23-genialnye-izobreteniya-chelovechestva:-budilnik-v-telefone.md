@@ -1,6 +1,6 @@
 ---
 layout: post
-title: genialnye-izobreteniya-chelovechestva:-budilnik-v-telefone
+title: test
 date: 2016-05-23 00:00:00 +0300
 tags: [Imported]
 ---

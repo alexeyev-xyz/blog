@@ -1,6 +1,6 @@
 ---
 layout: post
-title: evrotrip-aprel-17-budapesht--varshava--kaliningrad
+title: test
 date: 2017-05-12 00:00:00 +0300
 tags: [Imported]
 ---

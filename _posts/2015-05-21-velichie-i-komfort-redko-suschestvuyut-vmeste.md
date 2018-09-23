@@ -1,6 +1,6 @@
 ---
 layout: post
-title: velichie-i-komfort-redko-suschestvuyut-vmeste
+title: test
 date: 2015-05-21 00:00:00 +0300
 tags: [Imported]
 ---

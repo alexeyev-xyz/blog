@@ -1,6 +1,6 @@
 ---
 layout: post
-title: grot-inside
+title: test
 date: 2011-07-18 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: unkd-10:-tanatologiya
+title: test
 date: 2015-04-27 00:00:00 +0300
 tags: [Imported]
 ---

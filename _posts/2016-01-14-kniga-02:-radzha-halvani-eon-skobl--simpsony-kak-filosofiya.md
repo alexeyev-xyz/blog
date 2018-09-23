@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kniga-02:-radzha-halvani-eon-skobl--simpsony-kak-filosofiya
+title: test
 date: 2016-01-14 00:00:00 +0300
 tags: [Imported]
 ---

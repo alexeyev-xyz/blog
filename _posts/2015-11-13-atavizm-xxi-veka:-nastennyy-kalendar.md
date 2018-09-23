@@ -1,6 +1,6 @@
 ---
 layout: post
-title: atavizm-xxi-veka:-nastennyy-kalendar
+title: test
 date: 2015-11-13 00:00:00 +0300
 tags: [Imported]
 ---

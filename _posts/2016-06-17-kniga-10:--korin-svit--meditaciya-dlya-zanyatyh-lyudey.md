@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kniga-10:--korin-svit--meditaciya-dlya-zanyatyh-lyudey
+title: test
 date: 2016-06-17 00:00:00 +0300
 tags: [Imported]
 ---

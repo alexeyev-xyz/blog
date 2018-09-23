@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sergey-petrovich-kapica
+title: test
 date: 2015-02-06 00:00:00 +0300
 tags: [Imported]
 ---

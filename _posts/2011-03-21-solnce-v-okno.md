@@ -1,6 +1,6 @@
 ---
 layout: post
-title: solnce-v-okno
+title: test
 date: 2011-03-21 00:00:00 +0300
 tags: [Imported]
 ---

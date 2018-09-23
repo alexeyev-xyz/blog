@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dnevnik-mesyaca:-fevral
+title: test
 date: 2015-02-28 00:00:00 +0300
 tags: [Imported]
 ---

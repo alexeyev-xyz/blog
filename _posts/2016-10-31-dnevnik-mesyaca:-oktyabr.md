@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dnevnik-mesyaca:-oktyabr
+title: test
 date: 2016-10-31 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kniga-09:-porter-erisman--vselennaya-alibabacom-kak-kitayskaya-internet-kompaniya-zavoevala-mir
+title: test
 date: 2016-04-22 00:00:00 +0300
 tags: [Imported]
 ---

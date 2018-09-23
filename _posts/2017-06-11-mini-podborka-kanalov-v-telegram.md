@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mini-podborka-kanalov-v-telegram
+title: test
 date: 2017-06-11 00:00:00 +0300
 tags: [Imported]
 ---

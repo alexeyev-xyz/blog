@@ -1,6 +1,6 @@
 ---
 layout: post
-title: stomatologiya-vo-vetname:-kak-mne-udalyali-zub-mudrosti
+title: test
 date: 2017-08-31 00:00:00 +0300
 tags: [Imported]
 ---

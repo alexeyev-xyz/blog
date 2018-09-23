@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pencil-vs-camera
+title: test
 date: 2011-04-09 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: navigacionnye-paneli-v-raznyh-okruzheniyah
+title: test
 date: 2018-01-31 00:00:00 +0300
 tags: [Imported]
 ---

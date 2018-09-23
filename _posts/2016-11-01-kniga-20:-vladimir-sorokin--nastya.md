@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kniga-20:-vladimir-sorokin--nastya
+title: test
 date: 2016-11-01 00:00:00 +0300
 tags: [Imported]
 ---

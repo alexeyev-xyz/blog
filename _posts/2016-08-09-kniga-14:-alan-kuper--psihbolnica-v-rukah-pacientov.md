@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kniga-14:-alan-kuper--psihbolnica-v-rukah-pacientov
+title: test
 date: 2016-08-09 00:00:00 +0300
 tags: [Imported]
 ---

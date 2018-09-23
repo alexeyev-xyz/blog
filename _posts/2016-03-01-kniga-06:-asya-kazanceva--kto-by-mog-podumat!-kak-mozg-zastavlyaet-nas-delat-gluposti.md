@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kniga-06:-asya-kazanceva--kto-by-mog-podumat!-kak-mozg-zastavlyaet-nas-delat-gluposti
+title: test
 date: 2016-03-01 00:00:00 +0300
 tags: [Imported]
 ---

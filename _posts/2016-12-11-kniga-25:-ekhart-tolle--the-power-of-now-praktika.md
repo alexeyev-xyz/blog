@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kniga-25:-ekhart-tolle--the-power-of-now-praktika
+title: test
 date: 2016-12-11 00:00:00 +0300
 tags: [Imported]
 ---

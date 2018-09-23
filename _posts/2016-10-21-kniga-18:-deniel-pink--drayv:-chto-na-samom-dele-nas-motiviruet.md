@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kniga-18:-deniel-pink--drayv:-chto-na-samom-dele-nas-motiviruet
+title: test
 date: 2016-10-21 00:00:00 +0300
 tags: [Imported]
 ---

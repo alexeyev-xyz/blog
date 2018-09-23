@@ -103,7 +103,7 @@ if($allFiles){
 		$firstLine = $firstLine ? $firstLine : $fullDate;
 
 
-		$fileHeader = "---\nlayout: post\ntitle: {$postTitleTranslit}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
+		$fileHeader = "---\nlayout: post\ntitle: test\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
 
 		$fileContents = $fileHeader.$fileContents;
 

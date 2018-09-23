@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pro-to-kak-ya-stal-sobirat-vinil-a-potom-perestal
+title: test
 date: 2015-01-24 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: zametki-o-zhizni-vo-vetname
+title: test
 date: 2017-10-19 00:00:00 +0300
 tags: [Imported]
 ---

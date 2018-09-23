@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pro-kompyuter
+title: test
 date: 2015-05-11 00:00:00 +0300
 tags: [Imported]
 ---

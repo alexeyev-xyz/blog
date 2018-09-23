@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kniga-01:-a-korin--fenomen-chto?-gde?-kogda?
+title: test
 date: 2016-01-04 00:00:00 +0300
 tags: [Imported]
 ---
