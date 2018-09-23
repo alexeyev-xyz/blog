@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Улиточка
-date: 2014-12-13 00:00:00 +0300
 tags: [Imported]
 ---
 # Улиточка

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Госуслуги: like
-date: 2016-04-25 00:00:00 +0300
 tags: [Imported]
 ---
 # Госуслуги: like

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Приложения
-date: 2017-03-01 00:00:00 +0300
 tags: [Imported]
 ---
 # Приложения

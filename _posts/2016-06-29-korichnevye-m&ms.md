@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Коричневые M&M's
-date: 2016-06-29 00:00:00 +0300
 tags: [Imported]
 ---
 # Коричневые M&M's
