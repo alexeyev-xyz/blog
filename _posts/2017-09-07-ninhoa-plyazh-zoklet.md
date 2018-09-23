@@ -2,7 +2,7 @@
 layout: post
 title: "Ниньхоа, пляж Зоклет"
 date: 2017-09-07 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2017/11/DSCN7174.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2017/11/DSCN7174.jpg"
 tags: [Imported]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "УНКД 8: Оформление текстов"
 date: 2015-02-23 00:00:00 +0300
-img: https://pp.vk.me/c621429/v621429626/1396f/_ciHu1aT6WI.jpg
+img: "https://pp.vk.me/c621429/v621429626/1396f/_ciHu1aT6WI.jpg"
 tags: [Imported]
 ---
 

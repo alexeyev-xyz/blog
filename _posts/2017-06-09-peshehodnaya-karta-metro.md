@@ -2,7 +2,7 @@
 layout: post
 title: "Пешеходная карта метро"
 date: 2017-06-09 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2017/06/MssQFg6Zjlc.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2017/06/MssQFg6Zjlc.jpg"
 tags: [Imported]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "&laquo;Российская власть и российская история&raquo;"
 date: 2017-06-05 00:00:00 +0300
-img: 
+img: ""
 tags: [Imported]
 ---
 

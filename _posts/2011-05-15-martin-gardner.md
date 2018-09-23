@@ -2,7 +2,7 @@
 layout: post
 title: "Мартин Гарднер"
 date: 2011-05-15 00:00:00 +0300
-img: http://media.tumblr.com/tumblr_ll8pcjh2Fg1qfp23s.png
+img: "http://media.tumblr.com/tumblr_ll8pcjh2Fg1qfp23s.png"
 tags: [Imported]
 ---
 

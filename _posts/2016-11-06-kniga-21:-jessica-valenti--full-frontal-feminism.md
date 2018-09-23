@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 21: Jessica Valenti &ndash; Full Frontal Feminism"
 date: 2016-11-06 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/11/full-frontal-feminism-189x300.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/11/full-frontal-feminism-189x300.jpg"
 tags: [Imported]
 ---
 

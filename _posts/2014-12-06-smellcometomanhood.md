@@ -2,7 +2,7 @@
 layout: post
 title: "smellcometomanhood"
 date: 2014-12-06 00:00:00 +0300
-img: 
+img: ""
 tags: [Imported]
 ---
 

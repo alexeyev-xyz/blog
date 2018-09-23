@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: июнь"
 date: 2015-07-02 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2015/07/giphy.gif
+img: "https://vlaim.s3.amazonaws.com/uploads/2015/07/giphy.gif"
 tags: [Imported]
 ---
 

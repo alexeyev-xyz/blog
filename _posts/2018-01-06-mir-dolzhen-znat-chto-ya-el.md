@@ -2,7 +2,7 @@
 layout: post
 title: "Мир должен знать, что я ел"
 date: 2018-01-06 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2018/01/IMG_20171205_170154.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2018/01/IMG_20171205_170154.jpg"
 tags: [Imported]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "УНКД 14:  Менталитет краба"
 date: 2016-01-06 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/01/red-crab-01-618x270.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/01/red-crab-01-618x270.jpg"
 tags: [Imported]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "shalteboi &ndash; Качели Коты Гражданка"
 date: 2013-03-18 00:00:00 +0300
-img: http://media.tumblr.com/442c2c82ffd760f0d4311bdd7a54d6c9/tumblr_inline_mjv6r45N2Y1qz4rgp.jpg
+img: "http://media.tumblr.com/442c2c82ffd760f0d4311bdd7a54d6c9/tumblr_inline_mjv6r45N2Y1qz4rgp.jpg"
 tags: [Imported]
 ---
 

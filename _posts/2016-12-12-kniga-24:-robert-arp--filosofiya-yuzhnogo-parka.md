@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 24: Роберт Арп &ndash; Философия Южного Парка"
 date: 2016-12-12 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/12/South_Park_and_Philosophy_Robert_Arp-203x300.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/12/South_Park_and_Philosophy_Robert_Arp-203x300.jpg"
 tags: [Imported]
 ---
 

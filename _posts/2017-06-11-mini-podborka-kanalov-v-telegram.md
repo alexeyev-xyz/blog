@@ -2,7 +2,7 @@
 layout: post
 title: "Мини-подборка каналов в telegram"
 date: 2017-06-11 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2017/06/nm.png
+img: "https://vlaim.s3.amazonaws.com/uploads/2017/06/nm.png"
 tags: [Imported]
 ---
 

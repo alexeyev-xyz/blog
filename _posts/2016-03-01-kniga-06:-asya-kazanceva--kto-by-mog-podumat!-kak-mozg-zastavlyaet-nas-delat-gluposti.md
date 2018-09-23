@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 06: Ася Казанцева &ndash; Кто бы мог подумать! Как мозг заставляет нас делать глупости"
 date: 2016-03-01 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/03/tnw800-KAZANTSEVA-198x300.png
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/03/tnw800-KAZANTSEVA-198x300.png"
 tags: [Imported]
 ---
 

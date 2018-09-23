@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: октябрь"
 date: 2016-10-31 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/11/2016-11-01_01-12-00-1024x558.png
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/11/2016-11-01_01-12-00-1024x558.png"
 tags: [Imported]
 ---
 

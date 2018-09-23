@@ -2,7 +2,7 @@
 layout: post
 title: "The reincarnation of Tweety"
 date: 2013-10-29 00:00:00 +0300
-img: http://media.tumblr.com/969fc423ed5cf87a82acc35ffebe0dd0/tumblr_inline_mvejiv2KzI1qfp23s.jpg
+img: "http://media.tumblr.com/969fc423ed5cf87a82acc35ffebe0dd0/tumblr_inline_mvejiv2KzI1qfp23s.jpg"
 tags: [Imported]
 ---
 

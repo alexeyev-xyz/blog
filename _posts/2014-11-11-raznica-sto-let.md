@@ -2,7 +2,7 @@
 layout: post
 title: "Разница сто лет"
 date: 2014-11-11 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2014/11/photo-300x224.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2014/11/photo-300x224.jpg"
 tags: [Imported]
 ---
 

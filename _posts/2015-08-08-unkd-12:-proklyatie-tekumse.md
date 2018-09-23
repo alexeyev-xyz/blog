@@ -2,7 +2,7 @@
 layout: post
 title: "УНКД 12: Проклятие Текумсе"
 date: 2015-08-08 00:00:00 +0300
-img: 
+img: ""
 tags: [Imported]
 ---
 

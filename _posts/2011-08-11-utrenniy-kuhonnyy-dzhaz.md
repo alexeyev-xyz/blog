@@ -2,7 +2,7 @@
 layout: post
 title: "Утренний кухонный джаз"
 date: 2011-08-11 00:00:00 +0300
-img: 
+img: ""
 tags: [Imported]
 ---
 

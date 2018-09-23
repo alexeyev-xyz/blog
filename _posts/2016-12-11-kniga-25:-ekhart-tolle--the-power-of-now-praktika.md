@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 25: Экхарт Толле &ndash; The Power of Now. Практика"
 date: 2016-12-11 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/12/pon.jpeg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/12/pon.jpeg"
 tags: [Imported]
 ---
 

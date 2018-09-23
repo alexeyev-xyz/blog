@@ -2,7 +2,7 @@
 layout: post
 title: "(Бес)полезная штуковина"
 date: 2015-03-11 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2015/03/maxresdefault-1024x576.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2015/03/maxresdefault-1024x576.jpg"
 tags: [Imported]
 ---
 

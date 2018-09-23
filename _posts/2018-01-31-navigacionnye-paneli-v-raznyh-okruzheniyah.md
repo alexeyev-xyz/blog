@@ -2,7 +2,7 @@
 layout: post
 title: "Навигационные панели в разных окружениях"
 date: 2018-01-31 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2018/01/prod.png
+img: "https://vlaim.s3.amazonaws.com/uploads/2018/01/prod.png"
 tags: [Imported]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 13: Мартин Гарднер &ndash; Остров пяти красок"
 date: 2016-07-31 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/07/gardner.jpeg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/07/gardner.jpeg"
 tags: [Imported]
 ---
 

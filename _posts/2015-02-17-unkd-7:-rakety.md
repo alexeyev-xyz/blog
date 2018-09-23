@@ -2,7 +2,7 @@
 layout: post
 title: "УНКД 7: Ракеты"
 date: 2015-02-17 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2015/02/AdzXGaE4QMk.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2015/02/AdzXGaE4QMk.jpg"
 tags: [Imported]
 ---
 

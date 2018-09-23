@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: май"
 date: 2015-06-01 00:00:00 +0300
-img: https://pbs.twimg.com/media/CFTXdzTUgAA4W-Z.png:large
+img: "https://pbs.twimg.com/media/CFTXdzTUgAA4W-Z.png:large"
 tags: [Imported]
 ---
 

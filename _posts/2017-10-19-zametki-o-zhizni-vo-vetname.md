@@ -2,7 +2,7 @@
 layout: post
 title: "Заметки о жизни во Вьетнаме"
 date: 2017-10-19 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2017/10/vn1.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2017/10/vn1.jpg"
 tags: [Imported]
 ---
 

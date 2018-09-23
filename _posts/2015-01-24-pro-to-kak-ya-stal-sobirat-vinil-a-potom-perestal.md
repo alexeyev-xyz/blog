@@ -2,7 +2,7 @@
 layout: post
 title: "Про то, как я стал собирать винил, а потом перестал"
 date: 2015-01-24 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2015/01/IgKDLdjDf7w.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2015/01/IgKDLdjDf7w.jpg"
 tags: [Imported]
 ---
 

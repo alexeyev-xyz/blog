@@ -2,7 +2,7 @@
 layout: post
 title: "Нельзя просто взять и научиться программировать"
 date: 2016-06-26 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/06/Nelzya-prosto-tak-vzyat-i_orig_1.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/06/Nelzya-prosto-tak-vzyat-i_orig_1.jpg"
 tags: [Imported]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 03: Стивен Дабнер, Стивен Левитт &ndash; Фрикономика"
 date: 2016-01-21 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/01/freakonomics.jpeg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/01/freakonomics.jpeg"
 tags: [Imported]
 ---
 

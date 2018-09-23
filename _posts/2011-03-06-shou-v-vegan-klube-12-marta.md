@@ -2,7 +2,7 @@
 layout: post
 title: "Шоу в Веган-клубе 12 марта"
 date: 2011-03-06 00:00:00 +0300
-img: http://media.tumblr.com/tumblr_lhn0pby6wm1qfp23s.jpg
+img: "http://media.tumblr.com/tumblr_lhn0pby6wm1qfp23s.jpg"
 tags: [Imported]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "5 минут на чтение"
 date: 2016-04-09 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/04/2016-04-09_22-36-08.png
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/04/2016-04-09_22-36-08.png"
 tags: [Imported]
 ---
 

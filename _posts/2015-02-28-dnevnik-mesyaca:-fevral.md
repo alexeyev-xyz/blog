@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: февраль"
 date: 2015-02-28 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2015/02/27de2.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2015/02/27de2.jpg"
 tags: [Imported]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Hate pt 2. Музыканты в электричках"
 date: 2014-11-08 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2014/11/129991_320-225x300.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2014/11/129991_320-225x300.jpg"
 tags: [Imported]
 ---
 

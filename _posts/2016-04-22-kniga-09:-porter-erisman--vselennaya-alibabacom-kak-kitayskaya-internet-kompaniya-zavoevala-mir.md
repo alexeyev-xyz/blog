@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 09: Портер Эрисман &ndash; Вселенная Alibaba.com. Как китайская интернет-компания завоевала мир"
 date: 2016-04-22 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/04/1014295624-190x300.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/04/1014295624-190x300.jpg"
 tags: [Imported]
 ---
 

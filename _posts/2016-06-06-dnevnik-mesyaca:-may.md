@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: май"
 date: 2016-06-06 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/06/Nothingness11.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/06/Nothingness11.jpg"
 tags: [Imported]
 ---
 

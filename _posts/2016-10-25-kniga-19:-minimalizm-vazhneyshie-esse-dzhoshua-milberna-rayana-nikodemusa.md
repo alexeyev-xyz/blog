@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 19: Минимализм. Важнейшие эссе Джошуа Мильберна, Райана Никодемуса"
 date: 2016-10-25 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/10/the-minimalists.png
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/10/the-minimalists.png"
 tags: [Imported]
 ---
 

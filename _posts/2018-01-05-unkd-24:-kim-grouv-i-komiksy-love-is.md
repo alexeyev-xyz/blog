@@ -2,7 +2,7 @@
 layout: post
 title: "УНКД 24: Ким Гроув и комиксы Love Is..."
 date: 2018-01-05 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2018/01/yescape_love_is_photo1.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2018/01/yescape_love_is_photo1.jpg"
 tags: [Imported]
 ---
 

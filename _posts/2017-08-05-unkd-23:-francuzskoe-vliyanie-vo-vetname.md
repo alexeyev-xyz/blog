@@ -2,7 +2,7 @@
 layout: post
 title: "УНКД 23: Французское влияние во Вьетнаме"
 date: 2017-08-05 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2017/08/Flag_of_Colonial_Annam.png
+img: "https://vlaim.s3.amazonaws.com/uploads/2017/08/Flag_of_Colonial_Annam.png"
 tags: [Imported]
 ---
 

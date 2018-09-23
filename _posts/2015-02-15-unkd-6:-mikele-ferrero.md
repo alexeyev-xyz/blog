@@ -2,7 +2,7 @@
 layout: post
 title: "УНКД 6: Микеле Ферреро"
 date: 2015-02-15 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2015/02/pic_024bbc7dcc93bcf58365e863c790a93e.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2015/02/pic_024bbc7dcc93bcf58365e863c790a93e.jpg"
 tags: [Imported]
 ---
 

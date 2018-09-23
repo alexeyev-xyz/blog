@@ -2,7 +2,7 @@
 layout: post
 title: "Про происходящее вокруг и вкусовые сны"
 date: 2011-09-16 00:00:00 +0300
-img: http://media.tumblr.com/tumblr_lrmu74HEpx1qfp23s.jpg
+img: "http://media.tumblr.com/tumblr_lrmu74HEpx1qfp23s.jpg"
 tags: [Imported]
 ---
 

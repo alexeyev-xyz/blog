@@ -2,7 +2,7 @@
 layout: post
 title: "Евротрип, Апрель '17. Будапешт &ndash; Варшава &ndash; Калининград"
 date: 2017-05-12 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2017/05/05.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2017/05/05.jpg"
 tags: [Imported]
 ---
 

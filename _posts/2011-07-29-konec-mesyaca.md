@@ -2,7 +2,7 @@
 layout: post
 title: "Конец месяца"
 date: 2011-07-29 00:00:00 +0300
-img: http://media.tumblr.com/tumblr_lp41r5YVGf1qfp23s.gif
+img: "http://media.tumblr.com/tumblr_lp41r5YVGf1qfp23s.gif"
 tags: [Imported]
 ---
 

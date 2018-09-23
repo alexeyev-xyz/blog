@@ -2,7 +2,7 @@
 layout: post
 title: "Крутой канал на ютюбе"
 date: 2016-07-13 00:00:00 +0300
-img: 
+img: ""
 tags: [Imported]
 ---
 

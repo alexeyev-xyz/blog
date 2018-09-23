@@ -2,7 +2,7 @@
 layout: post
 title: "Продуктивность"
 date: 2016-10-03 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/10/notes-1024x768.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/10/notes-1024x768.jpg"
 tags: [Imported]
 ---
 

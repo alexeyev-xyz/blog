@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 08: Ася Казанцева &ndash; В интернете кто-то неправ! Научные исследования спорных вопросов"
 date: 2016-04-22 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/04/20235703_cover_250.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/04/20235703_cover_250.jpg"
 tags: [Imported]
 ---
 

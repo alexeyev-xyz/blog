@@ -2,7 +2,7 @@
 layout: post
 title: "Гениальные изобретения человечества: Будильник в телефоне"
 date: 2016-05-23 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/05/IMG_2016-05-23-221357-576x1024.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/05/IMG_2016-05-23-221357-576x1024.jpg"
 tags: [Imported]
 ---
 

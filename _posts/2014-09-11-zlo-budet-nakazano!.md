@@ -2,7 +2,7 @@
 layout: post
 title: "Зло будет наказано!"
 date: 2014-09-11 00:00:00 +0300
-img: 
+img: ""
 tags: [Imported]
 ---
 

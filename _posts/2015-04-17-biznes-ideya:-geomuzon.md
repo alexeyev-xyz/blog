@@ -2,7 +2,7 @@
 layout: post
 title: "Бизнес-идея: геомузон"
 date: 2015-04-17 00:00:00 +0300
-img: 
+img: ""
 tags: [Imported]
 ---
 

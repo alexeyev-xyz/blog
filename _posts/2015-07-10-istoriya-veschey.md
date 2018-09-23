@@ -2,7 +2,7 @@
 layout: post
 title: "История вещей"
 date: 2015-07-10 00:00:00 +0300
-img: 
+img: ""
 tags: [Imported]
 ---
 

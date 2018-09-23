@@ -2,7 +2,7 @@
 layout: post
 title: "Сожги в себе ведьму страха"
 date: 2011-02-20 00:00:00 +0300
-img: http://media.tumblr.com/tumblr_lgx5wl9vKC1qfp23s.png
+img: "http://media.tumblr.com/tumblr_lgx5wl9vKC1qfp23s.png"
 tags: [Imported]
 ---
 

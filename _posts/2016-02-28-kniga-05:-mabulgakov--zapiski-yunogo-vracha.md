@@ -2,7 +2,7 @@
 layout: post
 title: "Книга 05: М.А.Булгаков &ndash; Записки юного врача"
 date: 2016-02-28 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2016/02/2_39dfa10ea1f3df5b9828a940ab6d486c_1380870057.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2016/02/2_39dfa10ea1f3df5b9828a940ab6d486c_1380870057.jpg"
 tags: [Imported]
 ---
 

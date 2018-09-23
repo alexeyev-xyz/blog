@@ -2,7 +2,7 @@
 layout: post
 title: "Фонд &quot;Эволюция&quot;"
 date: 2015-11-16 00:00:00 +0300
-img: http://cs9536.vkontakte.ru/u9856070/116661236/x_0be285de.jpg
+img: "http://cs9536.vkontakte.ru/u9856070/116661236/x_0be285de.jpg"
 tags: [Imported]
 ---
 

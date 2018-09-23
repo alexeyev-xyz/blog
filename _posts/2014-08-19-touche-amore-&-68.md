@@ -2,7 +2,7 @@
 layout: post
 title: "Touche Amore &amp; '68"
 date: 2014-08-19 00:00:00 +0300
-img: http://ic.pics.livejournal.com/vlaimspb/71326704/770/770_900.jpg 
+img: "http://ic.pics.livejournal.com/vlaimspb/71326704/770/770_900.jpg "
 tags: [Imported]
 ---
 

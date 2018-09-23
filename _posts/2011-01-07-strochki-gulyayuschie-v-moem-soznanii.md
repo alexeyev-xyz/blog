@@ -2,7 +2,7 @@
 layout: post
 title: "Строчки, гуляющие в моем сознании"
 date: 2011-01-07 00:00:00 +0300
-img: http://assets1.lookatme.ru/1235647140/assets/article_image-image/05/f0/204051/article_image-image-article.jpg
+img: "http://assets1.lookatme.ru/1235647140/assets/article_image-image/05/f0/204051/article_image-image-article.jpg"
 tags: [Imported]
 ---
 

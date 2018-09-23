@@ -2,7 +2,7 @@
 layout: post
 title: "Карточки не работают"
 date: 2015-05-16 00:00:00 +0300
-img: https://pp.vk.me/c628129/v628129842/2630/mysLvxiBG3I.jpg
+img: "https://pp.vk.me/c628129/v628129842/2630/mysLvxiBG3I.jpg"
 tags: [Imported]
 ---
 

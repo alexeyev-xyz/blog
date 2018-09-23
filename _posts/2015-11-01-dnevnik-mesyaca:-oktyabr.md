@@ -2,7 +2,7 @@
 layout: post
 title: "Дневник месяца: октябрь"
 date: 2015-11-01 00:00:00 +0300
-img: https://vlaim.s3.amazonaws.com/uploads/2015/11/imitation_game.jpg
+img: "https://vlaim.s3.amazonaws.com/uploads/2015/11/imitation_game.jpg"
 tags: [Imported]
 ---
 
