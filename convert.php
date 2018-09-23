@@ -1,4 +1,6 @@
 <?php
+ini_set('default_socket_timeout', 10); // 900 Seconds = 15 Minutes
+
 function rus2translit($string) {
     $converter = array(
     	' ' => '-',
@@ -100,12 +102,19 @@ if($allFiles){
 
 		$firstLine = $firstLine ? $firstLine : $fullDate;
 
-		preg_match('/!\[[^\]]*\]\((?<filename>.*?)(?=\"|\))(?<optionalpart>\".*\")?\)/', $fileContents, $imgMatches);
+		preg_match_all('/!\[[^\]]*\]\((?<filename>.*?)(?=\"|\))(?<optionalpart>\".*\")?\)/', $fileContents, $imgMatches);
+
+		if(isset($imgMatches['filename']))
+			foreach($imgMatches['filename'] as $pImg){
+				$imgToName = "assets/img/".(pathinfo($pImg, PATHINFO_FILENAME).'.'.pathinfo($pImg, PATHINFO_EXTENSION));
+				echo "{$pImg} \n";
+				var_dump(file_put_contents($imgToName, file_get_contents($pImg)));	
+			}
 
 		$image = '';
 
-		if($imgMatches){
-			$image = ($imgMatches['filename']);
+		if(isset($imgMatches['filename'][0])){
+			$image = $imgMatches['filename'][0];
 		}
 
 
