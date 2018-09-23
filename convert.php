@@ -104,27 +104,17 @@ if($allFiles){
 
 		$fileContents = $fileHeader.$fileContents;
 
-		//$kek .= $fileHeader."\n"; 
+		$kek .= str_replace("---", "", $fileHeader); 
 
-		//file_put_contents('.kek', $kek);
+		file_put_contents('.kek', $kek);
 
-		//continue;
+		continue;
 
 
 
 		$pathTo = $directoryTo.'/'.$fullPostTitle;
 
 		file_put_contents($pathTo, $fileContents);
-
-		//var_dump($pathTo);
-		#$file2 = file_get_contents($path2);
-		#if ($file1 !== $file2)
-		
-
-		//var_dump(date("m-d", strtotime($fileName)));
-
-
-
 	}
 }
 
