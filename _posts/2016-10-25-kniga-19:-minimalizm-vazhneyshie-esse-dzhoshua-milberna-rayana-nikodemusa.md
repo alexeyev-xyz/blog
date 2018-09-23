@@ -1,9 +1,3 @@
----
-layout: post
-title: Книга 19: Минимализм. Важнейшие эссе Джошуа Мильберна, Райана Никодемуса
-date: 2017-08-20 13:32:20 +0300
-tags: [Imported]
----
 # Книга #19: Минимализм. Важнейшие эссе Джошуа Мильберна, Райана Никодемуса
 
 ![the-minimalists](https://vlaim.s3.amazonaws.com/uploads/2016/10/the-minimalists.png)

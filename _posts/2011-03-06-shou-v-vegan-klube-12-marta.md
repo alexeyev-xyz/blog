@@ -1,9 +1,3 @@
----
-layout: post
-title: Шоу в Веган-клубе 12 марта
-date: 2017-08-20 13:32:20 +0300
-tags: [Imported]
----
 # Шоу в Веган-клубе 12 марта
 
 ![](http://media.tumblr.com/tumblr_lhn0pby6wm1qfp23s.jpg)

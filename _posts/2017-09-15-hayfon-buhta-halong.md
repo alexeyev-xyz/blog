@@ -1,9 +1,3 @@
----
-layout: post
-title: Хайфон, бухта Халонг
-date: 2017-08-20 13:32:20 +0300
-tags: [Imported]
----
 # Хайфон, бухта Халонг 
 
 [![halong-03](https://vlaim.s3.amazonaws.com/uploads/2017/11/halong-03.jpg)](https://vlaim.s3.amazonaws.com/uploads/2017/11/halong-03.jpg)

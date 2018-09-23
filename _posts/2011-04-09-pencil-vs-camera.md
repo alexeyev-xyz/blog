@@ -1,9 +1,3 @@
----
-layout: post
-title: Pencil Vs Camera
-date: 2017-08-20 13:32:20 +0300
-tags: [Imported]
----
 # Pencil Vs Camera
 
 ![image](http://fc06.deviantart.net/fs70/i/2010/234/0/c/Pencil_Vs_Camera___32_by_BenHeine.jpg)
