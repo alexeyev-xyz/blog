@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Умные больше не нужны"
+title: "&quot;Умные больше не нужны&quot;"
 date: 2016-07-27 00:00:00 +0300
 tags: [Imported]
 ---

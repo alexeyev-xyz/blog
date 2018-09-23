@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hate pt1  Мельхиор"
+title: "Hate pt.1 - Мельхиор"
 date: 2014-08-17 00:00:00 +0300
 tags: [Imported]
 ---
