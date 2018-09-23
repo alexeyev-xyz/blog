@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"Ниньхоа пляж Зоклет"
 date: 2017-09-07 00:00:00 +0300
 tags: [Imported]
 ---

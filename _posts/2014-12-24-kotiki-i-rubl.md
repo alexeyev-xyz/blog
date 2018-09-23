@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"Котики и рубль"
 date: 2014-12-24 00:00:00 +0300
 tags: [Imported]
 ---

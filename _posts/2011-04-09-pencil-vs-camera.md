@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"Pencil Vs Camera"
 date: 2011-04-09 00:00:00 +0300
 tags: [Imported]
 ---

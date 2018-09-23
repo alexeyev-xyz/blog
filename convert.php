@@ -103,11 +103,13 @@ if($allFiles){
 		$firstLine = $firstLine ? $firstLine : 'test';
 
 
-		$fileHeader = "---\nlayout: post\ntitle: Привет\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
+		$fileHeader = "---\nlayout: post\ntitle:\"{$firstLine}\"\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
 
 		$fileContents = $fileHeader.$fileContents;
 
-		$kek .= mb_substr($firstLine, 0, 1)."\n"; 
+		#var_dump(yaml_parse(fileContents)); die;
+
+		$kek .= $firstLine."\n"; 
 
 		if(!ctype_alpha(mb_substr($firstLine, 0, 1)) && !ctype_digit(mb_substr($firstLine, 0, 1)))
 			var_dump(mb_substr($firstLine, 0, 1));

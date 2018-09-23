@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"ХельсинкиСтокгольм Март 17"
 date: 2017-04-02 00:00:00 +0300
 tags: [Imported]
 ---

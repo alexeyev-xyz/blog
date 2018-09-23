@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"Дневник месяца август"
 date: 2016-08-31 00:00:00 +0300
 tags: [Imported]
 ---

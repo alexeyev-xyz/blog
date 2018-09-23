@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"УНКД 10 Танатология"
 date: 2015-04-27 00:00:00 +0300
 tags: [Imported]
 ---

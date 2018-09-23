@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"Новинки плеера"
 date: 2015-11-20 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"Про компьютер"
 date: 2015-05-11 00:00:00 +0300
 tags: [Imported]
 ---

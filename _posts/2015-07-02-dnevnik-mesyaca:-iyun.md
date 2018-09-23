@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"Дневник месяца июнь"
 date: 2015-07-02 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"Карточки не работают"
 date: 2015-05-16 00:00:00 +0300
 tags: [Imported]
 ---

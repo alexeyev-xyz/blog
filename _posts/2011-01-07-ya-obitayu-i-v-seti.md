@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"Я обитаю и в сети"
 date: 2011-01-07 00:00:00 +0300
 tags: [Imported]
 ---

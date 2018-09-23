@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Привет
+title:"ALS Ice Bucket Challenge"
 date: 2014-08-25 00:00:00 +0300
 tags: [Imported]
 ---
