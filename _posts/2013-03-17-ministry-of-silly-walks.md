@@ -4,7 +4,6 @@ title: "Ministry of Silly Walks"
 date: 2013-03-17 00:00:00 +0300
 tags: [Imported]
 ---
-# Ministry of Silly Walks
 
 ![](http://media.tumblr.com/4a49a8f63d1c7ce158a53867e1d53ce1/tumblr_inline_mjtjx8Lic11qz4rgp.png)
 

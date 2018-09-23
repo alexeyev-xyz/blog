@@ -4,7 +4,6 @@ title: "Pencil Vs Camera"
 date: 2011-04-09 00:00:00 +0300
 tags: [Imported]
 ---
-# Pencil Vs Camera
 
 ![image](http://fc06.deviantart.net/fs70/i/2010/234/0/c/Pencil_Vs_Camera___32_by_BenHeine.jpg)
 

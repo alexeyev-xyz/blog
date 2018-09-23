@@ -4,7 +4,6 @@ title: "And here goes again..."
 date: 2014-11-05 00:00:00 +0300
 tags: [Imported]
 ---
-# And here goes again...
 
 Привет!
 

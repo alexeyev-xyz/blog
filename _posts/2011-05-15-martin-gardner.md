@@ -4,7 +4,6 @@ title: "Мартин Гарднер"
 date: 2011-05-15 00:00:00 +0300
 tags: [Imported]
 ---
-# Мартин Гарднер
 
 > [http://lib.ru/INOFANT/GARDNER_M/island.txt](http://lib.ru/INOFANT/GARDNER_M/island.txt)
 

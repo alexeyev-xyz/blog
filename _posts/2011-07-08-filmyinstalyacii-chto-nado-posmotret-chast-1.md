@@ -4,7 +4,6 @@ title: "Фильмы/инсталяции, что надо посмотреть 
 date: 2011-07-08 00:00:00 +0300
 tags: [Imported]
 ---
-# Фильмы/инсталяции, что надо посмотреть (часть 1)
 
 * <span class="video_name">О, что за чудесная война / Oh! What a Lovely War (1969)</span>
 * <span class="video_name">Изящная эпоха / Belle epoque (1992)</span>

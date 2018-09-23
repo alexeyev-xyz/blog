@@ -4,7 +4,6 @@ title: "УНКД 24: Ким Гроув и комиксы Love Is..."
 date: 2018-01-05 00:00:00 +0300
 tags: [Imported]
 ---
-# УНКД #24: Ким Гроув и комиксы Love Is...
 
 [Первоисточник](http://www.diary.ru/~LoveIsComics/p70209241.htm)
 

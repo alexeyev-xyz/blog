@@ -76,7 +76,9 @@ if($allFiles){
 			continue;
 		}
 
-		$firstLine = trim(str_replace("#", '', shell_exec("head -n1 {$file}")));
+		$rawFirstLine = shell_exec("head -n1 {$file}");
+		
+		$firstLine = trim(str_replace("#", '', $rawFirstLine));
 
 		$postTitle = $firstLine ? $firstLine : $fileName;
 
@@ -92,11 +94,8 @@ if($allFiles){
 		
 		#var_dump($fullPostTitle);
 
-		$fileContents = file_get_contents($file);
+		$fileContents = str_replace($rawFirstLine, '', file_get_contents($file));
 
-		//fix yml error:
-		//$firstLine = preg_replace('/[^ a-zа-яё\d]/ui', '',$firstLine);
-		//var_dump($firstLine); continue;
 		$firstLine = htmlentities($firstLine);
 
 		$firstLine = $firstLine ? $firstLine : $fullDate;
