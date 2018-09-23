@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: My sketch attempt 1
+date: 2014-03-29 00:00:00 +0300
 tags: [Imported]
 ---
 # My sketch attempt 1

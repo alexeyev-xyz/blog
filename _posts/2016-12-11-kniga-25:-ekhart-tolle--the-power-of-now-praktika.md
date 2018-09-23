@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: Книга 25: Экхарт Толле &ndash; The Power of Now. Практика
+date: 2016-12-11 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #25: Экхарт Толле – The Power of Now. Практика

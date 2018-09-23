@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: В Питере &ndash; пить
+date: 2016-05-06 00:00:00 +0300
 tags: [Imported]
 ---
 # В Питере – пить 

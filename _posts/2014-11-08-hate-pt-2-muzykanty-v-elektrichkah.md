@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: Hate pt 2. Музыканты в электричках
+date: 2014-11-08 00:00:00 +0300
 tags: [Imported]
 ---
 # Hate pt 2. Музыканты в электричках

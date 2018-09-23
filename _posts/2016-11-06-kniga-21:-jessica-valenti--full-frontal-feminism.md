@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: Книга 21: Jessica Valenti &ndash; Full Frontal Feminism
+date: 2016-11-06 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #21: Jessica Valenti – Full Frontal Feminism 

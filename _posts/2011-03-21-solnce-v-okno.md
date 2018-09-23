@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: Солнце в окно
+date: 2011-03-21 00:00:00 +0300
 tags: [Imported]
 ---
 # Солнце в окно

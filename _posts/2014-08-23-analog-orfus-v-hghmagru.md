@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: Аналог ОРФУС в HGHMAG.RU
+date: 2014-08-23 00:00:00 +0300
 tags: [Imported]
 ---
 # Аналог ОРФУС в HGHMAG.RU

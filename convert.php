@@ -94,11 +94,12 @@ if($allFiles){
 
 		$fileContents = file_get_contents($file);
 
-		$firstLine = str_replace(':', '', $firstLine);
+		//fix yml error:
+		$firstLine = htmlentities($firstLine);
 
 		//var_dump($firstLine); 
 
-		$fileHeader = "---\nlayout: post\ntitle: kek\ndate: 2017-08-20 13:32:20 +0300\ntags: [Imported]\n---\n";
+		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
 
 		$fileContents = $fileHeader.$fileContents;
 

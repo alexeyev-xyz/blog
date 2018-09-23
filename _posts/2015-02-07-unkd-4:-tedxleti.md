@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: УНКД 4: TEDxLETI
+date: 2015-02-07 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #4: TEDxLETI

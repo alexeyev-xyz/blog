@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: Мини-подборка каналов в telegram
+date: 2017-06-11 00:00:00 +0300
 tags: [Imported]
 ---
 # Мини-подборка каналов в telegram

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: ALS Ice Bucket Challenge
+date: 2014-08-25 00:00:00 +0300
 tags: [Imported]
 ---
 # ALS Ice Bucket Challenge 

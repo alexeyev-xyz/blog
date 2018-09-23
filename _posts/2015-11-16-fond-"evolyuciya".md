@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: Фонд &quot;Эволюция&quot;
+date: 2015-11-16 00:00:00 +0300
 tags: [Imported]
 ---
 # Фонд "Эволюция"

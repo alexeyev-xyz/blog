@@ -1,7 +1,7 @@
 ---
 layout: post
-title: kek
-date: 2017-08-20 13:32:20 +0300
+title: We shall live again
+date: 2016-08-24 00:00:00 +0300
 tags: [Imported]
 ---
 # We shall live again
