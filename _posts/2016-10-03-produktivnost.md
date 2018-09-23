@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Продуктивность"
+title: "Продуктивность"
 date: 2016-10-03 00:00:00 +0300
 tags: [Imported]
 ---

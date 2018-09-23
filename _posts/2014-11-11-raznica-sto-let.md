@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Разница сто лет"
+title: "Разница сто лет"
 date: 2014-11-11 00:00:00 +0300
 tags: [Imported]
 ---
