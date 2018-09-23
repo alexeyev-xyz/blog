@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Солнце в окно
-date: {fullDate} 00:00:00 +0300
+date: 2011-03-21 00:00:00 +0300
 tags: [Imported]
 ---
 # Солнце в окно

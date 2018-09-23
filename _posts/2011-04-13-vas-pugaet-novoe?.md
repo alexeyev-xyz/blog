@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Вас пугает новое?
-date: {fullDate} 00:00:00 +0300
+date: 2011-04-13 00:00:00 +0300
 tags: [Imported]
 ---
 # Вас пугает новое? 

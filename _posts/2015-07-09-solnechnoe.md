@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Солнечное
-date: {fullDate} 00:00:00 +0300
+date: 2015-07-09 00:00:00 +0300
 tags: [Imported]
 ---
 # Солнечное

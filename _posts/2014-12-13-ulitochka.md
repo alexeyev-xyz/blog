@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Улиточка
-date: {fullDate} 00:00:00 +0300
+date: 2014-12-13 00:00:00 +0300
 tags: [Imported]
 ---
 # Улиточка

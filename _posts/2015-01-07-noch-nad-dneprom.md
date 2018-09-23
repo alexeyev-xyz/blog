@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ночь над Днепром
-date: {fullDate} 00:00:00 +0300
+date: 2015-01-07 00:00:00 +0300
 tags: [Imported]
 ---
 # Ночь над Днепром

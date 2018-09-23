@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Аналог ОРФУС в HGHMAG.RU
-date: {fullDate} 00:00:00 +0300
+date: 2014-08-23 00:00:00 +0300
 tags: [Imported]
 ---
 # Аналог ОРФУС в HGHMAG.RU

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Запилил фичу
-date: {fullDate} 00:00:00 +0300
+date: 2015-04-20 00:00:00 +0300
 tags: [Imported]
 ---
 # Запилил фичу

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Мартин Гарднер
-date: {fullDate} 00:00:00 +0300
+date: 2011-05-15 00:00:00 +0300
 tags: [Imported]
 ---
 # Мартин Гарднер

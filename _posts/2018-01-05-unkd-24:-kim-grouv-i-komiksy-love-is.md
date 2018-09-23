@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 24: Ким Гроув и комиксы Love Is...
-date: {fullDate} 00:00:00 +0300
+date: 2018-01-05 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #24: Ким Гроув и комиксы Love Is...

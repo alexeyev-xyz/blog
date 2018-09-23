@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Плейлист: Russian Party & Russian Depression
-date: {fullDate} 00:00:00 +0300
+date: 2015-12-28 00:00:00 +0300
 tags: [Imported]
 ---
 # Плейлист: Russian Party & Russian Depression

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Конец месяца
-date: {fullDate} 00:00:00 +0300
+date: 2011-07-29 00:00:00 +0300
 tags: [Imported]
 ---
 # Конец месяца

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 4: TEDxLETI
-date: {fullDate} 00:00:00 +0300
+date: 2015-02-07 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #4: TEDxLETI

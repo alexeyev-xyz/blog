@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Фонд "Эволюция"
-date: {fullDate} 00:00:00 +0300
+date: 2015-11-16 00:00:00 +0300
 tags: [Imported]
 ---
 # Фонд "Эволюция"

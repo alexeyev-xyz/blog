@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Что-нибудь напишу
-date: {fullDate} 00:00:00 +0300
+date: 2015-04-13 00:00:00 +0300
 tags: [Imported]
 ---
 # Что-нибудь напишу

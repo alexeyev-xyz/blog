@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 5: Карбонара
-date: {fullDate} 00:00:00 +0300
+date: 2015-02-12 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #5: Карбонара

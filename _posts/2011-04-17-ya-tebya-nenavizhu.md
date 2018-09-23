@@ -1,7 +1,7 @@
 ---
 layout: post
 title: я тебя ненавижу.
-date: {fullDate} 00:00:00 +0300
+date: 2011-04-17 00:00:00 +0300
 tags: [Imported]
 ---
 # я тебя ненавижу.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pencil Vs Camera
-date: {fullDate} 00:00:00 +0300
+date: 2011-04-09 00:00:00 +0300
 tags: [Imported]
 ---
 # Pencil Vs Camera

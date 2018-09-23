@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Факты обо мне
-date: {fullDate} 00:00:00 +0300
+date: 2016-01-04 00:00:00 +0300
 tags: [Imported]
 ---
 # Факты обо мне

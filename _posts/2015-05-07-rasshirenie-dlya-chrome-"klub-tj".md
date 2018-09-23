@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Расширение для chrome "Клуб TJ"
-date: {fullDate} 00:00:00 +0300
+date: 2015-05-07 00:00:00 +0300
 tags: [Imported]
 ---
 # Расширение для chrome "Клуб TJ" 

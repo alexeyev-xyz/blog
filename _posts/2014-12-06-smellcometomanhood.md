@@ -1,7 +1,7 @@
 ---
 layout: post
 title: smellcometomanhood
-date: {fullDate} 00:00:00 +0300
+date: 2014-12-06 00:00:00 +0300
 tags: [Imported]
 ---
 # #smellcometomanhood

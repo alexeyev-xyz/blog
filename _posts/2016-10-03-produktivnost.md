@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Продуктивность
-date: {fullDate} 00:00:00 +0300
+date: 2016-10-03 00:00:00 +0300
 tags: [Imported]
 ---
 # Продуктивность

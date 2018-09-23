@@ -1,7 +1,7 @@
 ---
 layout: post
 title: История вещей
-date: {fullDate} 00:00:00 +0300
+date: 2015-07-10 00:00:00 +0300
 tags: [Imported]
 ---
 # История вещей

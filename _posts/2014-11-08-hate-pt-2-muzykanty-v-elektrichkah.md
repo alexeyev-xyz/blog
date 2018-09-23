@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hate pt 2. Музыканты в электричках
-date: {fullDate} 00:00:00 +0300
+date: 2014-11-08 00:00:00 +0300
 tags: [Imported]
 ---
 # Hate pt 2. Музыканты в электричках

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 11: Хирагана
-date: {fullDate} 00:00:00 +0300
+date: 2015-08-02 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #11: Хирагана

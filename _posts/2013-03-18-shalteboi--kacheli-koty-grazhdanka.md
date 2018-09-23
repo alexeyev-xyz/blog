@@ -1,7 +1,7 @@
 ---
 layout: post
 title: shalteboi – Качели Коты Гражданка
-date: {fullDate} 00:00:00 +0300
+date: 2013-03-18 00:00:00 +0300
 tags: [Imported]
 ---
 # shalteboi – Качели Коты Гражданка

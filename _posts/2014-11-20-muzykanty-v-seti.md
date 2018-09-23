@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Музыканты в сети
-date: {fullDate} 00:00:00 +0300
+date: 2014-11-20 00:00:00 +0300
 tags: [Imported]
 ---
 # Музыканты в сети

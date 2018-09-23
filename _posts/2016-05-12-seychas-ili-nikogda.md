@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Сейчас или никогда
-date: {fullDate} 00:00:00 +0300
+date: 2016-05-12 00:00:00 +0300
 tags: [Imported]
 ---
 # Сейчас или никогда

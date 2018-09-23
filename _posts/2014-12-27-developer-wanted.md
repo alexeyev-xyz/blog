@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DEVELOPER WANTED
-date: {fullDate} 00:00:00 +0300
+date: 2014-12-27 00:00:00 +0300
 tags: [Imported]
 ---
 # DEVELOPER WANTED

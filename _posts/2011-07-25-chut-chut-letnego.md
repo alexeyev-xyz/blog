@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Чуть-чуть летнего
-date: {fullDate} 00:00:00 +0300
+date: 2011-07-25 00:00:00 +0300
 tags: [Imported]
 ---
 # Чуть-чуть летнего 

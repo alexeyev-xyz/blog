@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Приложения
-date: {fullDate} 00:00:00 +0300
+date: 2017-03-01 00:00:00 +0300
 tags: [Imported]
 ---
 # Приложения

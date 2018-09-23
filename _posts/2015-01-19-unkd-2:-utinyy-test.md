@@ -1,7 +1,7 @@
 ---
 layout: post
 title: УНКД 2: Утиный тест
-date: {fullDate} 00:00:00 +0300
+date: 2015-01-19 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #2: Утиный тест

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Мини-подборка каналов в telegram
-date: {fullDate} 00:00:00 +0300
+date: 2017-06-11 00:00:00 +0300
 tags: [Imported]
 ---
 # Мини-подборка каналов в telegram

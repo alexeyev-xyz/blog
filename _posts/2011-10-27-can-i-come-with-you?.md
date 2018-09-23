@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ...Can I come with you?
-date: {fullDate} 00:00:00 +0300
+date: 2011-10-27 00:00:00 +0300
 tags: [Imported]
 ---
 # ...Can I come with you?

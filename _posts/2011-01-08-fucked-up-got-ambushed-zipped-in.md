@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fucked Up, Got Ambushed, Zipped In
-date: {fullDate} 00:00:00 +0300
+date: 2011-01-08 00:00:00 +0300
 tags: [Imported]
 ---
 # Fucked Up, Got Ambushed, Zipped In

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: О патриотизме
-date: {fullDate} 00:00:00 +0300
+date: 2015-03-29 00:00:00 +0300
 tags: [Imported]
 ---
 # О патриотизме

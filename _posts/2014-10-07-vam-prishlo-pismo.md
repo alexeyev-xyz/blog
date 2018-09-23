@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Вам пришло письмо
-date: {fullDate} 00:00:00 +0300
+date: 2014-10-07 00:00:00 +0300
 tags: [Imported]
 ---
 # Вам пришло письмо

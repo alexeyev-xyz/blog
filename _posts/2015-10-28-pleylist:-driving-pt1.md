@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Плейлист: Driving pt.1
-date: {fullDate} 00:00:00 +0300
+date: 2015-10-28 00:00:00 +0300
 tags: [Imported]
 ---
 # Плейлист: Driving pt.1

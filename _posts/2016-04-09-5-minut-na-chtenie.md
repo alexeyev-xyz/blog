@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 минут на чтение
-date: {fullDate} 00:00:00 +0300
+date: 2016-04-09 00:00:00 +0300
 tags: [Imported]
 ---
 # 5 минут на чтение
