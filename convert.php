@@ -96,7 +96,7 @@ if($allFiles){
 
 
 
-		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ntags: [Imported]\n---\n";
+		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ndate: 2017-08-20 13:32:20 +0300\ntags: [Imported]\n---\n";
 
 		$fileContents = $fileHeader.$fileContents;
 

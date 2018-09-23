@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hate pt 3. Электричество
+date: 2017-08-20 13:32:20 +0300
 tags: [Imported]
 ---
 # Hate pt 3. Электричество
