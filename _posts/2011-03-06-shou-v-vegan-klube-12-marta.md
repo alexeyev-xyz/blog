@@ -4,6 +4,7 @@ title: "Шоу в Веган-клубе 12 марта"
 date: 2011-03-06 00:00:00 +0300
 img: "tumblr_lhn0pby6wm1qfp23s.jpg"
 tags: Imported
+author: vlaim
 ---
 
 ![](/blog/assets/img/tumblr_lhn0pby6wm1qfp23s.jpg)

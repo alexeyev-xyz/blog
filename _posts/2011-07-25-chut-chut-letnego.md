@@ -4,6 +4,7 @@ title: "Чуть-чуть летнего"
 date: 2011-07-25 00:00:00 +0300
 img: "tumblr_lowoizm1u21qfp23s.jpg"
 tags: Imported
+author: vlaim
 ---
 
 Этой весной [ЗДЕСЬ](http://vlaim.tumblr.com/post/3666886195) я писал о своем желании прокатиться на велике поздно вечером.

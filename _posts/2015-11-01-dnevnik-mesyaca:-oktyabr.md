@@ -4,6 +4,7 @@ title: "Дневник месяца: октябрь"
 date: 2015-11-01 00:00:00 +0300
 img: "imitation_game.jpg"
 tags: Imported
+author: vlaim
 ---
 
 Disclaimer:

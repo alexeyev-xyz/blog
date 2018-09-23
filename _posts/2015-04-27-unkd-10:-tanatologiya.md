@@ -4,6 +4,7 @@ title: "УНКД 10: Танатология"
 date: 2015-04-27 00:00:00 +0300
 img: "worst-way-to-die-2.jpg"
 tags: Imported
+author: vlaim
 ---
 
 **Юбилейный выпуск рубрики [Узнаем Новое Каждый День](https://blog.alexeyev.me/facts-every-day/)**

@@ -4,6 +4,7 @@ title: "Фильмы/инсталяции, что надо посмотреть 
 date: 2011-07-08 00:00:00 +0300
 img: ""
 tags: Imported
+author: vlaim
 ---
 
 * <span class="video_name">О, что за чудесная война / Oh! What a Lovely War (1969)</span>

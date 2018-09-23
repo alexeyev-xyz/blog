@@ -4,6 +4,7 @@ title: "Мир должен знать, что я ел"
 date: 2018-01-06 00:00:00 +0300
 img: "IMG_20171205_170154.jpg"
 tags: Imported
+author: vlaim
 ---
 
 [![IMG_20171205_170154](/blog/assets/img/IMG_20171205_170154.jpg)](/blog/assets/img/IMG_20171205_170154.jpg) Домашняя запеченая катошка с сыром

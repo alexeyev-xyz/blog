@@ -4,6 +4,7 @@ title: "Ministry of Silly Walks"
 date: 2013-03-17 00:00:00 +0300
 img: "tumblr_inline_mjtjx8Lic11qz4rgp.png"
 tags: Imported
+author: vlaim
 ---
 
 ![](/blog/assets/img/tumblr_inline_mjtjx8Lic11qz4rgp.png)

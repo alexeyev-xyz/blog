@@ -4,6 +4,7 @@ title: "&laquo;Величие и комфорт редко существуют 
 date: 2015-05-21 00:00:00 +0300
 img: "8784b16535466b04bfc1.jpg"
 tags: Imported
+author: vlaim
 ---
 
 ![](/blog/assets/img/8784b16535466b04bfc1.jpg)

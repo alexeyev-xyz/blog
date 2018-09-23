@@ -4,6 +4,7 @@ title: "Расширение для chrome &quot;Клуб TJ&quot;"
 date: 2015-05-07 00:00:00 +0300
 img: "Skrinshot-2015-05-07-15.29.28-1024x489.png"
 tags: Imported
+author: vlaim
 ---
 
 Внес свой небольшой вклад в разработку расширения для клуба читателей[TJ+ ](http://the.tj/club)

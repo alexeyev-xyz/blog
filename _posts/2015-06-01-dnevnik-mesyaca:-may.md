@@ -4,6 +4,7 @@ title: "Дневник месяца: май"
 date: 2015-06-01 00:00:00 +0300
 img: "CFTXdzTUgAA4W-Z.png:large"
 tags: Imported
+author: vlaim
 ---
 
 Disclaimer:

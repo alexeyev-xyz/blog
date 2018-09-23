@@ -4,6 +4,7 @@ title: "Книга 19: Минимализм. Важнейшие эссе Джо�
 date: 2016-10-25 00:00:00 +0300
 img: "the-minimalists.png"
 tags: Imported
+author: vlaim
 ---
 
 ![the-minimalists](/blog/assets/img/the-minimalists.png)

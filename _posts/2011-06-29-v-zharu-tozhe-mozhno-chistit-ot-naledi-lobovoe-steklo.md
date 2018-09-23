@@ -4,6 +4,7 @@ title: "В жару тоже можно чистить от наледи лоб�
 date: 2011-06-29 00:00:00 +0300
 img: "064f8cce2ba7597966b265e5d5076a5f.gif"
 tags: Imported
+author: vlaim
 ---
 
 ![](/blog/assets/img/064f8cce2ba7597966b265e5d5076a5f.gif)

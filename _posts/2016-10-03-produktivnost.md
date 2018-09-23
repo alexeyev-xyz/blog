@@ -4,6 +4,7 @@ title: "Продуктивность"
 date: 2016-10-03 00:00:00 +0300
 img: "notes-1024x768.jpg"
 tags: Imported
+author: vlaim
 ---
 
 В Стокгольме я купил себе [копию Moleskine](http://www.moleskinerussia.ru/catalogue/notebooks/classic6/qp012.htm) за 10 крон

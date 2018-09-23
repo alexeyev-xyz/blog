@@ -4,6 +4,7 @@ title: "Дневник месяца: апрель"
 date: 2016-05-01 00:00:00 +0300
 img: ""
 tags: Imported
+author: vlaim
 ---
 
 **Кино**

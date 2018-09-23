@@ -4,6 +4,7 @@ title: "Книга 17: Стивен Гайз &mdash; MINI-привычки &ndas
 date: 2016-09-23 00:00:00 +0300
 img: "1011705168-150x150.jpg"
 tags: Imported
+author: vlaim
 ---
 
 ![1011705168](/blog/assets/img/1011705168-150x150.jpg)

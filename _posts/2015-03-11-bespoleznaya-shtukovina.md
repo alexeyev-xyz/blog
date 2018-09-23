@@ -4,6 +4,7 @@ title: "(Бес)полезная штуковина"
 date: 2015-03-11 00:00:00 +0300
 img: "maxresdefault-1024x576.jpg"
 tags: Imported
+author: vlaim
 ---
 
  

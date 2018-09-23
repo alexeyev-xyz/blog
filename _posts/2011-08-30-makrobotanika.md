@@ -4,6 +4,7 @@ title: "Макроботаника"
 date: 2011-08-30 00:00:00 +0300
 img: "tumblr_lqr08iWzJk1qfp23s.jpg"
 tags: Imported
+author: vlaim
 ---
 
 Съездил на дачу, пытался настроить макросъемку на “мыльнице”…

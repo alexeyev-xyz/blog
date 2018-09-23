@@ -4,6 +4,7 @@ title: "shalteboi &ndash; Качели Коты Гражданка"
 date: 2013-03-18 00:00:00 +0300
 img: "tumblr_inline_mjv6r45N2Y1qz4rgp.jpg"
 tags: Imported
+author: vlaim
 ---
 
 <span>Вырви руками мое сердце тоже, </span>

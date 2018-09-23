@@ -4,6 +4,7 @@ title: "Дневник месяца: январь"
 date: 2016-02-01 00:00:00 +0300
 img: "Gruz_200_Alexey_Balabanov_2007.gif"
 tags: Imported
+author: vlaim
 ---
 
 **Начало года**

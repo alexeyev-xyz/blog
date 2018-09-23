@@ -4,5 +4,6 @@ title: "Книга 27: Джордж Оруэлл &ndash; Скотный двор
 date: 2016-12-25 00:00:00 +0300
 img: ""
 tags: Imported
+author: vlaim
 ---
 

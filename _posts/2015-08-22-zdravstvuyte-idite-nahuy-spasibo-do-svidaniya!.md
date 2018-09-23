@@ -4,6 +4,7 @@ title: "Здравствуйте. Идите нахуй. Спасибо, до с
 date: 2015-08-22 00:00:00 +0300
 img: "Skrinshot-2015-08-22-17.22.42.png"
 tags: Imported
+author: vlaim
 ---
 
  

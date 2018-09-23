@@ -4,6 +4,7 @@ title: "УНКД 19: Церковный хор и стикеры"
 date: 2016-08-09 00:00:00 +0300
 img: "tumblr_llibryOEpT1qe7mxjo1_500.jpg"
 tags: Imported
+author: vlaim
 ---
 
 [![tumblr_llibryOEpT1qe7mxjo1_500](/blog/assets/img/tumblr_llibryOEpT1qe7mxjo1_500.jpg)](/blog/assets/img/tumblr_llibryOEpT1qe7mxjo1_500.jpg)

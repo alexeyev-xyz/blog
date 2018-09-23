@@ -4,6 +4,7 @@ title: "Нельзя просто взять и научиться програ�
 date: 2016-06-26 00:00:00 +0300
 img: "Nelzya-prosto-tak-vzyat-i_orig_1.jpg"
 tags: Imported
+author: vlaim
 ---
 
 ![Nelzya-prosto-tak-vzyat-i_orig_(1)](/blog/assets/img/Nelzya-prosto-tak-vzyat-i_orig_1.jpg) «Нельзя просто так взять и войти в Мордор.» Эта картинка сделала Шона Бина бессмертным, хотя в фильмах [он умирает больше, чем все остальные актеры](http://nerdist.com/does-sean-bean-really-die-more-than-other-actors/)

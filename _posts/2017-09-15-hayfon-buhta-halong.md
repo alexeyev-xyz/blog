@@ -4,6 +4,7 @@ title: "Хайфон, бухта Халонг"
 date: 2017-09-15 00:00:00 +0300
 img: "halong-03.jpg"
 tags: Imported
+author: vlaim
 ---
 
 [![halong-03](/blog/assets/img/halong-03.jpg)](/blog/assets/img/halong-03.jpg)

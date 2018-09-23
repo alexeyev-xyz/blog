@@ -4,6 +4,7 @@ title: "Дневник месяца: февраль"
 date: 2015-02-28 00:00:00 +0300
 img: "27de2.jpg"
 tags: Imported
+author: vlaim
 ---
 
 Disclaimer:

@@ -4,6 +4,7 @@ title: "Дневник месяца: август"
 date: 2015-09-03 00:00:00 +0300
 img: "kote-764x1024.jpg"
 tags: Imported
+author: vlaim
 ---
 
 Disclaimer:

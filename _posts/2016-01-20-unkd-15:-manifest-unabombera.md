@@ -4,6 +4,7 @@ title: "УНКД 15: Манифест Унабомбера"
 date: 2016-01-20 00:00:00 +0300
 img: "una.jpg"
 tags: Imported
+author: vlaim
 ---
 
 ![una](/blog/assets/img/una.jpg)

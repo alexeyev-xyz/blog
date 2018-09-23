@@ -4,6 +4,7 @@ title: "Ниньхоа, пляж Зоклет"
 date: 2017-09-07 00:00:00 +0300
 img: "DSCN7174.jpg"
 tags: Imported
+author: vlaim
 ---
 
 [![DSCN7174](/blog/assets/img/DSCN7174.jpg)](/blog/assets/img/DSCN7174.jpg)

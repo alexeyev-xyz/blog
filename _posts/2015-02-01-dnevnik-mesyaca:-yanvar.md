@@ -4,6 +4,7 @@ title: "Дневник месяца: январь"
 date: 2015-02-01 00:00:00 +0300
 img: "2e2cf660d3a79321a09c3b5ac26.jpg"
 tags: Imported
+author: vlaim
 ---
 
 Disclaimer:
