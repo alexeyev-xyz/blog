@@ -1,7 +1,9 @@
+---
 layout: post
 title: Дневник месяца июль
 date: 2015-08-02 00:00:00 +0300
 tags: [Imported]
+---
 # Дневник месяца: июль
 
 Disclaimer:

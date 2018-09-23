@@ -1,7 +1,9 @@
+---
 layout: post
 title: shalteboi &ndash; Качели Коты Гражданка
 date: 2013-03-18 00:00:00 +0300
 tags: [Imported]
+---
 # shalteboi – Качели Коты Гражданка
 
 <span>Вырви руками мое сердце тоже, </span>

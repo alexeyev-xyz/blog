@@ -1,7 +1,9 @@
+---
 layout: post
 title: Дневник месяца ноябрь
 date: 2015-12-01 00:00:00 +0300
 tags: [Imported]
+---
 # Дневник месяца: ноябрь
 
 Disclaimer:
