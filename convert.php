@@ -94,11 +94,11 @@ if($allFiles){
 
 		$fileContents = file_get_contents($file);
 
-
+		$firstLine = str_replace('.', '', $firstLine);
 
 		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ndate: 2017-08-20 13:32:20 +0300\ntags: [Imported]\n---\n";
 
-		#$fileContents = $fileHeader.$fileContents;
+		$fileContents = $fileHeader.$fileContents;
 
 
 		$pathTo = $directoryTo.'/'.$fullPostTitle;

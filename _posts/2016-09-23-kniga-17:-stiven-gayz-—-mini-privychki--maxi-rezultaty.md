@@ -1,3 +1,9 @@
+---
+layout: post
+title: Книга 17: Стивен Гайз — MINI-привычки – MAXI-результаты
+date: 2017-08-20 13:32:20 +0300
+tags: [Imported]
+---
 # Книга #17: Стивен Гайз — MINI-привычки – MAXI-результаты 
 
 ![1011705168](https://vlaim.s3.amazonaws.com/uploads/2016/09/1011705168-150x150.jpg)

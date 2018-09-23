@@ -1,3 +1,9 @@
+---
+layout: post
+title: Нельзя просто взять и научиться программировать
+date: 2017-08-20 13:32:20 +0300
+tags: [Imported]
+---
 # Нельзя просто взять и научиться программировать
 
 ![Nelzya-prosto-tak-vzyat-i_orig_(1)](https://vlaim.s3.amazonaws.com/uploads/2016/06/Nelzya-prosto-tak-vzyat-i_orig_1.jpg) «Нельзя просто так взять и войти в Мордор.» Эта картинка сделала Шона Бина бессмертным, хотя в фильмах [он умирает больше, чем все остальные актеры](http://nerdist.com/does-sean-bean-really-die-more-than-other-actors/)

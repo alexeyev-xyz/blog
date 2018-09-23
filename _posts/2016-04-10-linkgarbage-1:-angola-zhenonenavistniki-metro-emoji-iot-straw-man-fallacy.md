@@ -1,3 +1,9 @@
+---
+layout: post
+title: LinkGarbage 1: Ангола, Женоненавистники, Метро, Emoji, IOT, Straw Man Fallacy
+date: 2017-08-20 13:32:20 +0300
+tags: [Imported]
+---
 # LinkGarbage #1: Ангола, Женоненавистники, Метро, Emoji, IOT, Straw Man Fallacy
 
 **Рубрика "Свалка ссылок", все, что мне показалось забавным и интересным за последнее время. **

@@ -1,3 +1,9 @@
+---
+layout: post
+title: Fucked Up, Got Ambushed, Zipped In
+date: 2017-08-20 13:32:20 +0300
+tags: [Imported]
+---
 # Fucked Up, Got Ambushed, Zipped In
 
 Fucked Up, Got Ambushed, Zipped In, а сокращенно просто **FUGAZI. **

@@ -1,3 +1,9 @@
+---
+layout: post
+title: Мартин Гарднер
+date: 2017-08-20 13:32:20 +0300
+tags: [Imported]
+---
 # Мартин Гарднер
 
 > [http://lib.ru/INOFANT/GARDNER_M/island.txt](http://lib.ru/INOFANT/GARDNER_M/island.txt)
