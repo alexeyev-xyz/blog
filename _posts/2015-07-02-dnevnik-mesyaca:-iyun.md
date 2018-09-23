@@ -13,7 +13,7 @@ _Решил вести некое подобие дневника, в котор
 
 Этот месяц определенно прошел под знамем диплома. Из-за него я немного выпал из жизни. Наконец-то, я его защитил. _**I'm fuckin' bachelor! **_
 
-[![giphy](/blog/assetsgiphy.gif)](/blog/assetsgiphy.gif)
+[![giphy](/blog/assets/giphy.gif)](/blog/assets/giphy.gif)
 
 **Geek Picnic 2015**
 
@@ -27,4 +27,4 @@ _Решил вести некое подобие дневника, в котор
 
 Пересмотрел много старых выпусков Что? Где? Когда? Например, всю зимнию серию 2000 года.
 
-![](/blog/assetsc-G9ejTWVyo.jpg)
+![](/blog/assets/c-G9ejTWVyo.jpg)

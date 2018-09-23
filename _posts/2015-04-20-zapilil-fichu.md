@@ -8,6 +8,6 @@ tags: [Imported]
 
 **¯\_(ツ)_/¯**
 
-[![_mov](/blog/assetsmov.gif)](/blog/assetsmov.gif)
+[![_mov](/blog/assets/mov.gif)](/blog/assets/mov.gif)
 
 ЗЫ - конвертер артефакт присобачил :(

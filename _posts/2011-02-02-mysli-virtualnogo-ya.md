@@ -10,5 +10,5 @@ tags: [Imported]
 
 **Виртуальный Я**
 
-**![image](/blog/assetstumblr_lfzubg1rXn1qfp23s.png)
+**![image](/blog/assets/tumblr_lfzubg1rXn1qfp23s.png)
 **

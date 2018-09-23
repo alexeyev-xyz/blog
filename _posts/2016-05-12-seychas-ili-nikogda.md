@@ -6,4 +6,4 @@ img: "637185.jpg"
 tags: [Imported]
 ---
 
-![kinopoisk.ru](/blog/assets637185.jpg)
+![kinopoisk.ru](/blog/assets/637185.jpg)

@@ -6,12 +6,12 @@ img: "halong-03.jpg"
 tags: [Imported]
 ---
 
-[![halong-03](/blog/assetshalong-03.jpg)](/blog/assetshalong-03.jpg)
+[![halong-03](/blog/assets/halong-03.jpg)](/blog/assets/halong-03.jpg)
 
-[![halong-01](/blog/assetshalong-01.jpg)](/blog/assetshalong-01.jpg)
+[![halong-01](/blog/assets/halong-01.jpg)](/blog/assets/halong-01.jpg)
 
-[![halong-04](/blog/assetshalong-04.jpg)](/blog/assetshalong-04.jpg)  
+[![halong-04](/blog/assets/halong-04.jpg)](/blog/assets/halong-04.jpg)  
 
-[![halong-02](/blog/assetshalong-02.jpg)](/blog/assetshalong-02.jpg)
+[![halong-02](/blog/assets/halong-02.jpg)](/blog/assets/halong-02.jpg)
 
-[![catba](/blog/assetscatba.jpg)](/blog/assetscatba.jpg)
+[![catba](/blog/assets/catba.jpg)](/blog/assets/catba.jpg)

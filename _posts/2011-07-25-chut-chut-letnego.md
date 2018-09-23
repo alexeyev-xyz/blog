@@ -12,8 +12,8 @@ tags: [Imported]
 
 Вот что из этого вышло:
 
-![image](/blog/assetstumblr_lowoizm1u21qfp23s.jpg)
+![image](/blog/assets/tumblr_lowoizm1u21qfp23s.jpg)
 
-![image](/blog/assetstumblr_lowokz9ftq1qfp23s.jpg)
+![image](/blog/assets/tumblr_lowokz9ftq1qfp23s.jpg)
 
-![image](/blog/assetstumblr_lowonnipwD1qfp23s.jpg)
+![image](/blog/assets/tumblr_lowonnipwD1qfp23s.jpg)

@@ -6,7 +6,7 @@ img: "tumblr_lgm21cQ36o1qfp23s.jpg"
 tags: [Imported]
 ---
 
-![](/blog/assetstumblr_lgm21cQ36o1qfp23s.jpg)
+![](/blog/assets/tumblr_lgm21cQ36o1qfp23s.jpg)
 
 > **Mementum Mori**
 > 

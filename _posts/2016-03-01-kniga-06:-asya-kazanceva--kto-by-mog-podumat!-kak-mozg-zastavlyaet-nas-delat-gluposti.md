@@ -8,7 +8,7 @@ tags: [Imported]
 
 _Disclaimer: В конце прошлого года, я поставил себе цель [прочитать 30 книг](https://blog.alexeyev.me/2015/12/30-books-2016/ "2016: 30 книг") и кратко поделиться впечатлениями о каждой из них._
 
-[![tnw800-KAZANTSEVA](/blog/assetstnw800-KAZANTSEVA-198x300.png)](https://vlaim.s3.amazonaws.com/uploads/2016/03/tnw800-KAZANTSEVA.png)
+[![tnw800-KAZANTSEVA](/blog/assets/tnw800-KAZANTSEVA-198x300.png)](https://vlaim.s3.amazonaws.com/uploads/2016/03/tnw800-KAZANTSEVA.png)
 
 Доктор биологических наук, старший научный сотрудник Палеонтологического института РАН [Александр Марков пишет о книге:](http://www.corpus.ru/products/asja-kazanceva-kto-by-mog-podumat-kak-mozg-zastavljaet-nas-delat-gluposti.htm)
 

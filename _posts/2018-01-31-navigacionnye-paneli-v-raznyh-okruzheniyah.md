@@ -14,7 +14,7 @@ tags: [Imported]
 
 <div class="aspectRatioPlaceholder is-locked"></div>
 
-<div class="aspectRatioPlaceholder is-locked">[![prod](/blog/assetsprod.png)](/blog/assetsprod.png) Черная панель — production [![dev](/blog/assetsdev.png)](/blog/assetsdev.png) Так выглядит панель в dev-окружении  [![stage](/blog/assetsstage.png)](/blog/assetsstage.png) А так в staging’e
+<div class="aspectRatioPlaceholder is-locked">[![prod](/blog/assets/prod.png)](/blog/assets/prod.png) Черная панель — production [![dev](/blog/assets/dev.png)](/blog/assets/dev.png) Так выглядит панель в dev-окружении  [![stage](/blog/assets/stage.png)](/blog/assets/stage.png) А так в staging’e
 
 **Теперь мы с одного взгляда можем отличить в каком окружении находимся и вряд ли запутаемся.**
 

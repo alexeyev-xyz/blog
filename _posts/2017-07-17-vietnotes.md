@@ -8,8 +8,8 @@ tags: [Imported]
 
 В середине июля мы с [Элиной](https://krentsler.com/) переехали пожить на несколько месяцев во Вьетнам. Во время нашего длительного пребывания там будем писать о нашей жизни в канал. Подписывайтесь :) 
 
-[![t-me--vietnotes](/blog/assetst-me-vietnotes.png)](https://t.me/vietnotes)
+[![t-me--vietnotes](/blog/assets/t-me-vietnotes.png)](https://t.me/vietnotes)
 
 Вот вам фоточка бухты Нячанга в шесть утра.
 
-[![IMG_20170716_054629](/blog/assetsIMG_20170716_054629.jpg)](/blog/assetsIMG_20170716_054629.jpg) Бухта Нячанга
+[![IMG_20170716_054629](/blog/assets/IMG_20170716_054629.jpg)](/blog/assets/IMG_20170716_054629.jpg) Бухта Нячанга

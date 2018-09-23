@@ -19,12 +19,12 @@ _Решил вести некое подобие дневника, в котор
 
 **Книга месяца**
 
-[![Скриншот 2015-08-01 00.00.57](/blog/assetsSkrinshot-2015-08-01-00.00.57.png)](/blog/assetsSkrinshot-2015-08-01-00.00.57.png)
+[![Скриншот 2015-08-01 00.00.57](/blog/assets/Skrinshot-2015-08-01-00.00.57.png)](/blog/assets/Skrinshot-2015-08-01-00.00.57.png)
 
 **Фильм месяца**
 
-[![289909](/blog/assets289909.jpg)](/blog/assets289909.jpg)
+[![289909](/blog/assets/289909.jpg)](/blog/assets/289909.jpg)
 
 **Саундтрек месяца  **
 
-[![Скриншот 2015-08-02 23.53.34](/blog/assetsSkrinshot-2015-08-02-23.53.34.png)](/blog/assetsSkrinshot-2015-08-02-23.53.34.png)
+[![Скриншот 2015-08-02 23.53.34](/blog/assets/Skrinshot-2015-08-02-23.53.34.png)](/blog/assets/Skrinshot-2015-08-02-23.53.34.png)

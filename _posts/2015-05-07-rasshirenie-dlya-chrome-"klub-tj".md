@@ -10,9 +10,9 @@ tags: [Imported]
 
 С помощью него можно быстро публиковать в клубе читателей новость с текущей страницы. Просто выделите текст и нажмите на иконку.
 
-[![Скриншот 2015-05-07 15.29.28](/blog/assetsSkrinshot-2015-05-07-15.29.28-1024x489.png)](https://vlaim.s3.amazonaws.com/uploads/2015/05/Skrinshot-2015-05-07-15.29.28.png)
+[![Скриншот 2015-05-07 15.29.28](/blog/assets/Skrinshot-2015-05-07-15.29.28-1024x489.png)](https://vlaim.s3.amazonaws.com/uploads/2015/05/Skrinshot-2015-05-07-15.29.28.png)
 
-[![Скриншот 2015-05-07 15.29.49](/blog/assetsSkrinshot-2015-05-07-15.29.49-1024x496.png)](https://vlaim.s3.amazonaws.com/uploads/2015/05/Skrinshot-2015-05-07-15.29.49.png)
+[![Скриншот 2015-05-07 15.29.49](/blog/assets/Skrinshot-2015-05-07-15.29.49-1024x496.png)](https://vlaim.s3.amazonaws.com/uploads/2015/05/Skrinshot-2015-05-07-15.29.49.png)
 
 [Скачать расширение](https://chrome.google.com/webstore/detail/%D0%BA%D0%BB%D1%83%D0%B1-tj/hgpkplilcbpgofmfebfcjngijaicekkj)
 

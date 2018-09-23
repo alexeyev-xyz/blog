@@ -23,7 +23,7 @@ _Решил вести некое подобие дневника, в котор
 
 **Музыка**
 
-[![Yair3NDXRDU](/blog/assetsYair3NDXRDU.jpg)](/blog/assetsYair3NDXRDU.jpg)
+[![Yair3NDXRDU](/blog/assets/Yair3NDXRDU.jpg)](/blog/assets/Yair3NDXRDU.jpg)
 
 **Щенки - Лучшее Враг Хорошего (апрель 2015)**
 

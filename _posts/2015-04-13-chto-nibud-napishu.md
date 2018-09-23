@@ -7,5 +7,5 @@ tags: [Imported]
 ---
 
 **Последняя неделя учебы в бакалавриате**
-![Nu_pizdets](/blog/assetsNu_pizdets.gif)
+![Nu_pizdets](/blog/assets/Nu_pizdets.gif)
 Курсовая сложнее диплома, ок.

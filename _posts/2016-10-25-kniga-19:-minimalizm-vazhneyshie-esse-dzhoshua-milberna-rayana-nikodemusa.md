@@ -6,7 +6,7 @@ img: "the-minimalists.png"
 tags: [Imported]
 ---
 
-![the-minimalists](/blog/assetsthe-minimalists.png)
+![the-minimalists](/blog/assets/the-minimalists.png)
 
 Впервые узнал об этих ребятах и сайте [theminimalists.com](http://www.theminimalists.com/), когда увидел на канале TEDx это видео. По сути, книга – сборник эссе, написанных в разное время с этого сайта.
 

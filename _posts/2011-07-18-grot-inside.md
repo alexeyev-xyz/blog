@@ -6,10 +6,10 @@ img: "tumblr_lojiq3P2K01qfp23s.jpg"
 tags: [Imported]
 ---
 
-![image](/blog/assetstumblr_lojiq3P2K01qfp23s.jpg)
+![image](/blog/assets/tumblr_lojiq3P2K01qfp23s.jpg)
 
-![image](/blog/assetstumblr_lojishwtrX1qfp23s.jpg)
+![image](/blog/assets/tumblr_lojishwtrX1qfp23s.jpg)
 
-![image](/blog/assetstumblr_lojj4nHSih1qfp23s.jpg)
+![image](/blog/assets/tumblr_lojj4nHSih1qfp23s.jpg)
 
-![image](/blog/assetstumblr_lojiw1mnpP1qfp23s.jpg)
+![image](/blog/assets/tumblr_lojiw1mnpP1qfp23s.jpg)

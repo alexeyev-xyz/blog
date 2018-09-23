@@ -6,13 +6,13 @@ img: "DSCN7174.jpg"
 tags: [Imported]
 ---
 
-[![DSCN7174](/blog/assetsDSCN7174.jpg)](/blog/assetsDSCN7174.jpg)
+[![DSCN7174](/blog/assets/DSCN7174.jpg)](/blog/assets/DSCN7174.jpg)
 
-[![DSCN7190](/blog/assetsDSCN7190.jpg)](/blog/assetsDSCN7190.jpg)
+[![DSCN7190](/blog/assets/DSCN7190.jpg)](/blog/assets/DSCN7190.jpg)
 
-[![DSCN7212](/blog/assetsDSCN7212.jpg)](/blog/assetsDSCN7212.jpg)
+[![DSCN7212](/blog/assets/DSCN7212.jpg)](/blog/assets/DSCN7212.jpg)
 
-[![DSCN7219](/blog/assetsDSCN7219.jpg)](/blog/assetsDSCN7219.jpg)
+[![DSCN7219](/blog/assets/DSCN7219.jpg)](/blog/assets/DSCN7219.jpg)
 
-[![IMG_20170906_104311](/blog/assetsIMG_20170906_104311.jpg)](/blog/assetsIMG_20170906_104311.jpg)
-[![IMG_20170906_112306](/blog/assetsIMG_20170906_112306.jpg)](/blog/assetsIMG_20170906_112306.jpg)
+[![IMG_20170906_104311](/blog/assets/IMG_20170906_104311.jpg)](/blog/assets/IMG_20170906_104311.jpg)
+[![IMG_20170906_112306](/blog/assets/IMG_20170906_112306.jpg)](/blog/assets/IMG_20170906_112306.jpg)

@@ -8,6 +8,6 @@ tags: [Imported]
 
  
 
-[![maxresdefault](/blog/assetsmaxresdefault-1024x576.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/03/maxresdefault.jpg)
+[![maxresdefault](/blog/assets/maxresdefault-1024x576.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/03/maxresdefault.jpg)
 
 Я не катаюсь на байке и не прыгаю с парашутом, но штука вроде веселая. Можно просто снимать окружение по приколу. Это китайский аналог гоу про, стоит всего лишь пять тысяч. _Желание в вишлист. _

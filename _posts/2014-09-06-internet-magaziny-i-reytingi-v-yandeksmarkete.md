@@ -10,4 +10,4 @@ tags: [Imported]
 
 Кругом обман, везде тебя пытаются обмануть плохие люди. Даже ботанический сад принадлежит масонам. 
 
-<div style="text-align: center;">![VvIEvIXOxZ0](/blog/assets5575_600.jpg "VvIEvIXOxZ0")</div>
+<div style="text-align: center;">![VvIEvIXOxZ0](/blog/assets/5575_600.jpg "VvIEvIXOxZ0")</div>
