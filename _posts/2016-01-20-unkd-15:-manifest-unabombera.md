@@ -1,9 +1,7 @@
----
 layout: post
 title: УНКД 15 Манифест Унабомбера
 date: 2016-01-20 00:00:00 +0300
 tags: [Imported]
----
 # УНКД #15: Манифест Унабомбера
 
 ![una](https://vlaim.s3.amazonaws.com/uploads/2016/01/una.jpg)

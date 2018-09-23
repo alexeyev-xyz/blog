@@ -1,9 +1,7 @@
----
 layout: post
 title: Мракобесие
 date: 2011-02-14 00:00:00 +0300
 tags: [Imported]
----
 # Мракобесие
 
 ![](http://media.tumblr.com/tumblr_lgm21cQ36o1qfp23s.jpg)

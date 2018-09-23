@@ -1,9 +1,7 @@
----
 layout: post
 title: Книга 21 Jessica Valenti &ndash; Full Frontal Feminism
 date: 2016-11-06 00:00:00 +0300
 tags: [Imported]
----
 # Книга #21: Jessica Valenti – Full Frontal Feminism 
 
 > <div class="bm-quote-content-text">Women are taught that we’re only supposed to have sex under these bizarre arbitrary guidelines: only if you’re married; only if it’s for procreation; and only with another girl if guys can watch. So unless you’re going to do it the way other people want, just don’t.</div>

@@ -1,9 +1,7 @@
----
 layout: post
 title: Ниньхоа, пляж Зоклет
 date: 2017-09-07 00:00:00 +0300
 tags: [Imported]
----
 # Ниньхоа, пляж Зоклет
 
 [![DSCN7174](https://vlaim.s3.amazonaws.com/uploads/2017/11/DSCN7174.jpg)](https://vlaim.s3.amazonaws.com/uploads/2017/11/DSCN7174.jpg)

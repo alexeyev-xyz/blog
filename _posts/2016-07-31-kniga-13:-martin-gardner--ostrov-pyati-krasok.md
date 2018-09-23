@@ -1,9 +1,7 @@
----
 layout: post
 title: Книга 13 Мартин Гарднер &ndash; Остров пяти красок
 date: 2016-07-31 00:00:00 +0300
 tags: [Imported]
----
 # Книга #13: Мартин Гарднер – Остров пяти красок
 
 ![gardner](https://vlaim.s3.amazonaws.com/uploads/2016/07/gardner.jpeg)

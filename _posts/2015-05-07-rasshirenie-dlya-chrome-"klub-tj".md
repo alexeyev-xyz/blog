@@ -1,9 +1,7 @@
----
 layout: post
 title: Расширение для chrome &quot;Клуб TJ&quot;
 date: 2015-05-07 00:00:00 +0300
 tags: [Imported]
----
 # Расширение для chrome "Клуб TJ" 
 
 Внес свой небольшой вклад в разработку расширения для клуба читателей[TJ+ ](http://the.tj/club)

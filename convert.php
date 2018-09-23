@@ -100,11 +100,16 @@ if($allFiles){
 		$firstLine = $firstLine ? $firstLine : $fullDate;
 
 
-		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
-
-		#echo $firstLine."\n"; continue;
+		$fileHeader = "layout: post\ntitle: {$firstLine}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n";
 
 		$fileContents = $fileHeader.$fileContents;
+
+		//$kek .= $fileHeader."\n"; 
+
+		//file_put_contents('.kek', $kek);
+
+		//continue;
+
 
 
 		$pathTo = $directoryTo.'/'.$fullPostTitle;

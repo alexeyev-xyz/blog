@@ -1,9 +1,7 @@
----
 layout: post
 title: Продуктивность
 date: 2016-10-03 00:00:00 +0300
 tags: [Imported]
----
 # Продуктивность
 
 В Стокгольме я купил себе [копию Moleskine](http://www.moleskinerussia.ru/catalogue/notebooks/classic6/qp012.htm) за 10 крон
