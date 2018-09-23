@@ -10,4 +10,4 @@ tags: [Imported]
 
 Павел Дуров
 
-![dogge](https://vlaim.s3.amazonaws.com/uploads/2016/05/dogge-1024x768.jpeg)
+![dogge](dogge-1024x768.jpeg)

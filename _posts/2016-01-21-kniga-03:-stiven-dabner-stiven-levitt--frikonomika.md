@@ -8,7 +8,7 @@ tags: [Imported]
 
 _Disclaimer: В конце прошлого года, я поставил себе цель [прочитать 30 книг](https://blog.alexeyev.me/2015/12/30-books-2016/ "2016: 30 книг") и кратко поделиться впечатлениями о каждой из них._
 
-![freakonomics](https://vlaim.s3.amazonaws.com/uploads/2016/01/freakonomics.jpeg)
+![freakonomics](freakonomics.jpeg)
 
 > <div class="bm-quote-content-text">Стимул — это пуля, рычаг, ключ: как правило, крошечный предмет с огромным потенциалом для изменения ситуации.</div>
 

@@ -21,4 +21,4 @@ tags: [Imported]
 <span>Пожалуйста, катапультируйтесь в грез лоджию</span>
 <span>коты, гражданка, качели..</span>
 
-<span>весна 2012![](http://media.tumblr.com/442c2c82ffd760f0d4311bdd7a54d6c9/tumblr_inline_mjv6r45N2Y1qz4rgp.jpg)</span>
+<span>весна 2012![](tumblr_inline_mjv6r45N2Y1qz4rgp.jpg)</span>

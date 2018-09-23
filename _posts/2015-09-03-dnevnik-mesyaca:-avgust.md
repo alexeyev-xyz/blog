@@ -13,4 +13,4 @@ _Решил вести некое подобие дневника, в котор
 
 Съездил в Москву и к брату в Пущино
 
-[![kote](https://vlaim.s3.amazonaws.com/uploads/2015/09/kote-764x1024.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/kote.jpg) Выставка кошек на ВДНХ [![nemtsov](https://vlaim.s3.amazonaws.com/uploads/2015/09/nemtsov-1024x764.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/nemtsov.jpg) "Немцов" мост [![most](https://vlaim.s3.amazonaws.com/uploads/2015/09/most-1024x764.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/most.jpg)
+[![kote](kote-764x1024.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/kote.jpg) Выставка кошек на ВДНХ [![nemtsov](nemtsov-1024x764.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/nemtsov.jpg) "Немцов" мост [![most](most-1024x764.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/09/most.jpg)

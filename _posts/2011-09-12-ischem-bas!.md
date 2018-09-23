@@ -30,4 +30,4 @@ tags: [Imported]
 
 [http://twitter.com/Rusik_Rusik](http://twitter.com/Rusik_Rusik)
 
-![](http://media.tumblr.com/tumblr_lrewcdIB1r1qfp23s.jpg)
+![](tumblr_lrewcdIB1r1qfp23s.jpg)

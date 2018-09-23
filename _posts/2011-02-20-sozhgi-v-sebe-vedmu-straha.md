@@ -6,6 +6,6 @@ img: "http://media.tumblr.com/tumblr_lgx5wl9vKC1qfp23s.png"
 tags: [Imported]
 ---
 
-![](http://media.tumblr.com/tumblr_lgx5wl9vKC1qfp23s.png)
+![](tumblr_lgx5wl9vKC1qfp23s.png)
 
 Мерч от темных сил <3

@@ -14,10 +14,10 @@ tags: [Imported]
 
 **Музыкальное открытие: Аффинаж**
 
-![Аффинаж-1-640](https://vlaim.s3.amazonaws.com/uploads/2016/04/Affinazh-1-640.jpg)
+![Аффинаж-1-640](Affinazh-1-640.jpg)
 
 **День рождения Коляна**
 
 Классно отметили день рождения Коляна в  Maza парке.
-![](https://scontent-ams3-1.cdninstagram.com/t51.2885-15/e35/11349418_983945034992382_318837333_n.jpg?ig_cache_key=MTIwMDE3NjgwNTMxMDExMDA3Ng%3D%3D.2)
+![](11349418_983945034992382_318837333_n.jpg?ig_cache_key=MTIwMDE3NjgwNTMxMDExMDA3Ng%3D%3D.2)
 **Подкаст "Батенька, да вы трансформер"**

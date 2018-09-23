@@ -14,6 +14,6 @@ tags: [Imported]
 
 Город Нэшвилл в штате Теннесси, расположенный примерно в центре региона, часто называют "пряжкой Библейского пояса".
 
-![bb](https://vlaim.s3.amazonaws.com/uploads/2017/02/bb.jpeg)
+![bb](bb.jpeg)
 
 Источник: [http://prousa.info/belts](http://prousa.info/belts)

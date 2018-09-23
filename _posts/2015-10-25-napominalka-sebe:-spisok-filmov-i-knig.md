@@ -6,4 +6,4 @@ img: "https://vlaim.s3.amazonaws.com/uploads/2015/10/IMG_2015-10-25-205851-1024x
 tags: [Imported]
 ---
 
-[![IMG_2015-10-25 20:58:51](https://vlaim.s3.amazonaws.com/uploads/2015/10/IMG_2015-10-25-205851-1024x759.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/10/IMG_2015-10-25-205851.jpg)
+[![IMG_2015-10-25 20:58:51](IMG_2015-10-25-205851-1024x759.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/10/IMG_2015-10-25-205851.jpg)

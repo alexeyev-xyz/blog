@@ -19,12 +19,12 @@ _Решил вести некое подобие дневника, в котор
 
 **Книга месяца**
 
-[![Скриншот 2015-08-01 00.00.57](https://vlaim.s3.amazonaws.com/uploads/2015/08/Skrinshot-2015-08-01-00.00.57.png)](https://vlaim.s3.amazonaws.com/uploads/2015/08/Skrinshot-2015-08-01-00.00.57.png)
+[![Скриншот 2015-08-01 00.00.57](Skrinshot-2015-08-01-00.00.57.png)](Skrinshot-2015-08-01-00.00.57.png)
 
 **Фильм месяца**
 
-[![289909](https://vlaim.s3.amazonaws.com/uploads/2015/08/289909.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/08/289909.jpg)
+[![289909](289909.jpg)](289909.jpg)
 
 **Саундтрек месяца  **
 
-[![Скриншот 2015-08-02 23.53.34](https://vlaim.s3.amazonaws.com/uploads/2015/08/Skrinshot-2015-08-02-23.53.34.png)](https://vlaim.s3.amazonaws.com/uploads/2015/08/Skrinshot-2015-08-02-23.53.34.png)
+[![Скриншот 2015-08-02 23.53.34](Skrinshot-2015-08-02-23.53.34.png)](Skrinshot-2015-08-02-23.53.34.png)

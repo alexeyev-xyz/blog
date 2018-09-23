@@ -10,7 +10,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![danya](/wp-content/uploads/2014/08/danya.jpg)</div>
+<div class="col-md-12">![danya](danya.jpg)</div>
 
 <div class="col-md-12">
 
@@ -22,7 +22,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![lissov](/wp-content/uploads/2014/08/lissov.jpg)</div>
+<div class="col-md-12">![lissov](lissov.jpg)</div>
 
 <div class="col-md-12">
 
@@ -34,7 +34,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![david](/wp-content/uploads/2014/08/david.jpg)</div>
+<div class="col-md-12">![david](david.jpg)</div>
 
 <div class="col-md-12">
 
@@ -46,7 +46,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![svetlana](/wp-content/uploads/2014/08/svetlana.jpg)</div>
+<div class="col-md-12">![svetlana](svetlana.jpg)</div>
 
 <div class="col-md-12">
 
@@ -58,7 +58,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![ilia](/wp-content/uploads/2014/08/ilia.jpg)</div>
+<div class="col-md-12">![ilia](ilia.jpg)</div>
 
 <div class="col-md-12">
 
@@ -70,7 +70,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![agent](/wp-content/uploads/2014/08/agent.jpg)</div>
+<div class="col-md-12">![agent](agent.jpg)</div>
 
 <div class="col-md-12">
 

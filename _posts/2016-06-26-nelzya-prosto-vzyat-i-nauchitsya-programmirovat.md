@@ -6,7 +6,7 @@ img: "https://vlaim.s3.amazonaws.com/uploads/2016/06/Nelzya-prosto-tak-vzyat-i_o
 tags: [Imported]
 ---
 
-![Nelzya-prosto-tak-vzyat-i_orig_(1)](https://vlaim.s3.amazonaws.com/uploads/2016/06/Nelzya-prosto-tak-vzyat-i_orig_1.jpg) «Нельзя просто так взять и войти в Мордор.» Эта картинка сделала Шона Бина бессмертным, хотя в фильмах [он умирает больше, чем все остальные актеры](http://nerdist.com/does-sean-bean-really-die-more-than-other-actors/)
+![Nelzya-prosto-tak-vzyat-i_orig_(1)](Nelzya-prosto-tak-vzyat-i_orig_1.jpg) «Нельзя просто так взять и войти в Мордор.» Эта картинка сделала Шона Бина бессмертным, хотя в фильмах [он умирает больше, чем все остальные актеры](http://nerdist.com/does-sean-bean-really-die-more-than-other-actors/)
 
 <span style="font-weight: 400;">Нельзя просто взять и научиться программировать. Потому что это не легко, а тяжело. И все об этом знают. Все кто когда-либо вычищал стек или мержил ветки могут поведать вам об этом.</span>
 
@@ -30,7 +30,7 @@ tags: [Imported]
 
 <span style="font-weight: 400;">_Маркетолог:_ Конечно. Купи мой курс/мою программу/мою книгу и стань высококвалифицированным специалистом всего за один месяц.</span>
 
-![zatknis-i-vozmi-moi-dengi_34093813_big_](https://vlaim.s3.amazonaws.com/uploads/2016/06/zatknis-i-vozmi-moi-dengi_34093813_big_.png)
+![zatknis-i-vozmi-moi-dengi_34093813_big_](zatknis-i-vozmi-moi-dengi_34093813_big_.png)
 
 <span style="font-weight: 400;">_Человек 2 (спустя месяц):_ Я-то думал, что программировать и правда просто. Наверное, просто я слишком глуп для всего этого.</span>
 
@@ -60,7 +60,7 @@ tags: [Imported]
 
 <span style="font-weight: 400;">“Проклятие знаний” не дает многим опытным разработчикам взглянуть на процесс написания кода глазами новичков и в результате получаются туториалы, которые гугл выводит первой строкой в поисковой выдаче.</span>
 
-![how to draw horse](https://vlaim.s3.amazonaws.com/uploads/2016/06/how-to-draw-horse.jpg)
+![how to draw horse](how-to-draw-horse.jpg)
 
 <span style="font-weight: 400;">Как часто вам удавалось запрограммировать что-нибудь по туториалу из гугла, не получив в результате выполнения какую-нибудь загадочную ошибку?</span>
 

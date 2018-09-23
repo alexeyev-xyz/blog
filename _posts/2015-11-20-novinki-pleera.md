@@ -14,4 +14,4 @@ tags: [Imported]
 
 [Обе Две - Дочь рыбака (2015)](https://music.yandex.ru/album/2489597/track/21703963)
 
-<center>![](https://pp.vk.me/c622228/v622228023/4b796/Y2ozd2llw1g.jpg) ![](https://pp.vk.me/c543108/v543108237/c1a1/fb6jkpR30_M.jpg) ![](https://avatars.yandex.net/get-music-content/3e8045f7.a.2489597-1/m1000x1000)</center>
+<center>![](Y2ozd2llw1g.jpg) ![](fb6jkpR30_M.jpg) ![](m1000x1000.)</center>

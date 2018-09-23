@@ -14,31 +14,31 @@ tags: [Imported]
 
 Канал о доказательной медицине, который ведут профессиональные медицинские журналисты. Подписавшись на него, вы будете несколько раз в неделю получать дайджест интересных материалов о медицине и здоровье вообще. Большинство текстов на английском и предназначены для вдумчивого чтения.
 
-[![nm](https://vlaim.s3.amazonaws.com/uploads/2017/06/nm.png)](https://vlaim.s3.amazonaws.com/uploads/2017/06/nm.png)
+[![nm](nm.png)](nm.png)
 
 **2\. [Трифоновости](https://t.me/trifonov) (1153 подписчиков)**
 
 Авторский канал журналиста [Евгения Трифонова](https://vk.com/phil), так же известного как phillenium. Здесь вы найдете забавные наблюдения и около-IT заметки.
 
-[![phil](https://vlaim.s3.amazonaws.com/uploads/2017/06/phil.png)](https://vlaim.s3.amazonaws.com/uploads/2017/06/phil.png)
+[![phil](phil.png)](phil.png)
 
 **3\. [Жизнь насекомых](https://t.me/insect_life) (3427 подписчиков)**
 
 Ржачный канал про медиа-тусовку. Без комментариев.
 
-[![insect_life](https://vlaim.s3.amazonaws.com/uploads/2017/06/insect_life.png)](https://vlaim.s3.amazonaws.com/uploads/2017/06/insect_life.png)
+[![insect_life](insect_life.png)](insect_life.png)
 
 **4\. [Как есть](https://t.me/aseatis) (877 подписчиков)**
 
 Канал про здоровое питание с рецептами.
 
-[![eat](https://vlaim.s3.amazonaws.com/uploads/2017/06/eat.png)](https://vlaim.s3.amazonaws.com/uploads/2017/06/eat.png)
+[![eat](eat.png)](eat.png)
 
 **5\. [Jiva burgers](https://t.me/JivaBurgers) (296 подписчиков)**
 
 Канал вегетарианского заведения [Jiva Burgers](https://vk.com/harekrishnacafe), который ведется от лица хозяйки.
 
-[![jiva](https://vlaim.s3.amazonaws.com/uploads/2017/06/jiva.png)](https://vlaim.s3.amazonaws.com/uploads/2017/06/jiva.png)
+[![jiva](jiva.png)](jiva.png)
 
 _________________________
 

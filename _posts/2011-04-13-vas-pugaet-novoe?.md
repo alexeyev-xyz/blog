@@ -16,4 +16,4 @@ tags: [Imported]
 
 Что-то есть в темной пучине океана и вспышках света, символе перемен.
 
-![image](http://media.tumblr.com/tumblr_ljlegiQgDZ1qfp23s.jpg)
+![image](tumblr_ljlegiQgDZ1qfp23s.jpg)

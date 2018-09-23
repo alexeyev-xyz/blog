@@ -8,22 +8,22 @@ tags: [Imported]
 
 Коллекция сохраненных гифок:
 
-[![giphy](https://vlaim.s3.amazonaws.com/uploads/2015/12/giphy.gif)](https://vlaim.s3.amazonaws.com/uploads/2015/12/giphy.gif)
+[![giphy](giphy.gif)](giphy.gif)
 
-![file (1)](https://vlaim.s3.amazonaws.com/uploads/2015/12/file-1.gif)
+![file (1)](file-1.gif)
 
-[![file (2)](https://vlaim.s3.amazonaws.com/uploads/2015/12/file-2.gif)](https://vlaim.s3.amazonaws.com/uploads/2015/12/file-2.gif)
+[![file (2)](file-2.gif)](file-2.gif)
 
-[![file (3)](https://vlaim.s3.amazonaws.com/uploads/2015/12/file-3.gif)](https://vlaim.s3.amazonaws.com/uploads/2015/12/file-3.gif)
+[![file (3)](file-3.gif)](file-3.gif)
 
-[![file (4)](https://vlaim.s3.amazonaws.com/uploads/2015/12/file-4.gif)](https://vlaim.s3.amazonaws.com/uploads/2015/12/file-4.gif)
+[![file (4)](file-4.gif)](file-4.gif)
 
-[![file](https://vlaim.s3.amazonaws.com/uploads/2015/12/file.gif)](https://vlaim.s3.amazonaws.com/uploads/2015/12/file.gif)
+[![file](file.gif)](file.gif)
 
-[![file2452](https://vlaim.s3.amazonaws.com/uploads/2015/12/file2452.gif)](https://vlaim.s3.amazonaws.com/uploads/2015/12/file2452.gif)
+[![file2452](file2452.gif)](file2452.gif)
 
-[![Igor_Nikolaev_-_Malinovoe_Vino_3](https://vlaim.s3.amazonaws.com/uploads/2015/12/Igor_Nikolaev_-_Malinovoe_Vino_3.gif)](https://vlaim.s3.amazonaws.com/uploads/2015/12/Igor_Nikolaev_-_Malinovoe_Vino_3.gif)
+[![Igor_Nikolaev_-_Malinovoe_Vino_3](Igor_Nikolaev_-_Malinovoe_Vino_3.gif)](Igor_Nikolaev_-_Malinovoe_Vino_3.gif)
 
-[![Konchita](https://vlaim.s3.amazonaws.com/uploads/2015/12/Konchita.gif)](https://vlaim.s3.amazonaws.com/uploads/2015/12/Konchita.gif)
+[![Konchita](Konchita.gif)](Konchita.gif)
 
-[![Kototvet](https://vlaim.s3.amazonaws.com/uploads/2015/12/Kototvet.gif)](https://vlaim.s3.amazonaws.com/uploads/2015/12/Kototvet.gif)
+[![Kototvet](Kototvet.gif)](Kototvet.gif)

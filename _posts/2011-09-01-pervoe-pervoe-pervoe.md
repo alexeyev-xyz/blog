@@ -10,4 +10,4 @@ tags: [Imported]
 
 Спасибо, лето’11! Я запомнил тебя!
 
-![image](http://media.tumblr.com/tumblr_lqupgcpSsK1qfp23s.jpg)
+![image](tumblr_lqupgcpSsK1qfp23s.jpg)

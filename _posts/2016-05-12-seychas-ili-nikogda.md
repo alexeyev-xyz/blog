@@ -6,4 +6,4 @@ img: "https://vlaim.s3.amazonaws.com/uploads/2016/05/637185.jpg"
 tags: [Imported]
 ---
 
-![kinopoisk.ru](https://vlaim.s3.amazonaws.com/uploads/2016/05/637185.jpg)
+![kinopoisk.ru](637185.jpg)

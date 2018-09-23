@@ -8,10 +8,10 @@ tags: [Imported]
 
 Это мой студенческий (2011 год)
 
-![photo](https://vlaim.s3.amazonaws.com/uploads/2014/11/photo-300x224.jpg)
+![photo](photo-300x224.jpg)
 
 А такие выдавали 100 лет до этого (1911)
 
-![y1YC9HOyJeA](https://vlaim.s3.amazonaws.com/uploads/2014/11/y1YC9HOyJeA-300x300.jpg)
+![y1YC9HOyJeA](y1YC9HOyJeA-300x300.jpg)
 
 Фото взял [отсюда](http://vk.com/lissoff?w=wall303506_60432)

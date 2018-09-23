@@ -6,7 +6,7 @@ img: "http://media.tumblr.com/tumblr_lhn0pby6wm1qfp23s.jpg"
 tags: [Imported]
 ---
 
-![](http://media.tumblr.com/tumblr_lhn0pby6wm1qfp23s.jpg)
+![](tumblr_lhn0pby6wm1qfp23s.jpg)
 
 **12 марта 2011 года** в клубе веганов, что находится на Лиговском проспекте пройдет благотворительный гиг в поддержку антифашиста Рената, которого держат в следственном изоляторе за необходимую оборону.
 

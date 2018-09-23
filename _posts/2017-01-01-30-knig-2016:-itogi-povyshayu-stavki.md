@@ -40,10 +40,10 @@ tags: [Imported]
 Книга #28: Михаил Булгаков – Морфий
 Книга #29: Джордж Оруэлл – Скотный двор
 Книга #30: Ольга Лукас – Поребрик из бордюрного камня
-[![Screen Shot 2016-12-12 at 17.00.17](https://vlaim.s3.amazonaws.com/uploads/2016/12/Screen-Shot-2016-12-12-at-17.00.17-e1481551489605.png)](https://vlaim.s3.amazonaws.com/uploads/2016/12/Screen-Shot-2016-12-12-at-17.00.17.png)
+[![Screen Shot 2016-12-12 at 17.00.17](Screen-Shot-2016-12-12-at-17.00.17-e1481551489605.png)](https://vlaim.s3.amazonaws.com/uploads/2016/12/Screen-Shot-2016-12-12-at-17.00.17.png)
 
 Больше всего книг было прочитано **в октябре (5)**, меньше всего – **в мае и августе (0)**
 
-[![Screen Shot 2016-12-12 at 17.02.59](https://vlaim.s3.amazonaws.com/uploads/2016/12/Screen-Shot-2016-12-12-at-17.02.59.png)](https://vlaim.s3.amazonaws.com/uploads/2016/12/Screen-Shot-2016-12-12-at-17.02.59.png)
+[![Screen Shot 2016-12-12 at 17.02.59](Screen-Shot-2016-12-12-at-17.02.59.png)](Screen-Shot-2016-12-12-at-17.02.59.png)
 
 29 книг на русском и только одна на английском.

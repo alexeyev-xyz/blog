@@ -6,7 +6,7 @@ img: "https://vlaim.s3.amazonaws.com/uploads/2016/07/gardner.jpeg"
 tags: [Imported]
 ---
 
-![gardner](https://vlaim.s3.amazonaws.com/uploads/2016/07/gardner.jpeg)
+![gardner](gardner.jpeg)
 
 Рассказ математика-любителя и известного популяризатора науки Мартина Гаднера "Остров пяти красок" я[прочитал еще в  конце одиннадцатого класса.](https://blog.alexeyev.me/2011/05/martin-gardner-2/ "Мартин Гарднер") Как говорится, Repetitio est mater studiorum.
 

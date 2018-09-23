@@ -12,4 +12,4 @@ tags: [Imported]
 
 Сегодня до судного дня осталось 3 минуты 
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Doomsday_Clock_graph_ru.svg/600px-Doomsday_Clock_graph_ru.svg.png)
+![](600px-Doomsday_Clock_graph_ru.svg.png)

@@ -6,7 +6,7 @@ img: "http://fc06.deviantart.net/fs70/i/2010/234/0/c/Pencil_Vs_Camera___32_by_Be
 tags: [Imported]
 ---
 
-![image](http://fc06.deviantart.net/fs70/i/2010/234/0/c/Pencil_Vs_Camera___32_by_BenHeine.jpg)
+![image](Pencil_Vs_Camera___32_by_BenHeine.jpg)
 
 Привет!
 

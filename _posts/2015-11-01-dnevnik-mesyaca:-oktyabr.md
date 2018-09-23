@@ -19,8 +19,8 @@ _Решил вести некое подобие дневника, в котор
 
 **Фильм месяца **
 
-![imitation_game](https://vlaim.s3.amazonaws.com/uploads/2015/11/imitation_game.jpg)
+![imitation_game](imitation_game.jpg)
 
 **Книга месяца**
 
-![Kurilov](https://vlaim.s3.amazonaws.com/uploads/2015/11/Kurilov-760x1024.jpg)
+![Kurilov](Kurilov-760x1024.jpg)

@@ -10,6 +10,6 @@ tags: [Imported]
 
 …вот что из этого вышло…
 
-![image](http://media.tumblr.com/tumblr_lqr08iWzJk1qfp23s.jpg)
+![image](tumblr_lqr08iWzJk1qfp23s.jpg)
 
-![image](http://media.tumblr.com/tumblr_lqr0cuIs4k1qfp23s.jpg)
+![image](tumblr_lqr0cuIs4k1qfp23s.jpg)

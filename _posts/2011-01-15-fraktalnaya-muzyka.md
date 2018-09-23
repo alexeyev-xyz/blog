@@ -16,15 +16,15 @@ tags: [Imported]
 
 Современные технологии позволяют программировать звуки по фрактальным алгоритмам. В основе концепции лежит понятие о белом шуме (полный хаос, слишком беспорядочно чтобы считаться музыкальным) и коричневом шуме (очень аккуратный и слишком унылый, чтобы походить на музыку) - фрактальная музыка лежит в поле розового шума, промежуточного между вышеописанными.
 
-![](http://assets0.lookatme.ru/assets/article_image-image/b7/9e/173354/article_image-image-article.jpg?1230155155)
+![](article_image-image-article.jpg?1230155155)
 
 Так выглядит белый шум
 
- ![](http://assets2.lookatme.ru/assets/article_image-image/f0/6a/173356/article_image-image-article.jpg?1230155215)
+ ![](article_image-image-article.jpg?1230155215)
 
 А так розовый
 
-![](http://assets1.lookatme.ru/assets/article_image-image/a8/48/173355/article_image-image-article.jpg?1230155191)
+![](article_image-image-article.jpg?1230155191)
 
 Коричневый
 

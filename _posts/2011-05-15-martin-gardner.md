@@ -8,4 +8,4 @@ tags: [Imported]
 
 > [http://lib.ru/INOFANT/GARDNER_M/island.txt](http://lib.ru/INOFANT/GARDNER_M/island.txt)
 
-![](http://media.tumblr.com/tumblr_ll8pcjh2Fg1qfp23s.png)
+![](tumblr_ll8pcjh2Fg1qfp23s.png)

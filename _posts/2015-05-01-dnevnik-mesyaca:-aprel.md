@@ -23,7 +23,7 @@ _Решил вести некое подобие дневника, в котор
 
 **Музыка**
 
-[![Yair3NDXRDU](https://vlaim.s3.amazonaws.com/uploads/2015/04/Yair3NDXRDU.jpg)](https://vlaim.s3.amazonaws.com/uploads/2015/04/Yair3NDXRDU.jpg)
+[![Yair3NDXRDU](Yair3NDXRDU.jpg)](Yair3NDXRDU.jpg)
 
 **Щенки - Лучшее Враг Хорошего (апрель 2015)**
 

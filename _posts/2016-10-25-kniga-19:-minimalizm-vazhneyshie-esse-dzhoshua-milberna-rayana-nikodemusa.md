@@ -6,7 +6,7 @@ img: "https://vlaim.s3.amazonaws.com/uploads/2016/10/the-minimalists.png"
 tags: [Imported]
 ---
 
-![the-minimalists](https://vlaim.s3.amazonaws.com/uploads/2016/10/the-minimalists.png)
+![the-minimalists](the-minimalists.png)
 
 Впервые узнал об этих ребятах и сайте [theminimalists.com](http://www.theminimalists.com/), когда увидел на канале TEDx это видео. По сути, книга – сборник эссе, написанных в разное время с этого сайта.
 

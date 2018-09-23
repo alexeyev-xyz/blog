@@ -14,7 +14,7 @@ tags: [Imported]
 
 <div class="aspectRatioPlaceholder is-locked"></div>
 
-<div class="aspectRatioPlaceholder is-locked">[![prod](https://vlaim.s3.amazonaws.com/uploads/2018/01/prod.png)](https://vlaim.s3.amazonaws.com/uploads/2018/01/prod.png) Черная панель — production [![dev](https://vlaim.s3.amazonaws.com/uploads/2018/01/dev.png)](https://vlaim.s3.amazonaws.com/uploads/2018/01/dev.png) Так выглядит панель в dev-окружении  [![stage](https://vlaim.s3.amazonaws.com/uploads/2018/01/stage.png)](https://vlaim.s3.amazonaws.com/uploads/2018/01/stage.png) А так в staging’e
+<div class="aspectRatioPlaceholder is-locked">[![prod](prod.png)](prod.png) Черная панель — production [![dev](dev.png)](dev.png) Так выглядит панель в dev-окружении  [![stage](stage.png)](stage.png) А так в staging’e
 
 **Теперь мы с одного взгляда можем отличить в каком окружении находимся и вряд ли запутаемся.**
 

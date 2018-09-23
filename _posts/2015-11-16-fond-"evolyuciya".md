@@ -12,4 +12,4 @@ tags: [Imported]
 
 [https://planeta.ru/campaigns/evolutionhelp](https://planeta.ru/campaigns/evolutionhelp)
 
-![](http://cs9536.vkontakte.ru/u9856070/116661236/x_0be285de.jpg)
+![](x_0be285de.jpg)

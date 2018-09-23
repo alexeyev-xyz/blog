@@ -18,4 +18,4 @@ tags: [Imported]
 спросил:
 - Послушайте, а когда же вы думаете?
 
-![](http://lib.ru/ANEKDOTY/FIZIKI/Image66.gif)
+![](Image66.gif)
