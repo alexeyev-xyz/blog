@@ -6,7 +6,7 @@ img: "Pencil_Vs_Camera___32_by_BenHeine.jpg"
 tags: [Imported]
 ---
 
-![image](/blog/assets/Pencil_Vs_Camera___32_by_BenHeine.jpg)
+![image](/blog/assets/img/Pencil_Vs_Camera___32_by_BenHeine.jpg)
 
 Привет!
 

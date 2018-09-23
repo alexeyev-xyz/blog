@@ -6,7 +6,7 @@ img: "tumblr_llibryOEpT1qe7mxjo1_500.jpg"
 tags: [Imported]
 ---
 
-[![tumblr_llibryOEpT1qe7mxjo1_500](/blog/assets/tumblr_llibryOEpT1qe7mxjo1_500.jpg)](/blog/assets/tumblr_llibryOEpT1qe7mxjo1_500.jpg)
+[![tumblr_llibryOEpT1qe7mxjo1_500](/blog/assets/img/tumblr_llibryOEpT1qe7mxjo1_500.jpg)](/blog/assets/img/tumblr_llibryOEpT1qe7mxjo1_500.jpg)
 
 Началась эта история в 1968 году в лабораториях компании 3M. Один из ученых, доктор Спенс Силвер, пытался улучшить акриловый клей для липкой ленты. Однако получилось у него нечто совершенно иное. Новый клей Силвера сворачивался в очень маленькие шарики (диаметром они были сравнимы с размерами бумажных волокон), которые прочно держались на поверхности различных материалов. Клей был водо- и теплостойкий, липкий, но держал довольно слабо.
 

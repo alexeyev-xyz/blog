@@ -15,7 +15,7 @@ _Решил вести некое подобие дневника, в котор
 
 **Начало магистратуры**
 
-![](/blog/assets/tumblr_no26hcpCUC1uowxd8o1_250.gif)
+![](/blog/assets/img/tumblr_no26hcpCUC1uowxd8o1_250.gif)
 
 **Android Mafia**
 

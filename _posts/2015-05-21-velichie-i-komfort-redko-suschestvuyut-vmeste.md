@@ -6,6 +6,6 @@ img: "8784b16535466b04bfc1.jpg"
 tags: [Imported]
 ---
 
-![](/blog/assets/8784b16535466b04bfc1.jpg)
+![](/blog/assets/img/8784b16535466b04bfc1.jpg)
 
 [Facebook's little red book](http://thenextweb.com/facebook/2015/05/20/heres-our-first-peek-inside-the-little-red-book-facebook-gives-to-employees/)

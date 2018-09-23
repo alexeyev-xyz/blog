@@ -6,4 +6,4 @@ img: "tumblr_lgnxlnzFVS1qfp23s.jpg"
 tags: [Imported]
 ---
 
-![](/blog/assets/tumblr_lgnxlnzFVS1qfp23s.jpg)
+![](/blog/assets/img/tumblr_lgnxlnzFVS1qfp23s.jpg)

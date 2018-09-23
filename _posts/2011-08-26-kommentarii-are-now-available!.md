@@ -6,7 +6,7 @@ img: "tumblr_lqj8o58M4M1qfp23s.gif"
 tags: [Imported]
 ---
 
-![](/blog/assets/tumblr_lqj8o58M4M1qfp23s.gif) 
+![](/blog/assets/img/tumblr_lqj8o58M4M1qfp23s.gif) 
 
 Ура, друзья! У меня наконец дошли руки до настройки тамблера, теперь вы можете комментировать мои посты! Для этого нужно нажать на заголовок :)
 

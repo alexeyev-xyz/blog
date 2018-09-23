@@ -12,7 +12,7 @@ Full Frontal Feminism  – первая большая книга, котору
 
 Однако, в нашей стране, где безобидное слово "феминстка" воспринимается как ругательное,  она актуальна как никогда сейчас.  Хотя книга позиционируется как "a young woman's guide to why feminism matters", но я бы назвал это "FAQ по феминизму для чайников". Доступным языком описывается взгляд на спорные вещи, хотя мне показалась немного назойливой ее "коунчинговая" манера повествования. Но эта та книга, которую стоит прочитать, чтобы начать разобраться в природе феминизма.
 
-![full-frontal-feminism](/blog/assets/full-frontal-feminism-189x300.jpg)
+![full-frontal-feminism](/blog/assets/img/full-frontal-feminism-189x300.jpg)
 
 > <div class="bm-quote-content-text">One of the best things about feminism, in my opinion, is that you don’t have to be a professional feminist to take part in the movement. And feminism is something you can be involved in without dedicating your life to it. Granted, once you go feminist, it’s hard to look at the world in the same way—and that does affect your whole life. But just because sexism is pretty overwhelming at times, it doesn’t mean that taking action against it has to be.</div>
 

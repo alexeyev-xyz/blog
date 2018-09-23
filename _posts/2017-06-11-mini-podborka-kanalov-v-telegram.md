@@ -14,31 +14,31 @@ tags: [Imported]
 
 Канал о доказательной медицине, который ведут профессиональные медицинские журналисты. Подписавшись на него, вы будете несколько раз в неделю получать дайджест интересных материалов о медицине и здоровье вообще. Большинство текстов на английском и предназначены для вдумчивого чтения.
 
-[![nm](/blog/assets/nm.png)](/blog/assets/nm.png)
+[![nm](/blog/assets/img/nm.png)](/blog/assets/img/nm.png)
 
 **2\. [Трифоновости](https://t.me/trifonov) (1153 подписчиков)**
 
 Авторский канал журналиста [Евгения Трифонова](https://vk.com/phil), так же известного как phillenium. Здесь вы найдете забавные наблюдения и около-IT заметки.
 
-[![phil](/blog/assets/phil.png)](/blog/assets/phil.png)
+[![phil](/blog/assets/img/phil.png)](/blog/assets/img/phil.png)
 
 **3\. [Жизнь насекомых](https://t.me/insect_life) (3427 подписчиков)**
 
 Ржачный канал про медиа-тусовку. Без комментариев.
 
-[![insect_life](/blog/assets/insect_life.png)](/blog/assets/insect_life.png)
+[![insect_life](/blog/assets/img/insect_life.png)](/blog/assets/img/insect_life.png)
 
 **4\. [Как есть](https://t.me/aseatis) (877 подписчиков)**
 
 Канал про здоровое питание с рецептами.
 
-[![eat](/blog/assets/eat.png)](/blog/assets/eat.png)
+[![eat](/blog/assets/img/eat.png)](/blog/assets/img/eat.png)
 
 **5\. [Jiva burgers](https://t.me/JivaBurgers) (296 подписчиков)**
 
 Канал вегетарианского заведения [Jiva Burgers](https://vk.com/harekrishnacafe), который ведется от лица хозяйки.
 
-[![jiva](/blog/assets/jiva.png)](/blog/assets/jiva.png)
+[![jiva](/blog/assets/img/jiva.png)](/blog/assets/img/jiva.png)
 
 _________________________
 

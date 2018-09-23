@@ -10,6 +10,6 @@ tags: [Imported]
 
 Цифры на карте  это время в минутах, если идти пешком.
 
-[![MssQFg6Zjlc](/blog/assets/MssQFg6Zjlc.jpg)](/blog/assets/MssQFg6Zjlc.jpg)
+[![MssQFg6Zjlc](/blog/assets/img/MssQFg6Zjlc.jpg)](/blog/assets/img/MssQFg6Zjlc.jpg)
 
-Фуллсайз лежит тут: [/blog/assets/MssQFg6Zjlc.jpg](/blog/assets/MssQFg6Zjlc.jpg)
+Фуллсайз лежит тут: [/blog/assets/img/MssQFg6Zjlc.jpg](/blog/assets/img/MssQFg6Zjlc.jpg)

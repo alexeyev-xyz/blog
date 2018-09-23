@@ -10,7 +10,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![danya](/blog/assets/danya.jpg)</div>
+<div class="col-md-12">![danya](/blog/assets/img/danya.jpg)</div>
 
 <div class="col-md-12">
 
@@ -22,7 +22,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![lissov](/blog/assets/lissov.jpg)</div>
+<div class="col-md-12">![lissov](/blog/assets/img/lissov.jpg)</div>
 
 <div class="col-md-12">
 
@@ -34,7 +34,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![david](/blog/assets/david.jpg)</div>
+<div class="col-md-12">![david](/blog/assets/img/david.jpg)</div>
 
 <div class="col-md-12">
 
@@ -46,7 +46,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![svetlana](/blog/assets/svetlana.jpg)</div>
+<div class="col-md-12">![svetlana](/blog/assets/img/svetlana.jpg)</div>
 
 <div class="col-md-12">
 
@@ -58,7 +58,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![ilia](/blog/assets/ilia.jpg)</div>
+<div class="col-md-12">![ilia](/blog/assets/img/ilia.jpg)</div>
 
 <div class="col-md-12">
 
@@ -70,7 +70,7 @@ tags: [Imported]
 
 <div class="col-xs-12">
 
-<div class="col-md-12">![agent](/blog/assets/agent.jpg)</div>
+<div class="col-md-12">![agent](/blog/assets/img/agent.jpg)</div>
 
 <div class="col-md-12">
 

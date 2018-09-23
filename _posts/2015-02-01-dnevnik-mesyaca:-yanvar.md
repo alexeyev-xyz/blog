@@ -21,12 +21,12 @@ _Решил вести некое подобие дневника, в котор
 
 Начал читать серию книг Хокинга, дочитал "Краткую историю времени", "Соло на ундервуде" Довлатова, изучил книгу O'Reily по backbone.js. Самое большое же  впечатление [произвела "Нетократия" Барда и Зодерквиста](https://www.facebook.com/photo.php?fbid=10203506560041545&set=a.1016102159727.2002697.1140289406&type=1&theater).
 
-![2e2cf660d3a79321a09c3b5ac26](/blog/assets/2e2cf660d3a79321a09c3b5ac26.jpg)
+![2e2cf660d3a79321a09c3b5ac26](/blog/assets/img/2e2cf660d3a79321a09c3b5ac26.jpg)
 
 **Музыка**
 
 Открыл для себя dark jazz коллектив **Mats Eilertsen Trio**. Очень классная и качественная музыка, позволяющая сосредоточиться, слушал много раз подряд. Купил впервые в iTunes музыку, причем деньги за нее мне почему-то вернули, а сам альбом остался. Какой русский не любит халявы.
-![sails-set](/blog/assets/sails-set-300x300.jpg)
+![sails-set](/blog/assets/img/sails-set-300x300.jpg)
 
 **Кино**
 
@@ -36,7 +36,7 @@ _Решил вести некое подобие дневника, в котор
 
 [Жить (2012)](http://www.kinopoisk.ru/film/645910/)
 
-![kinopoisk.ru](/blog/assets/kinopoisk.ru-Zhit-1951589-1024x548.jpg) [Великан / The Mighty (1998)](http://www.kinopoisk.ru/film/4384/) ![kinopoisk.ru](/blog/assets/kinopoisk.ru-The-Mighty-1378028.jpg)
+![kinopoisk.ru](/blog/assets/img/kinopoisk.ru-Zhit-1951589-1024x548.jpg) [Великан / The Mighty (1998)](http://www.kinopoisk.ru/film/4384/) ![kinopoisk.ru](/blog/assets/img/kinopoisk.ru-The-Mighty-1378028.jpg)
 
 **События**
 

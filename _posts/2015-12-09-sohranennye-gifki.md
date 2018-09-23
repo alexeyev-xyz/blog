@@ -8,22 +8,22 @@ tags: [Imported]
 
 Коллекция сохраненных гифок:
 
-[![giphy](/blog/assets/giphy.gif)](/blog/assets/giphy.gif)
+[![giphy](/blog/assets/img/giphy.gif)](/blog/assets/img/giphy.gif)
 
-![file (1)](/blog/assets/file-1.gif)
+![file (1)](/blog/assets/img/file-1.gif)
 
-[![file (2)](/blog/assets/file-2.gif)](/blog/assets/file-2.gif)
+[![file (2)](/blog/assets/img/file-2.gif)](/blog/assets/img/file-2.gif)
 
-[![file (3)](/blog/assets/file-3.gif)](/blog/assets/file-3.gif)
+[![file (3)](/blog/assets/img/file-3.gif)](/blog/assets/img/file-3.gif)
 
-[![file (4)](/blog/assets/file-4.gif)](/blog/assets/file-4.gif)
+[![file (4)](/blog/assets/img/file-4.gif)](/blog/assets/img/file-4.gif)
 
-[![file](/blog/assets/file.gif)](/blog/assets/file.gif)
+[![file](/blog/assets/img/file.gif)](/blog/assets/img/file.gif)
 
-[![file2452](/blog/assets/file2452.gif)](/blog/assets/file2452.gif)
+[![file2452](/blog/assets/img/file2452.gif)](/blog/assets/img/file2452.gif)
 
-[![Igor_Nikolaev_-_Malinovoe_Vino_3](/blog/assets/Igor_Nikolaev_-_Malinovoe_Vino_3.gif)](/blog/assets/Igor_Nikolaev_-_Malinovoe_Vino_3.gif)
+[![Igor_Nikolaev_-_Malinovoe_Vino_3](/blog/assets/img/Igor_Nikolaev_-_Malinovoe_Vino_3.gif)](/blog/assets/img/Igor_Nikolaev_-_Malinovoe_Vino_3.gif)
 
-[![Konchita](/blog/assets/Konchita.gif)](/blog/assets/Konchita.gif)
+[![Konchita](/blog/assets/img/Konchita.gif)](/blog/assets/img/Konchita.gif)
 
-[![Kototvet](/blog/assets/Kototvet.gif)](/blog/assets/Kototvet.gif)
+[![Kototvet](/blog/assets/img/Kototvet.gif)](/blog/assets/img/Kototvet.gif)

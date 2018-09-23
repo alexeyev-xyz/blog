@@ -110,7 +110,7 @@ if($allFiles){
 				$imgToNameFull = "assets/img/".$imgToName;
 				echo "{$pImg} --> $imgToName \n";
 
-				$fileContents = str_replace($pImg, '/blog/assets/'.$imgToName, $fileContents);
+				$fileContents = str_replace($pImg, '/blog/assets/img/'.$imgToName, $fileContents);
 				#var_dump(file_put_contents($imgToName, file_get_contents($pImg)));	
 
 

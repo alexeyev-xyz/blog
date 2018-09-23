@@ -6,6 +6,6 @@ img: "tumblr_lswzktsb0U1qfp23s.jpg"
 tags: [Imported]
 ---
 
-![image](/blog/assets/tumblr_lswzktsb0U1qfp23s.jpg)
+![image](/blog/assets/img/tumblr_lswzktsb0U1qfp23s.jpg)
 
 Во время прогулки в парке с Юлей на прошлых выходных была замечена пара красивых воздушных шаров. Лично я не часто вижу такое в небе над городом…

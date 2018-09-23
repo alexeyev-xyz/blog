@@ -18,4 +18,4 @@ tags: [Imported]
 спросил:
 - Послушайте, а когда же вы думаете?
 
-![](/blog/assets/Image66.gif)
+![](/blog/assets/img/Image66.gif)

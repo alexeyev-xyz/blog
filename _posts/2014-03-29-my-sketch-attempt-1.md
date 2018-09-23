@@ -6,4 +6,4 @@ img: "tumblr_inline_n3766gBJjR1qfp23s.jpg"
 tags: [Imported]
 ---
 
-Two cats in mess. Black gel pen, A4 ![](/blog/assets/tumblr_inline_n3766gBJjR1qfp23s.jpg)
+Two cats in mess. Black gel pen, A4 ![](/blog/assets/img/tumblr_inline_n3766gBJjR1qfp23s.jpg)
