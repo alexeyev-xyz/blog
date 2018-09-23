@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Вам пришло письмо
 date: 2014-10-07 00:00:00 +0300
 tags: [Imported]
 ---

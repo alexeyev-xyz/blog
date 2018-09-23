@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Напоминалка себе список фильмов и книг
 date: 2015-10-25 00:00:00 +0300
 tags: [Imported]
 ---

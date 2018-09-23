@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: УНКД 23 Французское влияние во Вьетнаме
 date: 2017-08-05 00:00:00 +0300
 tags: [Imported]
 ---

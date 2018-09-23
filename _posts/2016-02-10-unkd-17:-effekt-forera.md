@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: УНКД 17 Эффект Форера
 date: 2016-02-10 00:00:00 +0300
 tags: [Imported]
 ---

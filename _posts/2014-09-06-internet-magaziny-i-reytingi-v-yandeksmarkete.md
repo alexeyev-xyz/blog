@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Интернетмагазины и рейтинги в ЯндексМаркете
 date: 2014-09-06 00:00:00 +0300
 tags: [Imported]
 ---

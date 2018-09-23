@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Ministry of Silly Walks
 date: 2013-03-17 00:00:00 +0300
 tags: [Imported]
 ---

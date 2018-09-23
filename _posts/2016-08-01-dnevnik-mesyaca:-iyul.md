@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Дневник месяца июль
 date: 2016-08-01 00:00:00 +0300
 tags: [Imported]
 ---

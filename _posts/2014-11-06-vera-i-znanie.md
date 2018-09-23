@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Вера и знание
 date: 2014-11-06 00:00:00 +0300
 tags: [Imported]
 ---

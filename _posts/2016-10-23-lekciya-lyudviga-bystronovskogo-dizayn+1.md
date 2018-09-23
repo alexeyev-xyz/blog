@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Лекция Людвига Быстроновского Дизайн1
 date: 2016-10-23 00:00:00 +0300
 tags: [Imported]
 ---

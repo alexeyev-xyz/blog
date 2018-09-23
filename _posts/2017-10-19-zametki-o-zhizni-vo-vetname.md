@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Заметки о жизни во Вьетнаме
 date: 2017-10-19 00:00:00 +0300
 tags: [Imported]
 ---

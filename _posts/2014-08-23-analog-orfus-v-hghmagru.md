@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Аналог ОРФУС в HGHMAGRU
 date: 2014-08-23 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Что я понял к 22
 date: 2016-11-01 00:00:00 +0300
 tags: [Imported]
 ---

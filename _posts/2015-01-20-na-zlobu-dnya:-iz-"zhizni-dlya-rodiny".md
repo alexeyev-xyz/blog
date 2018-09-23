@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: На злобу дня из Жизни для Родины
 date: 2015-01-20 00:00:00 +0300
 tags: [Imported]
 ---

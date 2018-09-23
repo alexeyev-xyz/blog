@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Воздушные шары
 date: 2011-10-11 00:00:00 +0300
 tags: [Imported]
 ---

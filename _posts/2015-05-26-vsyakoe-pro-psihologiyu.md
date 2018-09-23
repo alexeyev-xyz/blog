@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Всякое про психологию
 date: 2015-05-26 00:00:00 +0300
 tags: [Imported]
 ---

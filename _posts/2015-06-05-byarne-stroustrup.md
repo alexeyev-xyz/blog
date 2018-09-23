@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Бьярне Строуструп
 date: 2015-06-05 00:00:00 +0300
 tags: [Imported]
 ---

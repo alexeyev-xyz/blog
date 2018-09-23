@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Атавизм XXI века настенный календарь
 date: 2015-11-13 00:00:00 +0300
 tags: [Imported]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Контрольные точки
 date: 2011-10-04 00:00:00 +0300
 tags: [Imported]
 ---
