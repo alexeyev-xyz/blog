@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ниньхоа пляж Зоклет
-date: 2017-09-07-ninhoa-plyazh-zoklet.md 00:00:00 +0300
+title: ninhoa-plyazh-zoklet
+date: 2017-09-07 00:00:00 +0300
 tags: [Imported]
 ---
 # Ниньхоа, пляж Зоклет

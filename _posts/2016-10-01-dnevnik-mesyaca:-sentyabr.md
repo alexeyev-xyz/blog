@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Дневник месяца сентябрь
-date: 2016-10-01-dnevnik-mesyaca:-sentyabr.md 00:00:00 +0300
+title: dnevnik-mesyaca:-sentyabr
+date: 2016-10-01 00:00:00 +0300
 tags: [Imported]
 ---
 #  Дневник месяца: сентябрь

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: УНКД 4 TEDxLETI
-date: 2015-02-07-unkd-4:-tedxleti.md 00:00:00 +0300
+title: unkd-4:-tedxleti
+date: 2015-02-07 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #4: TEDxLETI

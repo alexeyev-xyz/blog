@@ -1,7 +1,7 @@
 ---
 layout: post
-title: УНКД 2 Утиный тест
-date: 2015-01-19-unkd-2:-utinyy-test.md 00:00:00 +0300
+title: unkd-2:-utinyy-test
+date: 2015-01-19 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #2: Утиный тест

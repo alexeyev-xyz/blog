@@ -1,7 +1,7 @@
 ---
 layout: post
-title: УНКД 23 Французское влияние во Вьетнаме
-date: 2017-08-05-unkd-23:-francuzskoe-vliyanie-vo-vetname.md 00:00:00 +0300
+title: unkd-23:-francuzskoe-vliyanie-vo-vetname
+date: 2017-08-05 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #23: Французское влияние во Вьетнаме

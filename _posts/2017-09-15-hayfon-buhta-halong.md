@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Хайфон бухта Халонг
-date: 2017-09-15-hayfon-buhta-halong.md 00:00:00 +0300
+title: hayfon-buhta-halong
+date: 2017-09-15 00:00:00 +0300
 tags: [Imported]
 ---
 # Хайфон, бухта Халонг 

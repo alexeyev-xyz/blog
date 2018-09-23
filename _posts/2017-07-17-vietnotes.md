@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Vietnotes
-date: 2017-07-17-vietnotes.md 00:00:00 +0300
+title: vietnotes
+date: 2017-07-17 00:00:00 +0300
 tags: [Imported]
 ---
 # Vietnotes

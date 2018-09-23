@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Продуктивность
-date: 2016-10-03-produktivnost.md 00:00:00 +0300
+title: produktivnost
+date: 2016-10-03 00:00:00 +0300
 tags: [Imported]
 ---
 # Продуктивность

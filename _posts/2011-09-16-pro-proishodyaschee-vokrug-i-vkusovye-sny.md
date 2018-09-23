@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Про происходящее вокруг и вкусовые сны
-date: 2011-09-16-pro-proishodyaschee-vokrug-i-vkusovye-sny.md 00:00:00 +0300
+title: pro-proishodyaschee-vokrug-i-vkusovye-sny
+date: 2011-09-16 00:00:00 +0300
 tags: [Imported]
 ---
 # Про происходящее вокруг и вкусовые сны

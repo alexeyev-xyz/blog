@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 02 Раджа Халвани Эон Скобл  Симпсоны как философия
-date: 2016-01-14-kniga-02:-radzha-halvani-eon-skobl--simpsony-kak-filosofiya.md 00:00:00 +0300
+title: kniga-02:-radzha-halvani-eon-skobl--simpsony-kak-filosofiya
+date: 2016-01-14 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #02: Раджа Халвани, Эон Скобл – «Симпсоны» как философия

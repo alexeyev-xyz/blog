@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Мартин Гарднер
-date: 2011-05-15-martin-gardner.md 00:00:00 +0300
+title: martin-gardner
+date: 2011-05-15 00:00:00 +0300
 tags: [Imported]
 ---
 # Мартин Гарднер

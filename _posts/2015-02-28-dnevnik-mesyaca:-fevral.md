@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Дневник месяца февраль
-date: 2015-02-28-dnevnik-mesyaca:-fevral.md 00:00:00 +0300
+title: dnevnik-mesyaca:-fevral
+date: 2015-02-28 00:00:00 +0300
 tags: [Imported]
 ---
 # Дневник месяца: февраль

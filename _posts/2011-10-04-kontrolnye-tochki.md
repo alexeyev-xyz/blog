@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Контрольные точки
-date: 2011-10-04-kontrolnye-tochki.md 00:00:00 +0300
+title: kontrolnye-tochki
+date: 2011-10-04 00:00:00 +0300
 tags: [Imported]
 ---
 # Контрольные точки

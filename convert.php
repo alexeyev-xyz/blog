@@ -95,7 +95,7 @@ if($allFiles){
 		$fileContents = file_get_contents($file);
 
 		//fix yml error:
-		$firstLine = preg_replace('/[^ a-zа-яё\d]/ui', '',$firstLine	);
+		$firstLine = preg_replace('/[^ a-zа-яё\d]/ui', '',$firstLine);
 
 		//var_dump($firstLine); continue;
 		$firstLine = str_replace(":", "", htmlentities($firstLine));
@@ -103,17 +103,13 @@ if($allFiles){
 		$firstLine = $firstLine ? $firstLine : $fullDate;
 
 
-		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ndate: {$fullPostTitle} 00:00:00 +0300\ntags: [Imported]\n---\n";
+		$fileHeader = "---\nlayout: post\ntitle: {$postTitleTranslit}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
 
 		$fileContents = $fileHeader.$fileContents;
 
-		/*$kek .= str_replace("---", "", $fileHeader); 
+		$kek .= str_replace("---", "", $fileHeader); 
 
 		file_put_contents('.kek', $kek);
-
-		continue; */
-
-
 
 		$pathTo = $directoryTo.'/'.$fullPostTitle;
 

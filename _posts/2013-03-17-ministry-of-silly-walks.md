@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ministry of Silly Walks
-date: 2013-03-17-ministry-of-silly-walks.md 00:00:00 +0300
+title: ministry-of-silly-walks
+date: 2013-03-17 00:00:00 +0300
 tags: [Imported]
 ---
 # Ministry of Silly Walks

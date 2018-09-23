@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Большой пост про Вьетнам минусы и плюсы
-date: 2017-11-12-bolshoy-post-pro-vetnam:-minusy-i-plyusy.md 00:00:00 +0300
+title: bolshoy-post-pro-vetnam:-minusy-i-plyusy
+date: 2017-11-12 00:00:00 +0300
 tags: [Imported]
 ---
 # Большой пост про Вьетнам: минусы и плюсы

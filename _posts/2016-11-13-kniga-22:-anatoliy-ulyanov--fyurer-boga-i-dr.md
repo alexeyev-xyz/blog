@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 22 Анатолий Ульянов  Фюрер Бога и др
-date: 2016-11-13-kniga-22:-anatoliy-ulyanov--fyurer-boga-i-dr.md 00:00:00 +0300
+title: kniga-22:-anatoliy-ulyanov--fyurer-boga-i-dr
+date: 2016-11-13 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #22: Анатолий Ульянов – Фюрер Бога и др. 

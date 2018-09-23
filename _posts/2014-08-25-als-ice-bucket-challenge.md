@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ALS Ice Bucket Challenge
-date: 2014-08-25-als-ice-bucket-challenge.md 00:00:00 +0300
+title: als-ice-bucket-challenge
+date: 2014-08-25 00:00:00 +0300
 tags: [Imported]
 ---
 # ALS Ice Bucket Challenge 

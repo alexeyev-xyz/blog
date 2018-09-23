@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Музыканты в сети
-date: 2014-11-20-muzykanty-v-seti.md 00:00:00 +0300
+title: muzykanty-v-seti
+date: 2014-11-20 00:00:00 +0300
 tags: [Imported]
 ---
 # Музыканты в сети

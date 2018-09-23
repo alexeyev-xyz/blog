@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ну че как там педовка
-date: 2011-03-21-nu-che-kak-tam-pedovka?.md 00:00:00 +0300
+title: nu-che-kak-tam-pedovka?
+date: 2011-03-21 00:00:00 +0300
 tags: [Imported]
 ---
 # Ну че как там педовка?

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Евротрип Апрель 17 Будапешт  Варшава  Калининград
-date: 2017-05-12-evrotrip-aprel-17-budapesht--varshava--kaliningrad.md 00:00:00 +0300
+title: evrotrip-aprel-17-budapesht--varshava--kaliningrad
+date: 2017-05-12 00:00:00 +0300
 tags: [Imported]
 ---
 # Евротрип, Апрель '17. Будапешт – Варшава – Калининград

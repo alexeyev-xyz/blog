@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Вас пугает новое
-date: 2011-04-13-vas-pugaet-novoe?.md 00:00:00 +0300
+title: vas-pugaet-novoe?
+date: 2011-04-13 00:00:00 +0300
 tags: [Imported]
 ---
 # Вас пугает новое? 

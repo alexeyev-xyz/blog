@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Хельсинки январь 17
-date: 2017-01-29-helsinki-yanvar-17.md 00:00:00 +0300
+title: helsinki-yanvar-17
+date: 2017-01-29 00:00:00 +0300
 tags: [Imported]
 ---
 # Хельсинки, январь '17

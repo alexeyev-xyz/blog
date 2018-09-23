@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 25 Экхарт Толле  The Power of Now Практика
-date: 2016-12-11-kniga-25:-ekhart-tolle--the-power-of-now-praktika.md 00:00:00 +0300
+title: kniga-25:-ekhart-tolle--the-power-of-now-praktika
+date: 2016-12-11 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #25: Экхарт Толле – The Power of Now. Практика

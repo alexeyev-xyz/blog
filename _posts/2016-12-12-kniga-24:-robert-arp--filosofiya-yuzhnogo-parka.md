@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 24 Роберт Арп  Философия Южного Парка
-date: 2016-12-12-kniga-24:-robert-arp--filosofiya-yuzhnogo-parka.md 00:00:00 +0300
+title: kniga-24:-robert-arp--filosofiya-yuzhnogo-parka
+date: 2016-12-12 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #24: Роберт Арп – Философия Южного Парка

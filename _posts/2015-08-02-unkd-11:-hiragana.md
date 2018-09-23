@@ -1,7 +1,7 @@
 ---
 layout: post
-title: УНКД 11 Хирагана
-date: 2015-08-02-unkd-11:-hiragana.md 00:00:00 +0300
+title: unkd-11:-hiragana
+date: 2015-08-02 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #11: Хирагана

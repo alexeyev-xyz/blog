@@ -1,7 +1,7 @@
 ---
 layout: post
-title: LinkGarbage 1 Ангола Женоненавистники Метро Emoji IOT Straw Man Fallacy
-date: 2016-04-10-linkgarbage-1:-angola-zhenonenavistniki-metro-emoji-iot-straw-man-fallacy.md 00:00:00 +0300
+title: linkgarbage-1:-angola-zhenonenavistniki-metro-emoji-iot-straw-man-fallacy
+date: 2016-04-10 00:00:00 +0300
 tags: [Imported]
 ---
 # LinkGarbage #1: Ангола, Женоненавистники, Метро, Emoji, IOT, Straw Man Fallacy

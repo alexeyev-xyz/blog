@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Умные больше не нужны
-date: 2016-07-27-"umnye-bolshe-ne-nuzhny".md 00:00:00 +0300
+title: "umnye-bolshe-ne-nuzhny"
+date: 2016-07-27 00:00:00 +0300
 tags: [Imported]
 ---
 # "Умные больше не нужны"

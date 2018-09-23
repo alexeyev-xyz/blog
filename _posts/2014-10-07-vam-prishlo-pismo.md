@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Вам пришло письмо
-date: 2014-10-07-vam-prishlo-pismo.md 00:00:00 +0300
+title: vam-prishlo-pismo
+date: 2014-10-07 00:00:00 +0300
 tags: [Imported]
 ---
 # Вам пришло письмо

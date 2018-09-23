@@ -1,7 +1,7 @@
 ---
 layout: post
-title: В жару тоже можно чистить от наледи лобовое стекло
-date: 2011-06-29-v-zharu-tozhe-mozhno-chistit-ot-naledi-lobovoe-steklo.md 00:00:00 +0300
+title: v-zharu-tozhe-mozhno-chistit-ot-naledi-lobovoe-steklo
+date: 2011-06-29 00:00:00 +0300
 tags: [Imported]
 ---
 # В жару тоже можно чистить от наледи лобовое стекло

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: УНКД 7 Ракеты
-date: 2015-02-17-unkd-7:-rakety.md 00:00:00 +0300
+title: unkd-7:-rakety
+date: 2015-02-17 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #7: Ракеты

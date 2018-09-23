@@ -1,7 +1,7 @@
 ---
 layout: post
-title: УНКД 19 Церковный хор и стикеры
-date: 2016-08-09-unkd-19:-cerkovnyy-hor-i-stikery.md 00:00:00 +0300
+title: unkd-19:-cerkovnyy-hor-i-stikery
+date: 2016-08-09 00:00:00 +0300
 tags: [Imported]
 ---
 # УНКД #19: Церковный хор и стикеры

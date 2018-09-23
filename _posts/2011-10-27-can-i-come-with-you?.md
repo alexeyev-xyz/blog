@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Can I come with you
-date: 2011-10-27-can-i-come-with-you?.md 00:00:00 +0300
+title: can-i-come-with-you?
+date: 2011-10-27 00:00:00 +0300
 tags: [Imported]
 ---
 # Can I come with you?

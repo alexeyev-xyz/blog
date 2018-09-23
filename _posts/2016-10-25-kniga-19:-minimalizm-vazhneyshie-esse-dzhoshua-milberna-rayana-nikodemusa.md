@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 19 Минимализм Важнейшие эссе Джошуа Мильберна Райана Никодемуса
-date: 2016-10-25-kniga-19:-minimalizm-vazhneyshie-esse-dzhoshua-milberna-rayana-nikodemusa.md 00:00:00 +0300
+title: kniga-19:-minimalizm-vazhneyshie-esse-dzhoshua-milberna-rayana-nikodemusa
+date: 2016-10-25 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #19: Минимализм. Важнейшие эссе Джошуа Мильберна, Райана Никодемуса

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Фрактальная музыка
-date: 2011-01-15-fraktalnaya-muzyka.md 00:00:00 +0300
+title: fraktalnaya-muzyka
+date: 2011-01-15 00:00:00 +0300
 tags: [Imported]
 ---
 # Фрактальная музыка

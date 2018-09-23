@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 30 книг 2016 Итоги Повышаю ставки
-date: 2017-01-01-30-knig-2016:-itogi-povyshayu-stavki.md 00:00:00 +0300
+title: 30-knig-2016:-itogi-povyshayu-stavki
+date: 2017-01-01 00:00:00 +0300
 tags: [Imported]
 ---
 # 30 книг 2016: Итоги. Повышаю ставки.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Touche Amore  68
-date: 2014-08-19-touche-amore-&-68.md 00:00:00 +0300
+title: touche-amore-&-68
+date: 2014-08-19 00:00:00 +0300
 tags: [Imported]
 ---
 # Touche Amore & '68

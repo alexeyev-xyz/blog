@@ -1,7 +1,7 @@
 ---
 layout: post
-title: УНКД 21 Синдром Хелен Лавджой
-date: 2016-09-10-unkd-21:-sindrom-helen-lavdzhoy.md 00:00:00 +0300
+title: unkd-21:-sindrom-helen-lavdzhoy
+date: 2016-09-10 00:00:00 +0300
 tags: [Imported]
 ---
 #  УНКД #21: Синдром Хелен Лавджой

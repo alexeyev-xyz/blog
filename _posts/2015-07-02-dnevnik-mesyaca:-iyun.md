@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Дневник месяца июнь
-date: 2015-07-02-dnevnik-mesyaca:-iyun.md 00:00:00 +0300
+title: dnevnik-mesyaca:-iyun
+date: 2015-07-02 00:00:00 +0300
 tags: [Imported]
 ---
 # Дневник месяца: июнь

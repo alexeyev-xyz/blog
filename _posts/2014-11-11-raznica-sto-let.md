@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Разница сто лет
-date: 2014-11-11-raznica-sto-let.md 00:00:00 +0300
+title: raznica-sto-let
+date: 2014-11-11 00:00:00 +0300
 tags: [Imported]
 ---
 # Разница сто лет

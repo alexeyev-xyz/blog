@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Сохраненные гифки
-date: 2015-12-09-sohranennye-gifki.md 00:00:00 +0300
+title: sohranennye-gifki
+date: 2015-12-09 00:00:00 +0300
 tags: [Imported]
 ---
 # Сохраненные гифки 

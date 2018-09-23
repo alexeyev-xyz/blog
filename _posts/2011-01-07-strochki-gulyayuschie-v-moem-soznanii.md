@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Строчки гуляющие в моем сознании
-date: 2011-01-07-strochki-gulyayuschie-v-moem-soznanii.md 00:00:00 +0300
+title: strochki-gulyayuschie-v-moem-soznanii
+date: 2011-01-07 00:00:00 +0300
 tags: [Imported]
 ---
 # Строчки, гуляющие в моем сознании

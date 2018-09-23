@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Дневник месяца апрель
-date: 2016-05-01-dnevnik-mesyaca:-aprel.md 00:00:00 +0300
+title: dnevnik-mesyaca:-aprel
+date: 2016-05-01 00:00:00 +0300
 tags: [Imported]
 ---
 # Дневник месяца: апрель

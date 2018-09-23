@@ -1,7 +1,7 @@
 ---
 layout: post
-title: LinkGarbage 3 Спамеры ВИЧдиссидентыРожденные в СССР Жизнь до 400 лет Поселкипризраки
-date: 2016-06-16-linkgarbage-3:-spamery-vich-dissidentyrozhdennye-v-sssr-zhizn-do-400-let-poselki-prizraki.md 00:00:00 +0300
+title: linkgarbage-3:-spamery-vich-dissidentyrozhdennye-v-sssr-zhizn-do-400-let-poselki-prizraki
+date: 2016-06-16 00:00:00 +0300
 tags: [Imported]
 ---
 # LinkGarbage #3: Спамеры, ВИЧ-диссиденты,Рожденные в СССР, Жизнь до 400 лет, Поселки-призраки

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книжная пьянка
-date: 2014-11-18-knizhnaya-pyanka.md 00:00:00 +0300
+title: knizhnaya-pyanka
+date: 2014-11-18 00:00:00 +0300
 tags: [Imported]
 ---
 # Книжная пьянка

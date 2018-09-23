@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Атавизм XXI века настенный календарь
-date: 2015-11-13-atavizm-xxi-veka:-nastennyy-kalendar.md 00:00:00 +0300
+title: atavizm-xxi-veka:-nastennyy-kalendar
+date: 2015-11-13 00:00:00 +0300
 tags: [Imported]
 ---
 # Атавизм XXI века: настенный календарь

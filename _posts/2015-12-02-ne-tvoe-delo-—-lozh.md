@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Не твое дело  Ложь
-date: 2015-12-02-ne-tvoe-delo-—-lozh.md 00:00:00 +0300
+title: ne-tvoe-delo-—-lozh
+date: 2015-12-02 00:00:00 +0300
 tags: [Imported]
 ---
 # Не твое дело — Ложь 

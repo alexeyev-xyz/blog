@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Лаппенранта
-date: 2016-10-31-lappenranta.md 00:00:00 +0300
+title: lappenranta
+date: 2016-10-31 00:00:00 +0300
 tags: [Imported]
 ---
 # Лаппенранта

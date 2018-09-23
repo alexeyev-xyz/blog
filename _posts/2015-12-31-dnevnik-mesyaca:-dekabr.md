@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Дневник месяца декабрь
-date: 2015-12-31-dnevnik-mesyaca:-dekabr.md 00:00:00 +0300
+title: dnevnik-mesyaca:-dekabr
+date: 2015-12-31 00:00:00 +0300
 tags: [Imported]
 ---
 # Дневник месяца: декабрь

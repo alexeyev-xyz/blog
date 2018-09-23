@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Факты обо мне
-date: 2016-01-04-fakty-obo-mne.md 00:00:00 +0300
+title: fakty-obo-mne
+date: 2016-01-04 00:00:00 +0300
 tags: [Imported]
 ---
 # Факты обо мне

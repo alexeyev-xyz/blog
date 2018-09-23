@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 09 Портер Эрисман  Вселенная Alibabacom Как китайская интернеткомпания завоевала мир
-date: 2016-04-22-kniga-09:-porter-erisman--vselennaya-alibabacom-kak-kitayskaya-internet-kompaniya-zavoevala-mir.md 00:00:00 +0300
+title: kniga-09:-porter-erisman--vselennaya-alibabacom-kak-kitayskaya-internet-kompaniya-zavoevala-mir
+date: 2016-04-22 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #09: Портер Эрисман – Вселенная Alibaba.com. Как китайская интернет-компания завоевала мир

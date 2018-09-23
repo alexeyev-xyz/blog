@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Что я понял к 22
-date: 2016-11-01-chto-ya-ponyal-k-22.md 00:00:00 +0300
+title: chto-ya-ponyal-k-22
+date: 2016-11-01 00:00:00 +0300
 tags: [Imported]
 ---
 # Что я понял к 22

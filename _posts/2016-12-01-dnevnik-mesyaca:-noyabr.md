@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Дневник месяца ноябрь
-date: 2016-12-01-dnevnik-mesyaca:-noyabr.md 00:00:00 +0300
+title: dnevnik-mesyaca:-noyabr
+date: 2016-12-01 00:00:00 +0300
 tags: [Imported]
 ---
 # Дневник месяца: ноябрь

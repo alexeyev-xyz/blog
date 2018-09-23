@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Аллюзии в Симпсонах кинематограф
-date: 2014-04-30-allyuzii-v-simpsonah:-kinematograf.md 00:00:00 +0300
+title: allyuzii-v-simpsonah:-kinematograf
+date: 2014-04-30 00:00:00 +0300
 tags: [Imported]
 ---
 # Аллюзии в Симпсонах: кинематограф

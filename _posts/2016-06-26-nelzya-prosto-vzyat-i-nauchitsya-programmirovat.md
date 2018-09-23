@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Нельзя просто взять и научиться программировать
-date: 2016-06-26-nelzya-prosto-vzyat-i-nauchitsya-programmirovat.md 00:00:00 +0300
+title: nelzya-prosto-vzyat-i-nauchitsya-programmirovat
+date: 2016-06-26 00:00:00 +0300
 tags: [Imported]
 ---
 # Нельзя просто взять и научиться программировать

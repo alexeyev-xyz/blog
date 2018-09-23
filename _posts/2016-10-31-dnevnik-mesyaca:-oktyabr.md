@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Дневник месяца октябрь
-date: 2016-10-31-dnevnik-mesyaca:-oktyabr.md 00:00:00 +0300
+title: dnevnik-mesyaca:-oktyabr
+date: 2016-10-31 00:00:00 +0300
 tags: [Imported]
 ---
 # Дневник месяца: октябрь

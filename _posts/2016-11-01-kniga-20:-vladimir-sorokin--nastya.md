@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 20 Владимир Сорокин  Настя
-date: 2016-11-01-kniga-20:-vladimir-sorokin--nastya.md 00:00:00 +0300
+title: kniga-20:-vladimir-sorokin--nastya
+date: 2016-11-01 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #20: Владимир Сорокин – Настя

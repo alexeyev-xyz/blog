@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Шоу в Веганклубе 12 марта
-date: 2011-03-06-shou-v-vegan-klube-12-marta.md 00:00:00 +0300
+title: shou-v-vegan-klube-12-marta
+date: 2011-03-06 00:00:00 +0300
 tags: [Imported]
 ---
 # Шоу в Веган-клубе 12 марта

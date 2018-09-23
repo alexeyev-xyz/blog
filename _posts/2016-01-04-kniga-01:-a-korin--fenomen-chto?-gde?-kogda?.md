@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 01 А Корин  Феномен Что Где Когда
-date: 2016-01-04-kniga-01:-a-korin--fenomen-chto?-gde?-kogda?.md 00:00:00 +0300
+title: kniga-01:-a-korin--fenomen-chto?-gde?-kogda?
+date: 2016-01-04 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #01: А. Корин – Феномен «Что? Где? Когда?»

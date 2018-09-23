@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Плейлист Unplugged
-date: 2016-01-02-pleylist:-unplugged.md 00:00:00 +0300
+title: pleylist:-unplugged
+date: 2016-01-02 00:00:00 +0300
 tags: [Imported]
 ---
 # Плейлист: Unplugged

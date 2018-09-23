@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 11 Стивен Дабнер Стивен Левитт  Фрикомыслие
-date: 2016-07-01-kniga-11:-stiven-dabner-stiven-levitt--frikomyslie.md 00:00:00 +0300
+title: kniga-11:-stiven-dabner-stiven-levitt--frikomyslie
+date: 2016-07-01 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #11: Стивен Дабнер, Стивен Левитт – Фрикомыслие

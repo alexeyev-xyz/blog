@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Бесполезная штуковина
-date: 2015-03-11-bespoleznaya-shtukovina.md 00:00:00 +0300
+title: bespoleznaya-shtukovina
+date: 2015-03-11 00:00:00 +0300
 tags: [Imported]
 ---
 # (Бес)полезная штуковина

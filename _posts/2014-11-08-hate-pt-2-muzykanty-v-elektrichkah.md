@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hate pt 2 Музыканты в электричках
-date: 2014-11-08-hate-pt-2-muzykanty-v-elektrichkah.md 00:00:00 +0300
+title: hate-pt-2-muzykanty-v-elektrichkah
+date: 2014-11-08 00:00:00 +0300
 tags: [Imported]
 ---
 # Hate pt 2. Музыканты в электричках

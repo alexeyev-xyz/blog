@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 14 Алан Купер  Психбольница в руках пациентов
-date: 2016-08-09-kniga-14:-alan-kuper--psihbolnica-v-rukah-pacientov.md 00:00:00 +0300
+title: kniga-14:-alan-kuper--psihbolnica-v-rukah-pacientov
+date: 2016-08-09 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #14: Алан Купер – Психбольница в руках пациентов

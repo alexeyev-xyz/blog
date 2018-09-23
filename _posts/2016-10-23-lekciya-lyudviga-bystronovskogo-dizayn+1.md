@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Лекция Людвига Быстроновского Дизайн1
-date: 2016-10-23-lekciya-lyudviga-bystronovskogo-dizayn+1.md 00:00:00 +0300
+title: lekciya-lyudviga-bystronovskogo-dizayn+1
+date: 2016-10-23 00:00:00 +0300
 tags: [Imported]
 ---
 # Лекция Людвига Быстроновского «Дизайн+1»

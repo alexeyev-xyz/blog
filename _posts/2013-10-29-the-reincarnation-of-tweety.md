@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The reincarnation of Tweety
-date: 2013-10-29-the-reincarnation-of-tweety.md 00:00:00 +0300
+title: the-reincarnation-of-tweety
+date: 2013-10-29 00:00:00 +0300
 tags: [Imported]
 ---
 # The reincarnation of Tweety

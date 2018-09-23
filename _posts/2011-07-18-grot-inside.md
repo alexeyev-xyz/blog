@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Грот inside
-date: 2011-07-18-grot-inside.md 00:00:00 +0300
+title: grot-inside
+date: 2011-07-18 00:00:00 +0300
 tags: [Imported]
 ---
 # Грот inside

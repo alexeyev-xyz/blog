@@ -1,7 +1,7 @@
 ---
 layout: post
-title: На злобу дня из Жизни для Родины
-date: 2015-01-20-na-zlobu-dnya:-iz-"zhizni-dlya-rodiny".md 00:00:00 +0300
+title: na-zlobu-dnya:-iz-"zhizni-dlya-rodiny"
+date: 2015-01-20 00:00:00 +0300
 tags: [Imported]
 ---
 # На злобу дня: из "Жизни для Родины"

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Дневник месяца август
-date: 2015-09-03-dnevnik-mesyaca:-avgust.md 00:00:00 +0300
+title: dnevnik-mesyaca:-avgust
+date: 2015-09-03 00:00:00 +0300
 tags: [Imported]
 ---
 # Дневник месяца: август

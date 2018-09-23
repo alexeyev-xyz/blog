@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Стоматология во Вьетнаме как мне удаляли зуб мудрости
-date: 2017-08-31-stomatologiya-vo-vetname:-kak-mne-udalyali-zub-mudrosti.md 00:00:00 +0300
+title: stomatologiya-vo-vetname:-kak-mne-udalyali-zub-mudrosti
+date: 2017-08-31 00:00:00 +0300
 tags: [Imported]
 ---
 # Стоматология во Вьетнаме: как мне удаляли зуб мудрости

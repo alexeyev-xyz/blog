@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 15 Кадзуо Исигуро Не отпускай меня
-date: 2016-09-20-kniga-15:-kadzuo-isiguro-ne-otpuskay-menya.md 00:00:00 +0300
+title: kniga-15:-kadzuo-isiguro-ne-otpuskay-menya
+date: 2016-09-20 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #15: Кадзуо Исигуро Не отпускай меня

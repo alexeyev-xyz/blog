@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Про то как я стал собирать винил а потом перестал
-date: 2015-01-24-pro-to-kak-ya-stal-sobirat-vinil-a-potom-perestal.md 00:00:00 +0300
+title: pro-to-kak-ya-stal-sobirat-vinil-a-potom-perestal
+date: 2015-01-24 00:00:00 +0300
 tags: [Imported]
 ---
 # Про то, как я стал собирать винил, а потом перестал

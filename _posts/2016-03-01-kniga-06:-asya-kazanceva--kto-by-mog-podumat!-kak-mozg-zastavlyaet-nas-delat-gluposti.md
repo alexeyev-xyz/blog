@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Книга 06 Ася Казанцева  Кто бы мог подумать Как мозг заставляет нас делать глупости
-date: 2016-03-01-kniga-06:-asya-kazanceva--kto-by-mog-podumat!-kak-mozg-zastavlyaet-nas-delat-gluposti.md 00:00:00 +0300
+title: kniga-06:-asya-kazanceva--kto-by-mog-podumat!-kak-mozg-zastavlyaet-nas-delat-gluposti
+date: 2016-03-01 00:00:00 +0300
 tags: [Imported]
 ---
 # Книга #06: Ася Казанцева – Кто бы мог подумать! Как мозг заставляет нас делать глупости

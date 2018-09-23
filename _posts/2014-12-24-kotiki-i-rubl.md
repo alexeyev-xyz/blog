@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Котики и рубль
-date: 2014-12-24-kotiki-i-rubl.md 00:00:00 +0300
+title: kotiki-i-rubl
+date: 2014-12-24 00:00:00 +0300
 tags: [Imported]
 ---
 # Котики и рубль

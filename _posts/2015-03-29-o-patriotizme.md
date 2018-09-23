@@ -1,7 +1,7 @@
 ---
 layout: post
-title: О патриотизме
-date: 2015-03-29-o-patriotizme.md 00:00:00 +0300
+title: o-patriotizme
+date: 2015-03-29 00:00:00 +0300
 tags: [Imported]
 ---
 # О патриотизме
