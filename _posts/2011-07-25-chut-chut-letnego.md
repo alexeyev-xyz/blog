@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Чуть-чуть летнего
+title: Чутьчуть летнего
 date: 2011-07-25 00:00:00 +0300
 tags: [Imported]
 ---

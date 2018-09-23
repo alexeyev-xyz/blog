@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Что-нибудь напишу
+title: Чтонибудь напишу
 date: 2015-04-13 00:00:00 +0300
 tags: [Imported]
 ---

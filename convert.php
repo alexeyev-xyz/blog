@@ -95,11 +95,13 @@ if($allFiles){
 		$fileContents = file_get_contents($file);
 
 		//fix yml error:
+		$firstLine = preg_replace('/[^ a-zа-яё\d]/ui', '',$firstLine	);
+
+		//var_dump($firstLine); continue;
 		$firstLine = str_replace(":", "", htmlentities($firstLine));
 
 		$firstLine = $firstLine ? $firstLine : $fullDate;
 
-		$firstLine = preg_replace("[^-a-zA-Zа-яА-ЯёЁ0-9/., ():]", "", $firstLine);
 
 		$fileHeader = "---\nlayout: post\ntitle: {$firstLine}\ndate: {$fullDate} 00:00:00 +0300\ntags: [Imported]\n---\n";
 

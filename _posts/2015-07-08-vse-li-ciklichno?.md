@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Все ли циклично?
+title: Все ли циклично
 date: 2015-07-08 00:00:00 +0300
 tags: [Imported]
 ---
