@@ -3,7 +3,7 @@ layout: post
 title: "Шутки - это маленькие птички"
 date: 2011-01-07 00:00:00 +0300
 img: "Image66.gif"
-tags: Imported
+tags: [old tumblr, заметки]
 author: vlaim
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Ежесекундное осознание"
 date: 2011-01-07 00:00:00 +0300
 img: "tumblr_leobxoKT5h1qfp23s.jpg"
-tags: Imported
+tags: [old tumblr, мысли]
 author: vlaim
 ---
 
