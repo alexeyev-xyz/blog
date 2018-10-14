@@ -11,6 +11,8 @@ author: vlaim
 
 Чтобы облегчить страдания и избавить от плясок с бубном, перенес эту тулзу к себе. 
 
+## [DV Lottery Crop Tool for Mac OS X](http://alexeyev.xyz/assets/dv)
+
 Может спрашивать разрешение на открытие flash'a, проверьте это на всякий случай в настройках браузера.
 
 [![runflash.png](/blog/assets/img/runflash.png)](/blog/assets/img/runflash.png)
