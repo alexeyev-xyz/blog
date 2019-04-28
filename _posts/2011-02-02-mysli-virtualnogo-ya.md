@@ -3,7 +3,7 @@ layout: post
 title: "Мысли виртуального я"
 date: 2011-02-02 00:00:00 +0300
 img: "tumblr_lfzubg1rXn1qfp23s.png"
-tags: Imported
+tags: [mydelirium]
 author: vlaim
 ---
 

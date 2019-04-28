@@ -3,7 +3,7 @@ layout: post
 title: "Строчки, гуляющие в моем сознании"
 date: 2011-01-07 00:00:00 +0300
 img: "article_image-image-article.jpg"
-tags: Imported
+tags: [mydelirium]
 author: vlaim
 ---
 

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6b62183-73a9-42eb-b9ad-187581ab4fc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2011-02-15-&quot;bolshuyu-chast-soznatelnoy-zhizni-budto-v-trevozhnom-sne&quot;.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2011-02-15-&quot;bolshuyu-chast-soznatelnoy-zhizni-budto-v-trevozhnom-sne&quot;.md" afterDir="false" />
-    </list>
+    <list default="true" id="e6b62183-73a9-42eb-b9ad-187581ab4fc2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +12,7 @@
     <session id="-1193521276">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -153,12 +152,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550072232581</updated>
-      <workItem from="1550072233950" duration="166000" />
+      <workItem from="1550072233950" duration="389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166000" />
+    <option name="totallyTimeSpent" value="389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="0" />

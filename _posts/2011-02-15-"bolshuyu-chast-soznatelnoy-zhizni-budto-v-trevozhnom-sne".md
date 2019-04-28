@@ -2,7 +2,8 @@
 layout: post
 title: Большую часть сознательной жизни будто в тревожном сне
 date: 2011-02-15 00:00:00 +0300
-tags: [Imported]
+tags: [mydelirium]
+img: "tumblr_lgobgn9XX71qfp23s.jpg"
 author: vlaim
 ---
 # "Большую часть сознательной жизни будто в тревожном сне"
@@ -13,4 +14,4 @@ author: vlaim
 
 **ДАТИРОВАНО: 02.02.2011 22:48 **
 
-<span><span>![image](http://media.tumblr.com/tumblr_lgobgn9XX71qfp23s.jpg)</span></span>
+<span><span>![image](/blog/assets/img/tumblr_lgobgn9XX71qfp23s.jpg)</span></span>

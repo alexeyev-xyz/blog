@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-04-28T18:19:12+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Vladislav Alexeyev | My blog</title><author><name>Vladislav Alexeyev</name></author><entry><title type="html">DV Lottery Photo Crop Tool для Mac OS X</title><link href="http://localhost:4000/blog/dv-lottery-cropper-mac-osx/" rel="alternate" type="text/html" title="DV Lottery Photo Crop Tool для Mac OS X" /><published>2018-10-14T11:53:00+02:00</published><updated>2018-10-14T11:53:00+02:00</updated><id>http://localhost:4000/blog/dv-lottery-cropper-mac-osx</id><content type="html" xml:base="http://localhost:4000/blog/dv-lottery-cropper-mac-osx/">&lt;p&gt;Те, кто заполнял анкету на &lt;a href=&quot;https://www.dvlottery.state.gov/&quot;&gt;DV Lottery&lt;/a&gt; с устройств Apple, наверняка сталкивались с тем, что браузер не открывает Crop Tool, а скачивает его на жесткий диск. Создатели сайта предлагают пользоваться IE, но у пользователей Mac OS X нет такой возможности, и мы, напомню, живем в 2018 году :)&lt;/p&gt;
+
+&lt;p&gt;Чтобы облегчить страдания и избавить от плясок с бубном, перенес эту тулзу к себе.&lt;/p&gt;
+
+&lt;h2 id=&quot;dv-lottery-crop-tool-for-mac-os-x&quot;&gt;&lt;a href=&quot;http://alexeyev.xyz/assets/dv&quot;&gt;DV Lottery Crop Tool for Mac OS X&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Может спрашивать разрешение на открытие flash’a, проверьте это на всякий случай в настройках браузера.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/runflash.png&quot;&gt;&lt;img src=&quot;/blog/assets/img/runflash.png&quot; alt=&quot;runflash.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Пользуйтесь на здоровье и успехов в лотерее!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/dv.png&quot;&gt;&lt;img src=&quot;/blog/assets/img/dv.png&quot; alt=&quot;dv.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>vlaim</name></author><category term="DV Lottery" /><category term="Mac OS X" /><summary type="html">Те, кто заполнял анкету на DV Lottery с устройств Apple, наверняка сталкивались с тем, что браузер не открывает Crop Tool, а скачивает его на жесткий диск. Создатели сайта предлагают пользоваться IE, но у пользователей Mac OS X нет такой возможности, и мы, напомню, живем в 2018 году :)</summary></entry><entry><title type="html">Краков</title><link href="http://localhost:4000/blog/krakov/" rel="alternate" type="text/html" title="Краков" /><published>2018-06-12T23:00:00+02:00</published><updated>2018-06-12T23:00:00+02:00</updated><id>http://localhost:4000/blog/krakov</id><content type="html" xml:base="http://localhost:4000/blog/krakov/">&lt;p&gt;&lt;a href=&quot;/blog/assets/img/2018-06-13-12.12.49.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/2018-06-13-12.12.49.jpg&quot; alt=&quot;2018-06-13 12.12.49&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/2018-06-13-12.13.07.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/2018-06-13-12.13.07.jpg&quot; alt=&quot;2018-06-13 12.13.07&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/2018-06-13-12.13.14.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/2018-06-13-12.13.14.jpg&quot; alt=&quot;2018-06-13 12.13.14&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/2018-06-13-12.13.36.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/2018-06-13-12.13.36.jpg&quot; alt=&quot;2018-06-13 12.13.36&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/2018-06-13-12.13.20.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/2018-06-13-12.13.20.jpg&quot; alt=&quot;2018-06-13 12.13.20&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/2018-06-13-12.13.31.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/2018-06-13-12.13.31.jpg&quot; alt=&quot;2018-06-13 12.13.31&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>vlaim</name></author><category term="Путешествия" /><category term="Польша" /><category term="Краков" /><summary type="html"></summary></entry><entry><title type="html">Навигационные панели в разных окружениях</title><link href="http://localhost:4000/blog/navigacionnye-paneli-v-raznyh-okruzheniyah/" rel="alternate" type="text/html" title="Навигационные панели в разных окружениях" /><published>2018-01-30T22:00:00+01:00</published><updated>2018-01-30T22:00:00+01:00</updated><id>http://localhost:4000/blog/navigacionnye-paneli-v-raznyh-okruzheniyah</id><content type="html" xml:base="http://localhost:4000/blog/navigacionnye-paneli-v-raznyh-okruzheniyah/">&lt;p&gt;Идея не новая, однако, возможно, поможет вам сохранить вам кучу нервов, когда вы решите протестировать новую фичу и случайно не сделаете это на production-базе.&lt;/p&gt;
+
+&lt;p&gt;Суть в том, чтобы менять цвет навигационной панели на сайте в разных окружениях (dev, stage, prod). Для этого будем автоматически менять ее цвет из md5-хеша адреса сайта.&lt;/p&gt;
+
+&lt;figure id=&quot;b968&quot; class=&quot;graf graf--figure graf-after--p&quot;&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;&lt;/div&gt;
+
+&lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;[![prod](/blog/assets/img/prod.png)](/blog/assets/img/prod.png) Черная панель — production [![dev](/blog/assets/img/dev.png)](/blog/assets/img/dev.png) Так выглядит панель в dev-окружении  [![stage](/blog/assets/img/stage.png)](/blog/assets/img/stage.png) А так в staging’e
+
+**Теперь мы с одного взгляда можем отличить в каком окружении находимся и вряд ли запутаемся.**
+
+Реализация максимально проста. Например, в PHP это делается так:
+
+&lt;pre id=&quot;8e16&quot; class=&quot;graf graf--pre graf-after--p&quot;&gt;$color = '#'.substr(md5($_SERVER[‘HTTP_HOST’]),0,6);&lt;/pre&gt;
+
+В JS, к сожалению, нет методов генерации хеша из коробки, [но можно реализовать их](https://stackoverflow.com/questions/3426404/create-a-hexadecimal-colour-based-on-a-string-with-javascript), либо воспользоваться [отдельным модул](https://www.npmjs.com/package/string-to-color)ем для получения цвета из строки.
+
+Теперь цвет из этой переменной остается применить к панели.
+
+Успехов!
+
+&lt;/div&gt;
+
+&lt;/figure&gt;</content><author><name>vlaim</name></author><category term="Imported" /><summary type="html">Идея не новая, однако, возможно, поможет вам сохранить вам кучу нервов, когда вы решите протестировать новую фичу и случайно не сделаете это на production-базе.</summary></entry><entry><title type="html">Москва, январь ‘18</title><link href="http://localhost:4000/blog/moskva-yanvar-18/" rel="alternate" type="text/html" title="Москва, январь '18" /><published>2018-01-15T22:00:00+01:00</published><updated>2018-01-15T22:00:00+01:00</updated><id>http://localhost:4000/blog/moskva-yanvar-18</id><content type="html" xml:base="http://localhost:4000/blog/moskva-yanvar-18/">&lt;p&gt;&lt;em&gt;**&lt;/em&gt;&lt;a href=&quot;/blog/assets/img/DSCN7949.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/DSCN7949.jpg&quot; alt=&quot;DSCN7949&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/blog/assets/img/DSCN8045.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/DSCN8045.jpg&quot; alt=&quot;DSCN8045&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/blog/assets/img/DSCN8078.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/DSCN8078.jpg&quot; alt=&quot;DSCN8078&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>vlaim</name></author><category term="путешествия" /><category term="Москва" /><category term="Россия" /><summary type="html">**</summary></entry><entry><title type="html">УНКД 24: Ким Гроув и комиксы Love Is…</title><link href="http://localhost:4000/blog/unkd-24-kim-grouv-i-komiksy-love-is/" rel="alternate" type="text/html" title="УНКД 24: Ким Гроув и комиксы Love Is..." /><published>2018-01-04T22:00:00+01:00</published><updated>2018-01-04T22:00:00+01:00</updated><id>http://localhost:4000/blog/unkd-24:-kim-grouv-i-komiksy-love-is</id><content type="html" xml:base="http://localhost:4000/blog/unkd-24-kim-grouv-i-komiksy-love-is/">&lt;p&gt;&lt;a href=&quot;http://www.diary.ru/~LoveIsComics/p70209241.htm&quot;&gt;Первоисточник&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ким Гроув родилась в Новой Зеландии. В 19 лет Ким поехала путешествовать по миру. В 1967 (ей было 25 лет), когда она жила в Калифорнии, то познакомилась с итальянским красавцем, Роберто Касали. Тогда Ким стала рисовать на салфетках сценки о любви с участием пузатой девочки с минимальными половыми признаками и ровно такого же мальчика. Салфетки эти она подкладывала своему будущему мужу, Роберто.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/yescape_love_is_photo1.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/yescape_love_is_photo1.jpg&quot; alt=&quot;yescape_love_is_photo1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Со временем записок становилось все больше. Будущий муж оценил творчество невесты и стал продюсировать ее комик-стрип, который впервые увидел свет 5 января 1970 года. Эти картинки стали настолько популярны, что их напечатали в пятидесяти странах на двадцати пяти языках. А так же активно выпускали футболки с изображениями «Love is…», календари, плакаты, кофейные кружки и многое другое.&lt;/p&gt;
+
+&lt;p&gt;Но Ким никогда не считала себя настоящим художником; она рисовала «Love is…» года три, просто в шутку. В одном журнале за сентябрь 1981 было напечатано интервью с Ким, где она говорила: “Если бы у меня был выбор, то я стала бы автором романтичных песен. Песни о любви глубоко меня затрагивают… Но я не умею красиво писать, поэтому мне пришлось выбрать другой способ выразить свои чувства”.&lt;/p&gt;
+
+&lt;p&gt;Через шесть месяцев после свадьбы в 1971 году, семья Касали переезжают в Англию. Ким родила сыновей Стефано и Дарио. Популярность картинок «Love is…» продолжала расти, и Роберто стал управляющим делами Ким. Для этого была создана корпорацию Minikim.&lt;/p&gt;
+
+&lt;p&gt;В 1975 у Роберто был обнаружен неизлечимым рак. Но он не терял надежду и соглашался на разное лечение. В том же году семья Касали пригласили британского художника Билла Эспри, который вот уже 33 года подряд каждый день рисует эти комиксы. Ким рисовала черно-белые картинки, Билл стал рисовать цветные.&lt;/p&gt;
+
+&lt;p&gt;Во время слабого здоровья Роберто, Ким с мужем решили создать ещё одного ребёнка, но ничего не вышло. Поэтому они решили сохранить образцы спермы Роберто для более позднего использования. Несколько месяцев спустя Роберто скончался. После множества неудачных попыток Ким, наконец, забеременела. Мило родился 10 июля 1977, когда Ким было 31 год.&lt;/p&gt;
+
+&lt;p&gt;В 1997 в 55 лет, после короткой болезни, Ким Касали скончался у себя дома в Суррее, Англии. Её старший сын, Стефано, продолжил семейный бизнес. И теперь Билл продолжает рисовать истории «Love is…» под подписью “Ким” (по условию договора), несмотря на то, что Ким уже нет с нами.&lt;/p&gt;</content><author><name>vlaim</name></author><category term="Imported" /><summary type="html">Первоисточник</summary></entry><entry><title type="html">2OI7</title><link href="http://localhost:4000/blog/2oi7/" rel="alternate" type="text/html" title="2OI7" /><published>2017-12-30T22:00:00+01:00</published><updated>2017-12-30T22:00:00+01:00</updated><id>http://localhost:4000/blog/2oi7</id><content type="html" xml:base="http://localhost:4000/blog/2oi7/">&lt;p&gt;В этом году я:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Посетил 6 стран и &lt;a href=&quot;https://blog.alexeyev.me/travel/&quot;&gt;писал об этом в блог&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Мало читал книг, но много статей&lt;/li&gt;
+  &lt;li&gt;Прослушал много часов подкастов&lt;/li&gt;
+  &lt;li&gt;Поменял семейное положение&lt;/li&gt;
+  &lt;li&gt;Перестал есть мясо животных и почти перестал есть рыбу&lt;/li&gt;
+  &lt;li&gt;Увлекся интеллектуальными играми и сыграл несколько раз в квизы&lt;/li&gt;
+  &lt;li&gt;Жил в другой стране &lt;a href=&quot;https://blog.alexeyev.me/vietnam/&quot;&gt;несколько месяцев у моря&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Научился быть продуктивным удаленно&lt;/li&gt;
+  &lt;li&gt;Удалил &lt;a href=&quot;https://blog.alexeyev.me/2017/08/tooth-nha-trang/&quot;&gt;зуб мудрости&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Собрал 8 предметов из Икеи и сделал ремонт&lt;/li&gt;
+  &lt;li&gt;Жил в 10 квартирах (от одной ночи до нескольких месяцев)&lt;/li&gt;
+  &lt;li&gt;Впервые переночевал в отеле&lt;/li&gt;
+  &lt;li&gt;Постарел на год&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;С Новым Годом! Пусть Новый Год принесет много счастья и радостных моментов :)&lt;/p&gt;</content><author><name>vlaim</name></author><category term="Итоги" /><category term="мысливслух" /><summary type="html">В этом году я:</summary></entry><entry><title type="html">Большой пост про Вьетнам: минусы и плюсы</title><link href="http://localhost:4000/blog/bolshoy-post-pro-vetnam-minusy-i-plyusy/" rel="alternate" type="text/html" title="Большой пост про Вьетнам: минусы и плюсы" /><published>2017-11-11T22:00:00+01:00</published><updated>2017-11-11T22:00:00+01:00</updated><id>http://localhost:4000/blog/bolshoy-post-pro-vetnam:-minusy-i-plyusy</id><content type="html" xml:base="http://localhost:4000/blog/bolshoy-post-pro-vetnam-minusy-i-plyusy/">&lt;p&gt;В июле мы уехали во Вьетнам, чтобы сменить обстановку и попробовать пожить в другой стране. Удаленная работа позволяла жить в курортном Нячанге почти три месяца. &lt;a href=&quot;https://krentsler.com/ru/vietnam/&quot;&gt;Элина подробно написала&lt;/a&gt; почему мы выбрали именно Вьетнам. Этот пост был написан спустя месяц после возвращения в холодный Питер, что позволило трезво взглянуть на плюсы и минусы, с которыми мы столкнулись.&lt;/p&gt;
+
+&lt;center&gt;![flags](/blog/assets/img/flags.jpg)&lt;/center&gt;
+
+&lt;p&gt;&lt;strong&gt;Отсутствие ценников&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Не везде есть ценники. Точнее, много где их нет. Кассовых аппаратов тем более. Это значит, что цену могут назвать из головы исходя из внешнего вида, цвета кожи. Некоторые хитрые вьетнамцы могут завысить туристам цену в 1.5-2 раза. Отдельные личности на центральном рынке умудряются поднять в 4-5 раз. Порой это доходит до абсурда. Предприимчивый продавец предлагал нам ананас за 75000 VND, мы прошли 5(!) метров и купили такой же за 15000. В пять раз дешевле! Нередко встречаются меню для местных , туристов и туристов-китайцев с разными ценами. Business is business.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Языковой барьер&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Всё-таки Вьетнам далеко не англоговорящая страна. Несмотря на то, что молодежь активно учит английский язык, комфортно общаться на нем получается далеко не со всеми. Если в дорогих кафе и ресторанах в туристической зоне персонал более-менее может изъясняться по-английски (а иногда и по-русски), то в традиционных столовых-забегаловках приходилось вбивать фразы в переводчик и показывать их на вьетнамском. Кстати, по ощущениям на севере говорят по-английски лучше, чем на юге. Там больше туристов из Европы и Соединенных Штатов.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/2017-11-12-17.11.54.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/2017-11-12-17.11.54.jpg&quot; alt=&quot;Машинный перевод для меню. Умеют. Практикуют&quot; /&gt;&lt;/a&gt; Машинный перевод для меню. Умеют. Практикуют&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Устаревшие банковские терминалы&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Банковская система здесь, по моим ощущениям, отстает лет на пять-семь от России. Бонусом идет то, что не везде поддерживается Visa и Mastercard. Стоит отметить, что многие продавцы рады вместо местных донгов брать американские доллары и давать сдачу в донгах. Не знаю, насколько это законно :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn11.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn11.jpg&quot; alt=&quot;vn11&quot; /&gt;&lt;/a&gt; Местные деньги выглядят вот так (да, они водонепроницаемые)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Отношение к окружающей среде&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Когда, мы &lt;a href=&quot;https://blog.alexeyev.me/2017/09/haiphong/&quot; title=&quot;Хайфон, бухта Халонг&quot;&gt;приехали в бухту Халонг&lt;/a&gt;, экскурсовод сказал, что сегодня нам повезло и мусора в воде плавает не много: пластиковые бутылки, пакеты, окурки — удручающее зрелище . Многие вьетнамцы не особо задумываюся об окружающей среде и не видят ничего такого в том, чтобы выкидывать мусор в море. Говорят, что в последнее время ситуация меняется.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Отсутствие привычных продуктов&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Это немного притянутый за уши минус. Однако, больше всего не хватало европейских сыров – здесь они стоят целое состояние. Пшеница и рожь во Вьетнаме не растет, поэтому привычного нам хлеба почти нигде купить – только рисовые багеты.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Вечные стройки и перебои со светом&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Вьетнам развивается семимильными шагами, в Нячанге стоят новые дома везде. Поэтому перебои со светом – нормальная ситуация. Иногда свет вырубают на несколько часов. Возможно, это связано с весьма оригинальным &lt;a href=&quot;https://t.me/vietnotes/57&quot;&gt;способом укладки проводов&lt;/a&gt;. Вставать утром от стука молотков и шума спецтехники  – тоже. Встают здесь все рано и работать начинают после шести.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ну а теперь перейдем и плюсам… &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Море, солнце и песок.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Тут достаточно посмотреть на вид с высокоэтажного отеля.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;div style=&quot;padding: 8px;&quot;&gt;
+
+&lt;div style=&quot;background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 28.194444444444443% 0; text-align: center; width: 100%;&quot;&gt;&lt;/div&gt;
+
+[28 этаж](https://www.instagram.com/p/BXniDpUl8V2/)
+
+Публикация от Vladislav J Alexeyev (@vlaim) &lt;time style=&quot;font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;&quot; datetime=&quot;2017-08-10T15:06:17+00:00&quot;&gt;Авг 10 2017 в 8:06 PDT&lt;/time&gt;
+
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;script src=&quot;//platform.instagram.com/en_US/embeds.js&quot; async=&quot;&quot; defer=&quot;defer&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Легкость получения визы&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Получить визу гражданам Российской Федерации не легко, а очень легко.&lt;/p&gt;
+
+&lt;p&gt;Для туристов, которые собираются находиться здесь до 15 дней виза вообще не нужна, на границе ставят просто штамп.
+А для того, чтобы получить визу нужно:
+1) Оформить визовое приглашение за 15-20$ (на однократную/многократную). Находите любую более-менее достойную группу ВКонтакте по аренде квартир в выбранном городе и спрашиваете о возможности сделать приглашение. 90% такая возможность будет.
+2) По прилёту в аэропорт (окошко - Visa on arrival) заполнить анкету, предъявить распечатанное приглашение вместе с двумя фото 3х4.
+3) Подождать минут 10-15 и получить визу в паспорт&lt;/p&gt;
+
+&lt;p&gt;Виза для граждан РФ бесплатная; Когда заканчивается срок её действия, вы просто можете выехать в какую-нибудь близлежащую страну, например, в Камбоджу или Таиланд, и проделать заново манёвр с приглашением. Некоторые сограждане живут так по несколько лет.&lt;/p&gt;
+
+&lt;p&gt;Правительство пока мягко относится к удаленным работникам и фрилансерам и никаких процедур для легализации не требуется (по крайней мере это сейчас никто не контролирует)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Часовой пояс&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Разница между Москвой и Вьетнамом составляет 4 часа. Когда в Москве десять утра, в Нячанге уже два дня. Для меня это было достаточно удобно, т.к. рабочие процессы были связаны с питерским офисом. Мы вставали в 8-9, спокойно шли на море и завтракали, принимали душ, и я начинал рабочий день. Когда нужно было экстренно что-то починить или  допилить, то я просто начинал работать на пару часов раньше.&lt;/p&gt;
+
+&lt;p&gt;Поначалу меня будили сообщения в скайпе от коллег в час-два ночи, которые не были в курсе о моем переезде, но потом я их предупредил, что мне не стоит писать после 8 вечера по МСК.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Аренда квартиры&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Снимать квартиру в курортном Нячанге дешевле, чем в почти столичном Питере. Мы платили около 250 USD за новенькие апартаменты в пешей доступности от моря. Снять жилье в Нячанге максимально просто. Достаточно найти русскоязычного агента во многочисленных сообществах Вконтакте/фейсбуке и за примерно за 40 долларов он договорится с хозяевами за вас, перечисляете залог через Western Union.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/flat2-kopiya.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/flat2-kopiya.jpg&quot; alt=&quot;flat2 копия&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/blog/assets/img/flat.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/flat.jpg&quot; alt=&quot;flat&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Медицина на уровне&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Я успел воспользоваться &lt;a href=&quot;https://blog.alexeyev.me/2017/08/tooth-nha-trang/&quot;&gt;услугами местной стоматологии&lt;/a&gt;. Медицина здесь платная для всех, но я остался доволен оказанными услугами.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Кухня и свежие фрукты и овощи&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Овощи и фрукты на любой вкус, а также свежевыжатые соки стоят копейки.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/rice.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/rice.jpg&quot; alt=&quot;rice&quot; /&gt;&lt;/a&gt; Самое популярное блюдо – жареный рис&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/coconut.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/coconut.jpg&quot; alt=&quot;coconut&quot; /&gt;&lt;/a&gt; И один из самых популярных напитков – кокосовый сок&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/crocodile1.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/crocodile1.jpg&quot; alt=&quot;Местный деликатес – жареный крокодил. Мы его, естественно, не пробовали. &quot; /&gt;&lt;/a&gt; Местный деликатес – жареный крокодил. Мы его, естественно, не пробовали.&lt;/p&gt;
+
+&lt;p&gt;Но самое главное, что такие виды сводят все минусы на нет. Если это не Рай, тогда что это?
+&lt;a href=&quot;/blog/assets/img/doclet.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/doclet.jpg&quot; alt=&quot;doclet&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>vlaim</name></author><category term="Imported" /><summary type="html">В июле мы уехали во Вьетнам, чтобы сменить обстановку и попробовать пожить в другой стране. Удаленная работа позволяла жить в курортном Нячанге почти три месяца. Элина подробно написала почему мы выбрали именно Вьетнам. Этот пост был написан спустя месяц после возвращения в холодный Питер, что позволило трезво взглянуть на плюсы и минусы, с которыми мы столкнулись.</summary></entry><entry><title type="html">Заметки о жизни во Вьетнаме</title><link href="http://localhost:4000/blog/zametki-o-zhizni-vo-vetname/" rel="alternate" type="text/html" title="Заметки о жизни во Вьетнаме" /><published>2017-10-18T23:00:00+02:00</published><updated>2017-10-18T23:00:00+02:00</updated><id>http://localhost:4000/blog/zametki-o-zhizni-vo-vetname</id><content type="html" xml:base="http://localhost:4000/blog/zametki-o-zhizni-vo-vetname/">&lt;p&gt;Во время нашей жизни в Нячанге мы с Элиной вели канал&lt;a href=&quot;https://blog.alexeyev.me/2017/07/vietnotes/&quot; title=&quot;Vietnotes&quot;&gt;о нашем быте и путешествиях по окрестностям Вьетнама.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Приезд и первые впечатления&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/vietnotes/10&quot;&gt;Сегодня прилетели в Хошимин&lt;/a&gt;, и первое, что мы успели сделать – поторговаться с местными таксистами. Сначала мы три раза безуспешно пытались заказать Uber, но все таксисты отменяли заказы прямо перед тем, как подъехать к нам. В итоге, сбив цену с 250k VND (~650р) до 200k (~520р) у сомнительного местного таксиста, мы добрались до нашего гестхауса (предприимчивые вьетнамцы переделывают помещения под мини-отели и сдают через Airbnb и пр.)&lt;/p&gt;
+
+&lt;p&gt;Кстати, квартирка вполне ничего: уютно, удобно, душевая обустроена в, типичном вьетнамском стиле. Пока непривычно, заливаешь водой всё: раковину, туалет, дверь… Но очень аутентично!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn1.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn1.jpg&quot; alt=&quot;vn3&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Во всех заведениях во Вьетнаме все холодные напитки подаются со льдом. И, если холодный зеленый чай со льдом не кажется чем-то необычным, то пиво со льдом было небольшим культурным шоком. На фото пиво Saigon – местный аналог балтики 7.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn2.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn2.jpg&quot; alt=&quot;vn2&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Дорога в Нячанг&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/vietnotes/16&quot;&gt;Попробовали популярный среди местных способ добраться из Хошимина до Нячанга - sleeper bus&lt;/a&gt;. Это, пожалуй, самый странный способ передвижения. Начинаешь ценить европейский комфорт, покатавшись вот таким образом, когда проходы настолько узкие, что ты сам еле-еле пролезаешь, когда позади твоей головы чьи-то ноги, а спереди чья-то голова, когда тебе дают плед, непонятно когда в последний раз стиранный, когда твои ноги не влезают в специальное пространство для ног (видимо, эти проёмы рассчитаны как раз на вьетнамцев), кондиционеры, которые невозможно полностью отключить. Но окончательно добил факт кражи моего телефона! Не стоило полагаться на добропорядочность соседей. Однако солнце и море сгладило все неприятности.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn3.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn3.jpg&quot; alt=&quot;vn1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Оригинальные торговые марки &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Интересно, знаю ли об этом &lt;a href=&quot;https://t.me/vietnotes/20&quot;&gt;правообладатели&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn4.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn4.jpg&quot; alt=&quot;vn4&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Об особенностях быта &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Во Вьетнаме нет мусорных баков, &lt;a href=&quot;https://t.me/vietnotes/23&quot;&gt;пакеты с мусором складывают аккуратненько у дома&lt;/a&gt;, а потом их забирает машина.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn5.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn5.jpg&quot; alt=&quot;vn5&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Вьетнамцы считают, что вьетнамский кофе нельзя заваривать традиционным способом из-за его горечи, поэтому они &lt;a href=&quot;https://t.me/vietnotes/30&quot;&gt;используют специальные алюминивые прессы&lt;/a&gt;, где кофе плотно утрамбовывавается и медленно капает прямо в стакан, в котором на дне лежит сгущенное молоко. Конечно же, подается со льдом.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn6.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn6.jpg&quot; alt=&quot;vn6&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;В полдень, в самую жару, вьетнамцы &lt;a href=&quot;https://t.me/vietnotes/41&quot;&gt;устраивают сиесту&lt;/a&gt; на несколько часов. Закрыто почти всё: от уличных кафешек до банков. Во время перерыва на работе вьетнамцы могут закрыть магазин, а могут и не закрывать, а поспать прямо в нём при покупателях, могут устроить обед впятером прямо на полу торгового зала или играть в карты там же…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn7.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn7.jpg&quot; alt=&quot;vn7&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Вьетнамский стритфуд удивляет упаковками. В Далате дали пиццу, завёрнутую &lt;a href=&quot;https://t.me/vietnotes/36&quot;&gt;в лист с контрольной по математике&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn8.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn8.jpg&quot; alt=&quot;vn8&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Во Вьетнаме нет стандарта дорожных знаков для пешеходных переходов, поэтому они могут &lt;a href=&quot;https://t.me/vietnotes/45&quot;&gt;выглядеть не только в каждом городе&lt;/a&gt;, но и в каждом районе по-разному. И иногда они выглядят весьма забавно:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn9.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn9.jpg&quot; alt=&quot;vn9&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/vietnotes/57&quot;&gt;Во Вьетнаме не прячут провода под землю&lt;/a&gt;, поэтому большая часть столбов превращается в нечто подобное (&lt;a href=&quot;http://www.tema.ru/travel/vietnam-1/&quot;&gt;фото А.Лебедева из Ханоя&lt;/a&gt;). Коммунальные службы не справляются с контролем энергосетей – в крупных городах это уже стало проблемой.&lt;/p&gt;
+
+&lt;p&gt;Предприимчивые горожане не упускают возможность воспользоваться общественными ресурсами, тянут провода к своим домам, что нередко приводит к авариям.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn10.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn10.jpg&quot; alt=&quot;vn10&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Вьетнамская валюта - донг, одна из самых маленьких валют в мире. Самая маленькая купюра - 100 донгов (почти нет в обороте), самая большая - 500.000. Есть и монеты, но мы их не встречали. Примечательно то, что купюры сделаны из тонкого пластика, &lt;a href=&quot;https://t.me/vietnotes/51&quot;&gt;что делает их водонепроницаемыми и продлевает срок их пользования&lt;/a&gt; (что особенно необходимо в условиях жизни Вьетнама)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn11.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn11.jpg&quot; alt=&quot;vn11&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Во Вьетнаме почти во всех домах на пол кладут керамическую плитку. Очень практично: её удобно мыть (тем более, что при входе принято снимать обувь и ходить босиком) и прослужит она много лет.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn12.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn12.jpg&quot; alt=&quot;vn12&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Местный колорит. Подарочный набор: шлем для байка, дезодорант и гель для душа&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn14.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn14.jpg&quot; alt=&quot;vn14&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Интересные факты&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/vietnotes/54&quot;&gt;Едят ли вьетнамцы собак и кошек?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Да, едят, и вообще не брезгают есть все, что бегает, ползает, летает: змей, крокодилов, лягушек, крыс. В сети ходят байки, что в ресторанах могут принести мясо собаки вместо говядины или свинины, что, само собой, неправда. Собачатина – деликатес и стоит в среднем в полтора раза дороже привычного для европейцев мяса.&lt;/p&gt;
+
+&lt;p&gt;Эти “лакомства” чаще встречаются в Северном Вьетнаме. На юге кошек и собак едят редко. В Нячанге собак любят и рассматривают больше как друзей, а не пищу. А вот кошку мы видели за месяц только одну на местном рынке! Дело в том, что вьетнамцы считают, что они приносят несчастья и дома их не заводят.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/vietnotes/48&quot;&gt;Вьетнам занимает 157 место в мире по количеству автомобилей&lt;/a&gt;, на тысячу человек приходится 13 авто. Меньше автомобилей только в Сомали, Гамбии, Камеруне, Того, Бангладеше, Буркине-Фасо, Эритрее, Сьерре-Леоне.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Для сравнения: Россия занимает 54 место, на тысячу человек приходится 288 автомобилей&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Если вьетнамец хочет купить авто, при покупке ему нужно заплатить налог 100%, а потом выплачивать ежегодно 20% стоимости машины. Так как здесь нет автопроизводства, на границе требуется заплатить ещё 200% стоимости за оформление документов.  Суммарно вьетнамскому автовладельцу машина обходится как три машины, а ежегодным налогом за пять лет он выплачивает стоимость четвёртого автомобиля.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn13.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn13.jpg&quot; alt=&quot;vn13&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;За годы правления французы &lt;a href=&quot;https://t.me/vietnotes/49&quot;&gt;оставили во Вьетнаме несколько вещей после себя&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;Например, светофоры с дополнительным (и весьма бесполезным) сигналом – красным крестом, обозначающий то, что встречному потоку горит красный, чтобы увереннее поворачивать налево. Такие есть в Париже, Риге, Кайенне и, с недавних пор, в Астане.&lt;/p&gt;
+
+&lt;p&gt;Французы также оставили в наследство Вьетнаму бетонные километровые указатели.&lt;/p&gt;
+
+&lt;p&gt;Торговцы в палатках часто обращаются к туристкам madame. Говорят, много людей старшего поколения до сих пор неплохо говорят по-французски. Реже на улицах можно увидеть вывески на французском.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/vn15.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/vn15.jpg&quot; alt=&quot;vn15&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Во Вьетнаме все дома узкие, потому что стоимость земли измеряется в метрах вдоль дороги. А боковые и задние стенки домов вообще почти никто не красит. Зачем, когда и так сойдёт.&lt;/p&gt;
+
+&lt;p&gt;Один из главных минусов во Вьетнаме – это то, что не везде есть ценники. Точнее, много где их нет. Кассовых аппаратов тем более. Это значит, что цену могут назвать из головы. Некоторые хитрые вьетнамцы могут завысить туристам цену в 1.5—2 раза. Отдельные личности на центральном рынке умудряются поднять в 4-5 раз. Порой это доходит до абсурда. В первый месяц предприимчивый продавец предлагал нам ананас за 75000 VND, мы прошли 5(!) метров и  купили такой же за 15000. В пять раз дешевле, в пять раз, Карл!  Нередко встречаются меню для местных, туристов и туристов китайцев с разными ценами. Business is business.&lt;/p&gt;</content><author><name>vlaim</name></author><category term="Imported" /><summary type="html">Во время нашей жизни в Нячанге мы с Элиной вели канало нашем быте и путешествиях по окрестностям Вьетнама.</summary></entry><entry><title type="html">Ханой</title><link href="http://localhost:4000/blog/hanoy/" rel="alternate" type="text/html" title="Ханой" /><published>2017-09-19T23:00:00+02:00</published><updated>2017-09-19T23:00:00+02:00</updated><id>http://localhost:4000/blog/hanoy</id><content type="html" xml:base="http://localhost:4000/blog/hanoy/">&lt;center&gt;[![hanoi](/blog/assets/img/hanoi.jpg)](/blog/assets/img/hanoi.jpg) [![21577215_124883498241644_940802948282187776_n](/blog/assets/img/21577215_124883498241644_940802948282187776_n.jpg)](/blog/assets/img/21577215_124883498241644_940802948282187776_n.jpg) [![21569367_211265839409528_6082410853552881664_n](/blog/assets/img/21569367_211265839409528_6082410853552881664_n.jpg)](/blog/assets/img/21569367_211265839409528_6082410853552881664_n.jpg)&lt;/center&gt;</content><author><name>vlaim</name></author><category term="Imported" /><summary type="html">[![hanoi](/blog/assets/img/hanoi.jpg)](/blog/assets/img/hanoi.jpg) [![21577215_124883498241644_940802948282187776_n](/blog/assets/img/21577215_124883498241644_940802948282187776_n.jpg)](/blog/assets/img/21577215_124883498241644_940802948282187776_n.jpg) [![21569367_211265839409528_6082410853552881664_n](/blog/assets/img/21569367_211265839409528_6082410853552881664_n.jpg)](/blog/assets/img/21569367_211265839409528_6082410853552881664_n.jpg)</summary></entry><entry><title type="html">Хайфон, бухта Халонг</title><link href="http://localhost:4000/blog/hayfon-buhta-halong/" rel="alternate" type="text/html" title="Хайфон, бухта Халонг" /><published>2017-09-14T23:00:00+02:00</published><updated>2017-09-14T23:00:00+02:00</updated><id>http://localhost:4000/blog/hayfon-buhta-halong</id><content type="html" xml:base="http://localhost:4000/blog/hayfon-buhta-halong/">&lt;p&gt;&lt;a href=&quot;/blog/assets/img/halong-03.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/halong-03.jpg&quot; alt=&quot;halong-03&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/halong-01.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/halong-01.jpg&quot; alt=&quot;halong-01&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/halong-04.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/halong-04.jpg&quot; alt=&quot;halong-04&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/halong-02.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/halong-02.jpg&quot; alt=&quot;halong-02&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/assets/img/catba.jpg&quot;&gt;&lt;img src=&quot;/blog/assets/img/catba.jpg&quot; alt=&quot;catba&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>vlaim</name></author><category term="Imported" /><summary type="html"></summary></entry></feed>
