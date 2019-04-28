@@ -3,7 +3,7 @@ layout: post
 title: "С новым годом!"
 date: 2014-12-31 00:00:00 +0300
 img: "image_560601121624089003971-300x233.jpg"
-tags: Imported
+tags: [новыйгод, заметки]
 author: vlaim
 ---
 

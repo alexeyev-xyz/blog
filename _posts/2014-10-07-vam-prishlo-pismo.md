@@ -2,8 +2,8 @@
 layout: post
 title: "Вам пришло письмо"
 date: 2014-10-07 00:00:00 +0300
-img: ""
-tags: Imported
+img: "post.jpeg"
+tags: [мысливслух, почта, универ]
 author: vlaim
 ---
 

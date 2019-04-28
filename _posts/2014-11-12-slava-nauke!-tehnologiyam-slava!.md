@@ -2,8 +2,8 @@
 layout: post
 title: "Слава науке! Технологиям слава!"
 date: 2014-11-12 00:00:00 +0300
-img: ""
-tags: Imported
+img: "api.png"
+tags: [мысливслух, API]
 author: vlaim
 ---
 

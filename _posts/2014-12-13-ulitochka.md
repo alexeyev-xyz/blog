@@ -3,7 +3,7 @@ layout: post
 title: "Улиточка"
 date: 2014-12-13 00:00:00 +0300
 img: "IMG_2662.jpg"
-tags: Imported
+tags: [Улитка, клуб, мысливслух]
 author: vlaim
 ---
 

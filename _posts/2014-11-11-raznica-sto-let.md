@@ -3,7 +3,7 @@ layout: post
 title: "Разница сто лет"
 date: 2014-11-11 00:00:00 +0300
 img: "photo-300x224.jpg"
-tags: Imported
+tags: [заметки, фото, ретро]
 author: vlaim
 ---
 

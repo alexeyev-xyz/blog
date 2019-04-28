@@ -3,7 +3,7 @@ layout: post
 title: "Hate pt 2. Музыканты в электричках"
 date: 2014-11-08 00:00:00 +0300
 img: "129991_320-225x300.jpg"
-tags: Imported
+tags: [hate, музыканты]
 author: vlaim
 ---
 

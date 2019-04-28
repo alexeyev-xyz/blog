@@ -3,7 +3,7 @@ layout: post
 title: "Hate pt 3. Электричество"
 date: 2014-12-12 00:00:00 +0300
 img: "tuner59-300x181.gif"
-tags: Imported
+tags: [hate, электричество, универ]
 author: vlaim
 ---
 
