@@ -2,7 +2,7 @@
 layout: post
 title: "Fucked Up, Got Ambushed, Zipped In"
 date: 2011-01-08 00:00:00 +0300
-img: ""
+img: "fugazi.jpg"
 tags: [music]
 author: vlaim
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Can I come with you?"
 date: 2011-10-27 00:00:00 +0300
 img: "tumblr_ltqlx57G3E1qfp23s.jpg"
-tags: Imported
+tags:[фото]
 author: vlaim
 ---
 

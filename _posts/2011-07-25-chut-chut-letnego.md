@@ -3,7 +3,7 @@ layout: post
 title: "Чуть-чуть летнего"
 date: 2011-07-25 00:00:00 +0300
 img: "tumblr_lowoizm1u21qfp23s.jpg"
-tags: Imported
+tags: [фото, Красницы]
 author: vlaim
 ---
 

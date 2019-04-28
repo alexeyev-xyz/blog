@@ -3,7 +3,7 @@ layout: post
 title: "Конец месяца"
 date: 2011-07-29 00:00:00 +0300
 img: "tumblr_lp41r5YVGf1qfp23s.gif"
-tags: Imported
+tags: [заметки, mydelirium]
 author: vlaim
 ---
 

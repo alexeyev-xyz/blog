@@ -2,8 +2,8 @@
 layout: post
 title: "Контрольные точки"
 date: 2011-10-04 00:00:00 +0300
-img: ""
-tags: Imported
+img: "dnev.jpg"
+tags: [mydelirium, заметки]
 author: vlaim
 ---
 

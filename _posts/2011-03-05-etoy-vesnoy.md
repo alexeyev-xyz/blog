@@ -3,7 +3,7 @@ layout: post
 title: "Этой весной"
 date: 2011-03-05 00:00:00 +0300
 img: "tumblr_lhlw04KVPQ1qfp23s.jpg"
-tags: Imported
+tags: [mydelirium]
 author: vlaim
 ---
 

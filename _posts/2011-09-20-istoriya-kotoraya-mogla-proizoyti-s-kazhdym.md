@@ -2,8 +2,8 @@
 layout: post
 title: "История, которая могла произойти с каждым"
 date: 2011-09-20 00:00:00 +0300
-img: ""
-tags: Imported
+img: "shlyapa.jpg"
+tags: [mydelirium, проза]
 author: vlaim
 ---
 

@@ -5,6 +5,7 @@ date: 2011-01-07 00:00:00 +0300
 img: "article_image-image-article.jpg"
 tags: [mydelirium]
 author: vlaim
+img: "dottie.jpg"
 ---
 
 Со старого года. DOTTIE DANGER. Замечательная команда!

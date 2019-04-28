@@ -3,7 +3,7 @@ layout: post
 title: "Вас пугает новое?"
 date: 2011-04-13 00:00:00 +0300
 img: "tumblr_ljlegiQgDZ1qfp23s.jpg"
-tags: Imported
+tags: [mydelirium]
 author: vlaim
 ---
 
