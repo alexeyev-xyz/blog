@@ -44,7 +44,7 @@ author: vlaim
 
 **Memorials - Они 7"**
 
-Подогнал Санек из the Rave. Крым наш!
+Подогнал Санек из the Rave.
 
  [![JbLsITN54ps](/blog/assets/img/JbLsITN54ps.jpg)](/blog/assets/img/JbLsITN54ps.jpg)
 
