@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 3: Часы Судного Дня"
 date: 2015-01-22 00:00:00 +0300
 img: "600px-Doomsday_Clock_graph_ru.svg.png"
-tags: Imported
+tags: [УНКД]
 author: vlaim
 ---
 

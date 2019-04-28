@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 10: Танатология"
 date: 2015-04-27 00:00:00 +0300
 img: "worst-way-to-die-2.jpg"
-tags: Imported
+tags: [УНКД]
 author: vlaim
 ---
 

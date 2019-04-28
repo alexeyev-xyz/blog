@@ -2,8 +2,8 @@
 layout: post
 title: "УНКД 9: Кальян"
 date: 2015-03-13 00:00:00 +0300
-img: ""
-tags: Imported
+img: "kalyan.jpg"
+tags: [УНКД]
 author: vlaim
 ---
 

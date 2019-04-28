@@ -2,8 +2,8 @@
 layout: post
 title: "Совет про почту"
 date: 2015-12-25 00:00:00 +0300
-img: ""
-tags: Imported
+img: "konvert.png"
+tags: [мысливслух]
 author: vlaim
 ---
 

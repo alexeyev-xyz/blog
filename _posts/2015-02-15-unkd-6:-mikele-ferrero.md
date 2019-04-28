@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 6: Микеле Ферреро"
 date: 2015-02-15 00:00:00 +0300
 img: "pic_024bbc7dcc93bcf58365e863c790a93e.jpg"
-tags: Imported
+tags: [УНКД]
 author: vlaim
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: "УНКД 11: Хирагана"
 date: 2015-08-02 00:00:00 +0300
-img: ""
-tags: Imported
+img: "hir.jpg"
+tags: [УНКД]
 author: vlaim
 ---
 

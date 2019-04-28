@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 5: Карбонара"
 date: 2015-02-12 00:00:00 +0300
 img: "IMG_2390-1024x682.jpg"
-tags: Imported
+tags: [УНКД]
 author: vlaim
 ---
 

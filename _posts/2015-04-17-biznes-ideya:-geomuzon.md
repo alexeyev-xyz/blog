@@ -2,8 +2,8 @@
 layout: post
 title: "Бизнес-идея: геомузон"
 date: 2015-04-17 00:00:00 +0300
-img: ""
-tags: Imported
+img: "geo.jpeg"
+tags: [идеи]
 author: vlaim
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: "УНКД 12: Проклятие Текумсе"
 date: 2015-08-08 00:00:00 +0300
-img: ""
-tags: Imported
+img: "curse.jpg"
+tags: [УНКД]
 author: vlaim
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 23: Французское влияние во Вьетнаме"
 date: 2017-08-05 00:00:00 +0300
 img: "france.jpg"
-tags: Imported
+tags: [УНКД]
 author: vlaim
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: "На злобу дня: из &quot;Жизни для Родины&quot;"
 date: 2015-01-20 00:00:00 +0300
-img: ""
-tags: Imported
+img: "gagarin.jpg"
+tags: [цитата]
 author: vlaim
 ---
 

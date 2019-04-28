@@ -2,8 +2,8 @@
 layout: post
 title: "УНКД 8: Оформление текстов"
 date: 2015-02-23 00:00:00 +0300
-img: "_ciHu1aT6WI.jpg"
-tags: Imported
+img: "texts.jpg"
+tags: [УНКД]
 author: vlaim
 ---
 

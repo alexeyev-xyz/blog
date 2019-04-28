@@ -2,8 +2,8 @@
 layout: post
 title: "Про компьютер"
 date: 2015-05-11 00:00:00 +0300
-img: ""
-tags: Imported
+img: "nout.jpg"
+tags: [воспоминания, мысливслух]
 author: vlaim
 ---
 
