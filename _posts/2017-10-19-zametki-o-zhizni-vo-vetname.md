@@ -3,7 +3,7 @@ layout: post
 title: "Заметки о жизни во Вьетнаме"
 date: 2017-10-19 00:00:00 +0300
 img: "vn1.jpg"
-tags: Imported
+tags: [путешествия, Вьетнам, впечаления, опыт]
 author: vlaim
 ---
 

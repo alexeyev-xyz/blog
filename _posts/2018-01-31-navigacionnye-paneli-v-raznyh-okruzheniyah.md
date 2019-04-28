@@ -3,7 +3,7 @@ layout: post
 title: "Навигационные панели в разных окружениях"
 date: 2018-01-31 00:00:00 +0300
 img: "prod.png"
-tags: Imported
+tags: [программирование, разработка]
 author: vlaim
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 21: Синдром Хелен Лавджой"
 date: 2016-09-10 00:00:00 +0300
 img: "dolan-think-of-the-children_o_1247322.jpg"
-tags: Imported
+tags: [УНКД]
 author: vlaim
 ---
 

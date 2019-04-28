@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 20: Дух Экстаза"
 date: 2016-08-11 00:00:00 +0300
 img: "aad498cs-960.jpg"
-tags: Imported
+tags: [УНКД]
 author: vlaim
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Хайфон, бухта Халонг"
 date: 2017-09-15 00:00:00 +0300
 img: "halong-03.jpg"
-tags: Imported
+tags: [путешествия, Вьетнам, Халонг, Хайфон]
 author: vlaim
 ---
 

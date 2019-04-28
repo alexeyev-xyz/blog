@@ -3,7 +3,7 @@ layout: post
 title: "Хельсинки, январь '17"
 date: 2017-01-29 00:00:00 +0300
 img: "u_04.jpg"
-tags: Imported
+tags: [путешествия, Финляндия, Хельсинки, фото]
 author: vlaim
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Большой пост про Вьетнам: минусы и плюсы"
 date: 2017-11-12 00:00:00 +0300
 img: "flags.jpg"
-tags: Imported
+tags: [путешествия, Вьетнам, впечаления, опыт]
 author: vlaim
 ---
 

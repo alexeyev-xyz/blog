@@ -3,7 +3,7 @@ layout: post
 title: "УНКД 22: Библейский пояс"
 date: 2017-02-02 00:00:00 +0300
 img: "bb.jpeg"
-tags: Imported
+tags: [УНКД]
 author: vlaim
 ---
 

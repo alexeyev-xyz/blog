@@ -3,7 +3,7 @@ layout: post
 title: "Госуслуги: like"
 date: 2016-04-25 00:00:00 +0300
 img: "IMG_2016-04-25-235450-1024x759.jpg"
-tags: Imported
+tags: [госуслуги, мысливслух]
 author: vlaim
 ---
 

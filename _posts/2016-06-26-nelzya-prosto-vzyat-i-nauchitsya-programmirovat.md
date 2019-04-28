@@ -3,11 +3,14 @@ layout: post
 title: "Нельзя просто взять и научиться программировать"
 date: 2016-06-26 00:00:00 +0300
 img: "Nelzya-prosto-tak-vzyat-i_orig_1.jpg"
-tags: Imported
+tags: [переводы, статьи]
 author: vlaim
 ---
 
-![Nelzya-prosto-tak-vzyat-i_orig_(1)](/blog/assets/img/Nelzya-prosto-tak-vzyat-i_orig_1.jpg) «Нельзя просто так взять и войти в Мордор.» Эта картинка сделала Шона Бина бессмертным, хотя в фильмах [он умирает больше, чем все остальные актеры](http://nerdist.com/does-sean-bean-really-die-more-than-other-actors/)
+![Nelzya-prosto-tak-vzyat-i_orig_(1)](/blog/assets/img/Nelzya-prosto-tak-vzyat-i_orig_1.jpg) 
+
+
+«Нельзя просто так взять и войти в Мордор.» Эта картинка сделала Шона Бина бессмертным, хотя в фильмах [он умирает больше, чем все остальные актеры](http://nerdist.com/does-sean-bean-really-die-more-than-other-actors/)
 
 <span style="font-weight: 400;">Нельзя просто взять и научиться программировать. Потому что это не легко, а тяжело. И все об этом знают. Все кто когда-либо вычищал стек или мержил ветки могут поведать вам об этом.</span>
 
