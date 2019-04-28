@@ -3,7 +3,7 @@ layout: post
 title: "Touche Amore &amp; '68"
 date: 2014-08-19 00:00:00 +0300
 img: "770_900.jpg"
-tags:[концерт, музыка]
+tags: [концерт, музыка]
 author: vlaim
 ---
 
