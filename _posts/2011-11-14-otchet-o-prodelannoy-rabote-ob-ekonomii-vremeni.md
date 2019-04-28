@@ -2,8 +2,8 @@
 layout: post
 title: "Отчет о проделанной работе. Об экономии времени"
 date: 2011-11-14 00:00:00 +0300
-img: ""
-tags: Imported
+img: "uzel.jpeg"
+tags: [mydelirium, заметки]
 author: vlaim
 ---
 
