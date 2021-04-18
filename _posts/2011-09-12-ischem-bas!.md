@@ -31,4 +31,4 @@ author: vlaim
 
 [http://twitter.com/Rusik_Rusik](http://twitter.com/Rusik_Rusik)
 
-![](/blog/assets/img/tumblr_lrewcdIB1r1qfp23s.jpg)
+![](/assets/img/tumblr_lrewcdIB1r1qfp23s.jpg)

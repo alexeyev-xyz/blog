@@ -7,7 +7,7 @@ tags: [art, закладки]
 author: vlaim
 ---
 
-![image](/blog/assets/img/Pencil_Vs_Camera___32_by_BenHeine.jpg)
+![image](/assets/img/Pencil_Vs_Camera___32_by_BenHeine.jpg)
 
 Привет!
 

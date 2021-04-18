@@ -13,4 +13,4 @@ author: vlaim
 
 Сегодня до судного дня осталось 3 минуты 
 
-![](/blog/assets/img/600px-Doomsday_Clock_graph_ru.svg.png)
+![](/assets/img/600px-Doomsday_Clock_graph_ru.svg.png)

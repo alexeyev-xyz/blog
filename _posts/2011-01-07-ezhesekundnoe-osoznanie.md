@@ -15,4 +15,4 @@ PS Уже поздно, пойду спать. С недавнего време�
 
 Заходите! Всегда рад вам:)
 
-![image](/blog/assets/img/tumblr_leobxoKT5h1qfp23s.jpg)
+![image](/assets/img/tumblr_leobxoKT5h1qfp23s.jpg)

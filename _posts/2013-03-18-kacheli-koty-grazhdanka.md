@@ -22,4 +22,4 @@ author: vlaim
 Пожалуйста, катапультируйтесь в грез лоджию
 коты, гражданка, качели..
 
-[](/blog/assets/img/tumblr_inline_mjv6r45N2Y1qz4rgp.jpg)
+[](/assets/img/tumblr_inline_mjv6r45N2Y1qz4rgp.jpg)

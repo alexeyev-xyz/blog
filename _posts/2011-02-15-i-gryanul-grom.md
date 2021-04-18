@@ -7,4 +7,4 @@ tags: [art, заметки]
 author: vlaim
 ---
 
-![](/blog/assets/img/tumblr_lgnxlnzFVS1qfp23s.jpg)
+![](/assets/img/tumblr_lgnxlnzFVS1qfp23s.jpg)

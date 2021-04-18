@@ -7,6 +7,6 @@ tags: [art, graphic]
 author: vlaim
 ---
 
-![](/blog/assets/img/tumblr_lgx5wl9vKC1qfp23s.png)
+![](/assets/img/tumblr_lgx5wl9vKC1qfp23s.png)
 
 Мерч от темных сил <3

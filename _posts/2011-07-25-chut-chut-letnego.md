@@ -13,8 +13,8 @@ author: vlaim
 
 Вот что из этого вышло:
 
-![image](/blog/assets/img/tumblr_lowoizm1u21qfp23s.jpg)
+![image](/assets/img/tumblr_lowoizm1u21qfp23s.jpg)
 
-![image](/blog/assets/img/tumblr_lowokz9ftq1qfp23s.jpg)
+![image](/assets/img/tumblr_lowokz9ftq1qfp23s.jpg)
 
-![image](/blog/assets/img/tumblr_lowonnipwD1qfp23s.jpg)
+![image](/assets/img/tumblr_lowonnipwD1qfp23s.jpg)

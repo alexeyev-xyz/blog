@@ -19,4 +19,4 @@ author: vlaim
 спросил:
 - Послушайте, а когда же вы думаете?
 
-![](/blog/assets/img/Image66.gif)
+![](/assets/img/Image66.gif)

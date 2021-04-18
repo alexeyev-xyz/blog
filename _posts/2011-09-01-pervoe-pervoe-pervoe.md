@@ -11,4 +11,4 @@ author: vlaim
 
 Спасибо, лето’11! Я запомнил тебя!
 
-![image](/blog/assets/img/tumblr_lqupgcpSsK1qfp23s.jpg)
+![image](/assets/img/tumblr_lqupgcpSsK1qfp23s.jpg)

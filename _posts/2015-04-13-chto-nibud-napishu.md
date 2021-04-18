@@ -9,6 +9,6 @@ author: vlaim
 
 **Последняя неделя учебы в бакалавриате**
 
-![Nu_pizdets](/blog/assets/img/Nu_pizdets.gif)
+![Nu_pizdets](/assets/img/Nu_pizdets.gif)
 
 Курсовая сложнее диплома, ок.

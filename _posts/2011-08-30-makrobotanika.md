@@ -11,6 +11,6 @@ author: vlaim
 
 …вот что из этого вышло…
 
-![image](/blog/assets/img/tumblr_lqr08iWzJk1qfp23s.jpg)
+![image](/assets/img/tumblr_lqr08iWzJk1qfp23s.jpg)
 
-![image](/blog/assets/img/tumblr_lqr0cuIs4k1qfp23s.jpg)
+![image](/assets/img/tumblr_lqr0cuIs4k1qfp23s.jpg)

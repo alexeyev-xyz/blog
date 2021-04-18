@@ -11,6 +11,6 @@ author: vlaim
 
 Цифры на карте  это время в минутах, если идти пешком.
 
-[![MssQFg6Zjlc](/blog/assets/img/MssQFg6Zjlc.jpg)](/blog/assets/img/MssQFg6Zjlc.jpg)
+[![MssQFg6Zjlc](/assets/img/MssQFg6Zjlc.jpg)](/assets/img/MssQFg6Zjlc.jpg)
 
-Фуллсайз лежит тут: [/blog/assets/img/MssQFg6Zjlc.jpg](/blog/assets/img/MssQFg6Zjlc.jpg)
+Фуллсайз лежит тут: [/assets/img/MssQFg6Zjlc.jpg](/assets/img/MssQFg6Zjlc.jpg)

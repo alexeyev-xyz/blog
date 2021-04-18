@@ -14,4 +14,4 @@ author: vlaim
 
 **ДАТИРОВАНО: 02.02.2011 22:48 **
 
-<span><span>![image](/blog/assets/img/tumblr_lgobgn9XX71qfp23s.jpg)</span></span>
+<span><span>![image](/assets/img/tumblr_lgobgn9XX71qfp23s.jpg)</span></span>

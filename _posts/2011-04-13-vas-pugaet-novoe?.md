@@ -17,4 +17,4 @@ author: vlaim
 
 Что-то есть в темной пучине океана и вспышках света, символе перемен.
 
-![image](/blog/assets/img/tumblr_ljlegiQgDZ1qfp23s.jpg)
+![image](/assets/img/tumblr_ljlegiQgDZ1qfp23s.jpg)

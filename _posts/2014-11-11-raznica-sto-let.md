@@ -9,10 +9,10 @@ author: vlaim
 
 Это мой студенческий (2011 год)
 
-![photo](/blog/assets/img/photo-300x224.jpg)
+![photo](/assets/img/photo-300x224.jpg)
 
 А такие выдавали 100 лет до этого (1911)
 
-![y1YC9HOyJeA](/blog/assets/img/y1YC9HOyJeA-300x300.jpg)
+![y1YC9HOyJeA](/assets/img/y1YC9HOyJeA-300x300.jpg)
 
 Фото взял [отсюда](http://vk.com/lissoff?w=wall303506_60432)

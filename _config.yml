@@ -1,8 +1,8 @@
 title: Vladislav Alexeyev | Blog
-email: vladislav.j.alexeyev@gmail.com
+email: vlad@alexeyev.me
 permalink: ':title/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://ru.alexeyev.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Vladislav Alexeyev # add your name
@@ -10,7 +10,6 @@ author-pic: ava.png
 about-author: Сон разума рождает чудовищ
 
 # Contact links
-email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle

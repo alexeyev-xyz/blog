@@ -9,6 +9,6 @@ author: vlaim
 
 **¯\_(ツ)_/¯**
 
-[![_mov](/blog/assets/img/mov.gif)](/blog/assets/img/mov.gif)
+[![_mov](/assets/img/mov.gif)](/assets/img/mov.gif)
 
 ЗЫ - конвертер артефакт присобачил :(

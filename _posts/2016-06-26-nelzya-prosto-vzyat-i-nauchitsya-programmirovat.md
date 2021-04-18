@@ -7,7 +7,7 @@ tags: [переводы, статьи]
 author: vlaim
 ---
 
-![Nelzya-prosto-tak-vzyat-i_orig_(1)](/blog/assets/img/Nelzya-prosto-tak-vzyat-i_orig_1.jpg) 
+![Nelzya-prosto-tak-vzyat-i_orig_(1)](/assets/img/Nelzya-prosto-tak-vzyat-i_orig_1.jpg) 
 
 
 «Нельзя просто так взять и войти в Мордор.» Эта картинка сделала Шона Бина бессмертным, хотя в фильмах [он умирает больше, чем все остальные актеры](http://nerdist.com/does-sean-bean-really-die-more-than-other-actors/)
@@ -34,7 +34,7 @@ author: vlaim
 
 <span style="font-weight: 400;">_Маркетолог:_ Конечно. Купи мой курс/мою программу/мою книгу и стань высококвалифицированным специалистом всего за один месяц.</span>
 
-![zatknis-i-vozmi-moi-dengi_34093813_big_](/blog/assets/img/zatknis-i-vozmi-moi-dengi_34093813_big_.png)
+![zatknis-i-vozmi-moi-dengi_34093813_big_](/assets/img/zatknis-i-vozmi-moi-dengi_34093813_big_.png)
 
 <span style="font-weight: 400;">_Человек 2 (спустя месяц):_ Я-то думал, что программировать и правда просто. Наверное, просто я слишком глуп для всего этого.</span>
 
@@ -64,7 +64,7 @@ author: vlaim
 
 <span style="font-weight: 400;">“Проклятие знаний” не дает многим опытным разработчикам взглянуть на процесс написания кода глазами новичков и в результате получаются туториалы, которые гугл выводит первой строкой в поисковой выдаче.</span>
 
-![how to draw horse](/blog/assets/img/how-to-draw-horse.jpg)
+![how to draw horse](/assets/img/how-to-draw-horse.jpg)
 
 <span style="font-weight: 400;">Как часто вам удавалось запрограммировать что-нибудь по туториалу из гугла, не получив в результате выполнения какую-нибудь загадочную ошибку?</span>
 

@@ -7,7 +7,7 @@ tags: [стихи, mydelirium]
 author: vlaim
 ---
 
-![](/blog/assets/img/tumblr_lgm21cQ36o1qfp23s.jpg)
+![](/assets/img/tumblr_lgm21cQ36o1qfp23s.jpg)
 
 > **Mementum Mori**
 > 

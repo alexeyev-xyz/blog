@@ -9,4 +9,4 @@ author: vlaim
 
 > [http://lib.ru/INOFANT/GARDNER_M/island.txt](http://lib.ru/INOFANT/GARDNER_M/island.txt)
 
-![](/blog/assets/img/tumblr_ll8pcjh2Fg1qfp23s.png)
+![](/assets/img/tumblr_ll8pcjh2Fg1qfp23s.png)

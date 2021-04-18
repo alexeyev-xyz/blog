@@ -11,5 +11,5 @@ author: vlaim
 
 **Виртуальный Я**
 
-**![image](/blog/assets/img/tumblr_lfzubg1rXn1qfp23s.png)
+**![image](/assets/img/tumblr_lfzubg1rXn1qfp23s.png)
 **

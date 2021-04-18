@@ -7,4 +7,4 @@ tags: путешествия Москва Россия
 author: vlaim
 ---
 
-****[![DSCN7949](/blog/assets/img/DSCN7949.jpg)](/blog/assets/img/DSCN7949.jpg) [![DSCN8045](/blog/assets/img/DSCN8045.jpg)](/blog/assets/img/DSCN8045.jpg)[![DSCN8078](/blog/assets/img/DSCN8078.jpg)](/blog/assets/img/DSCN8078.jpg)
+****[![DSCN7949](/assets/img/DSCN7949.jpg)](/assets/img/DSCN7949.jpg) [![DSCN8045](/assets/img/DSCN8045.jpg)](/assets/img/DSCN8045.jpg)[![DSCN8078](/assets/img/DSCN8078.jpg)](/assets/img/DSCN8078.jpg)
