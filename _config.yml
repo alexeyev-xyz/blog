@@ -1,8 +1,8 @@
 title: Vladislav Alexeyev | Blog
 email: vladislav.j.alexeyev@gmail.com
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://ru.alexeyev.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Vladislav Alexeyev # add your name
