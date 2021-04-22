@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Шутки - это маленькие птички"
-date: 2011-01-07 00:00:00 +0300
+date: 2011-01-07 19:00:00 +0300
 img: "Image66.gif"
 tags: [заметки]
 author: vlaim

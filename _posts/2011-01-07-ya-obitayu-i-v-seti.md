@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Я обитаю и в сети"
-date: 2011-01-07 00:00:00 +0300
+date: 2011-01-07 16:00:00 +0300
 img: "x_442e6b5b.jpg"
 tags: [mydelirium]
 author: vlaim
