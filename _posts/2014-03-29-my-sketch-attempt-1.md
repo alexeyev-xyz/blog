@@ -7,4 +7,7 @@ tags: [art, скетч]
 author: vlaim
 ---
 
-Two cats in mess. Black gel pen, A4 ![](/assets/img/tumblr_inline_n3766gBJjR1qfp23s.jpg)
+Two cats in mess. Black gel pen, A4 
+
+
+![](/assets/img/tumblr_inline_n3766gBJjR1qfp23s.jpg)
